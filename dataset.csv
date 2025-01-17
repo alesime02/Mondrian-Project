@@ -1,0 +1,1001 @@
+id,name,birthday,country,zip-code,gender,education,salary,height,weight,condition
+0,Ruggero Fantoni,1990-05-19,Polonia,16143,N/D,high schools,672791.1741439601,132,90,stomach
+1,Antonietta Visconti,1948-08-12,Mongolia,16138,F,phd,492150.280495977,180,54,headache
+2,Alessia Barsanti,1985-12-08,Burkina Faso,16155,M,high schools,663948.8019238333,143,73,headache
+3,Ermanno Caccianemico,2006-08-21,Cile,16152,O,elementary schools,384636.8423048114,174,47,flu
+4,Alfredo Zamorani,1980-05-25,Oman,16133,O,high schools,304497.0102450841,141,122,headache
+5,Lazzaro Falier,1954-12-27,Vietnam,16142,M,phd,756124.7700129622,121,51,hearth disease
+6,Antonina Garozzo,2006-03-05,Lituania,16130,M,elementary schools,587076.0814487648,189,80,headache
+7,Nicoletta Sinisi,1930-03-26,Gibuti,16158,O,bachelor degree,193370.2270808164,132,127,broken bones
+8,Michele Chiappetta,1967-08-17,Senegal,16136,N/D,master degree,17927.750475694393,159,111,headache
+9,Rosa Gianvecchio,1961-10-14,Zambia,16138,M,elementary schools,502939.7829798514,188,57,broken bones
+10,Dina Balbi,1975-02-28,Lituania,16149,O,middle schools,636090.9639001488,149,85,hearth disease
+11,Raffaello Roccabonella,1999-08-27,Niue,16155,F,bachelor degree,535399.599908272,160,142,stomach
+12,Dott. Filippa Paltrinieri,1972-01-09,Nepal,16126,M,high schools,676560.8127595576,182,45,flu
+13,Sig.ra Beatrice Anichini,1938-04-24,Groenlandia,16162,O,elementary schools,846672.6984651876,158,100,hearth disease
+14,Fulvio Canetta,1931-11-23,Tunisia,16165,N/D,elementary schools,596062.3840627811,150,76,broken bones
+15,Rossana Speri-Bertoni,1972-05-04,Vanuatu,16124,F,high schools,835127.335498548,199,65,flu
+16,Tiziano Pavanello-Zacchia,1944-10-27,Georgia del sud e South Sandwich Islands,16159,M,bachelor degree,973767.4402734842,166,107,hearth disease
+17,Stella Lettiere,1950-12-27,Isole Norfolk,16121,O,master degree,871579.3856058052,180,143,hearth disease
+18,Claudia Beccaria,2023-04-23,Groenlandia,16165,N/D,phd,468907.9065980971,151,103,stomach
+19,Patrizio Trebbi,1949-08-08,Messico,16139,N/D,high schools,253197.8944770963,121,141,broken bones
+20,Pasquale Orengo-Chiaramonte,2008-12-05,Oman,16144,N/D,elementary schools,477429.41203374014,170,131,backpain
+21,Giulietta Cammarata,1989-11-27,Honduras,16122,F,phd,61434.87862582608,193,75,stomach
+22,Rosa Giulietti,1974-06-28,Argentina,16166,N/D,elementary schools,345943.42801635555,129,50,headache
+23,Michele Redi,2011-09-23,Egitto,16131,F,phd,842937.6519814725,198,49,hearth disease
+24,Filippa Pasqua-Pelli,2018-01-27,Repubblica Centrale Africana,16155,F,elementary schools,365562.64874777535,124,103,stomach
+25,Pellegrino Nitti,2001-11-21,Russia,16142,M,master degree,963775.5702374133,174,55,flu
+26,Micheletto Salandra,1943-12-15,Isole Solomon,16130,O,bachelor degree,819047.4723844143,125,114,headache
+27,Arsenio Molesini,2010-02-03,Guernsey,16167,F,master degree,113000.31080352869,198,71,flu
+28,Griselda Paolucci-Druso,1991-02-21,Malta,16147,N/D,middle schools,732953.656227384,141,124,flu
+29,Eraldo Antonetti,1994-02-16,Antigua e Barbuda,16164,N/D,master degree,422862.97146888584,149,71,flu
+30,Pasqual Battaglia,1967-07-13,Bulgaria,16139,F,elementary schools,358286.2316757237,192,126,headache
+31,Fabia Tron,1969-10-15,Oman,16166,M,bachelor degree,479739.1847334019,152,55,backpain
+32,Sig.ra Bettina Bernetti,2005-04-11,Heard Island and McDonald Islands,16153,N/D,middle schools,466300.28088595363,133,147,flu
+33,Luciano Bellini-Trincavelli,1983-11-23,Reunion,16165,O,master degree,131974.32062891967,158,116,headache
+34,Micheletto Cociarelli,1934-02-01,Austria,16150,N/D,high schools,208712.3272003595,124,130,headache
+35,Flavio Visintini,1966-02-01,Macedonia del Nord,16164,O,phd,429726.3935923072,178,96,headache
+36,Raffaele Carosone,2013-02-08,Myanmar,16134,M,bachelor degree,985261.1212971293,161,128,backpain
+37,Sig. Domenico Crespi,2010-06-22,Costa Rica,16149,N/D,master degree,308546.1480121745,147,148,backpain
+38,Matilda Interminelli,1939-07-01,Tajikistan,16126,F,phd,541233.1050379403,169,96,hearth disease
+39,Gianmarco Tartaglia,1992-10-25,Brasile,16147,F,bachelor degree,197154.0605745654,147,136,backpain
+40,Vanessa Togliatti,1960-10-23,Bulgaria,16163,M,elementary schools,269810.1016503127,130,52,hearth disease
+41,Letizia Carli,1954-01-11,Cameroon,16137,O,master degree,229538.48196286085,170,91,hearth disease
+42,Leonardo Trezzini-Piacentini,2013-12-22,Antartide (territori a sud del 60° parallelo),16127,N/D,phd,711623.3173659873,151,76,flu
+43,Sig. Ivan Sanudo,1938-11-07,Burkina Faso,16145,F,bachelor degree,236895.35442313037,134,54,headache
+44,Rossana Moneta,1951-09-26,Tokelau,16129,O,middle schools,681376.7871483968,139,90,hearth disease
+45,Sonia Barberini,2019-02-23,Mauritius,16155,M,master degree,825263.0184507259,199,111,broken bones
+46,Rolando Barcella,1930-01-21,Malta,16136,O,master degree,881646.680358395,196,148,broken bones
+47,Rosalia Omma,1999-03-12,Maldive,16160,N/D,master degree,502656.6390165163,122,76,broken bones
+48,Rosina Salvini-Travia,1993-05-12,Samoa,16152,N/D,elementary schools,730857.3112128122,137,57,broken bones
+49,Ennio Bodoni-Bartoli,1974-12-13,Nauru,16162,O,bachelor degree,584947.5657212269,134,62,broken bones
+50,Mattia Zanazzo,1961-05-14,Mozambico,16154,F,phd,156663.93545280932,146,82,broken bones
+51,Valentina Pietrangeli-Gentileschi,1949-07-25,Samoa,16145,F,bachelor degree,7914.5925262495975,122,120,broken bones
+52,Federigo Trentin-Tosi,1997-01-12,Sud Africa,16167,N/D,middle schools,257887.03202108544,143,143,broken bones
+53,Ottone Malaparte,1931-06-09,Uzbekistan,16142,F,middle schools,567551.2448433951,170,144,stomach
+54,Sig.ra Melina Bellocchio,2005-05-09,Egitto,16123,N/D,elementary schools,223792.9831373271,177,150,broken bones
+55,Claudia Lucchesi,1949-05-02,Malta,16125,M,high schools,376788.44495241495,186,146,stomach
+56,Dott. Donna Brugnaro,2011-01-28,Republicca Kirgiza,16124,M,master degree,824414.8240524604,130,106,hearth disease
+57,Giulietta Vanvitelli,1984-01-24,San Marino,16137,N/D,bachelor degree,298786.57591922244,187,145,headache
+58,Dott. Maria Mazzini,1971-04-22,Finlandia,16137,O,bachelor degree,707189.6830024137,152,148,stomach
+59,Irma Pergolesi,1965-11-10,Nepal,16130,M,elementary schools,105222.75937703907,198,139,backpain
+60,Raffaella Pellico,1955-06-09,Etiopia,16139,O,bachelor degree,918105.9239196173,198,112,headache
+61,Rosaria Baglioni,1979-06-10,Sri Lanka,16140,O,high schools,18410.694574237496,189,120,broken bones
+62,Carolina Morrocco,2019-10-03,Costa Rica,16124,F,phd,285471.361135219,160,147,stomach
+63,Isa Farinelli,1982-03-16,Liberia,16152,O,master degree,349131.2645925021,189,72,flu
+64,Dott. Cecilia Garozzo,1955-07-09,Cameroon,16140,O,high schools,322339.0429419548,151,122,flu
+65,Emma Tosi-Pucci,1980-05-22,Jersey,16125,N/D,elementary schools,226321.768058941,178,83,stomach
+66,Dott. Romeo Gianvecchio,1938-09-27,Arabia Saudita,16134,M,high schools,48715.88469519317,123,127,hearth disease
+67,Dott. Evangelista Andreozzi,1988-12-07,Estonia,16146,M,bachelor degree,896495.6692353544,164,68,hearth disease
+68,Sig.ra Isa Busoni,1978-04-02,Nauru,16152,F,phd,969416.4934388674,157,110,broken bones
+69,Dott. Adelmo Tacchini,1941-04-06,United States Minor Outlying Islands,16155,F,phd,734900.4076652568,152,137,flu
+70,Gionata Riccati,1959-11-12,Cipro,16159,F,elementary schools,236460.4604499263,122,64,backpain
+71,Giustino Piccinni,1978-04-14,Antartide (territori a sud del 60° parallelo),16132,O,elementary schools,583638.9646837502,173,51,stomach
+72,Liana Raimondi,2022-07-18,Nauru,16167,N/D,elementary schools,807835.6681991157,199,45,headache
+73,Antonietta Tasca,1983-11-13,Guadalupa,16136,F,phd,791389.3041628427,159,57,backpain
+74,Damiano Monti,2004-04-04,Myanmar,16140,M,elementary schools,311438.5270666091,179,91,backpain
+75,Danilo Nitto,1997-03-01,Guam,16163,M,bachelor degree,862927.9210527579,194,86,broken bones
+76,Federica Maderno-Favata,1962-09-04,Tailandia,16137,M,high schools,684306.62602812,168,71,backpain
+77,Annalisa Tropea,1936-11-01,Sri Lanka,16153,O,elementary schools,448090.4089026808,164,139,broken bones
+78,Dott. Isa Ferrata,2011-02-21,Antille Olandesi,16145,F,master degree,568792.3853864752,160,44,headache
+79,Valerio Berengario,2008-07-02,Senegal,16139,M,phd,998552.3731082914,176,97,stomach
+80,Cirillo Abatantuono,1930-05-09,Paraguay,16158,O,elementary schools,555453.314030974,153,63,backpain
+81,Sig. Maurilio Antonioni,1942-08-27,Peru,16150,N/D,high schools,33276.75408839637,178,68,broken bones
+82,Evangelista Salandra,2019-01-18,Capo Verde,16132,O,high schools,174573.52832060526,127,70,backpain
+83,Alessio Goldstein,1966-07-04,Bolivia,16141,O,master degree,803123.662548187,177,111,hearth disease
+84,Marcantonio Gianetti,2011-10-04,Portogallo,16162,F,master degree,107401.23402734425,191,66,stomach
+85,Romeo Dandolo,1952-05-12,Guinea-Bissau,16155,N/D,phd,725842.3875071212,184,59,flu
+86,Dott. Lazzaro Telesio,2021-10-08,Lesotho,16143,M,bachelor degree,157536.0463487534,174,144,headache
+87,Veronica Avogadro,1977-07-15,Mauritius,16133,N/D,bachelor degree,199460.669332325,176,71,hearth disease
+88,Pomponio Mannoia,1949-04-06,Wallis and Futuna,16131,M,middle schools,57929.31299623427,183,124,headache
+89,Sig.ra Jolanda Cendron,1964-12-26,Cile,16130,F,bachelor degree,517115.08017655317,157,77,broken bones
+90,Antonia Ferrante,1990-05-05,Mongolia,16162,F,master degree,855957.5486981865,185,97,headache
+91,Atenulf Cibin,1950-11-11,Pitcairn Islands,16164,N/D,bachelor degree,759409.493165834,195,124,hearth disease
+92,Pierina Fuseli,2013-11-19,Serbia,16137,O,bachelor degree,381182.2312259904,169,115,hearth disease
+93,Sig.ra Giovanna Leoncavallo,1940-05-02,Tanzania,16153,N/D,elementary schools,244179.4703750434,158,75,hearth disease
+94,Orazio Bombieri,1964-01-09,Barbados,16140,O,phd,371344.3639317526,132,49,broken bones
+95,Aria Cimarosa-Cilea,1938-02-25,Mayotte,16131,N/D,master degree,848498.4440592991,162,58,flu
+96,Berenice Jilani,1943-07-06,Samoa,16129,O,high schools,29135.787719056894,135,45,broken bones
+97,Roman Pacomio,1995-04-23,Benin,16125,M,high schools,137924.6979707629,181,135,hearth disease
+98,Enzo Comolli,1997-09-26,Nuova Zelanda,16128,M,bachelor degree,560047.0418591608,137,40,backpain
+99,Raffaellino Interiano,1947-08-19,Andorra,16165,N/D,phd,204627.55730744297,197,137,backpain
+100,Ricciotti Galiazzo-Bertoni,2020-08-07,Egitto,16132,N/D,middle schools,44541.58869141056,172,58,backpain
+101,Dolores Cristoforetti-Boccioni,2017-11-06,Armenia,16138,M,elementary schools,866211.9001446642,184,84,flu
+102,Sig. Amleto Leone,1949-10-17,Burundi,16144,F,middle schools,323336.9671648203,136,82,backpain
+103,Angelica Pellico-Spallanzani,1954-06-12,Giamaica,16129,O,middle schools,39633.84141574111,133,63,flu
+104,Guarino Dellucci,1932-12-01,Nepal,16152,F,high schools,349480.5354074252,170,129,broken bones
+105,Danilo Ioppi,2006-11-11,Svizzera,16146,N/D,middle schools,697696.3963614963,163,78,stomach
+106,Sig. Micheletto Barese,1974-11-21,Polinesia Francese,16159,F,high schools,859644.086014324,168,148,hearth disease
+107,Agostino Vecellio-Campise,1939-03-13,Kenya,16135,N/D,master degree,160533.5210174186,158,115,backpain
+108,Livia Dallara,1955-01-26,Nicaragua,16161,M,master degree,653974.9069178532,142,150,flu
+109,Romina Segni,2002-04-23,Messico,16129,F,middle schools,304569.9078136819,169,40,backpain
+110,Melania Rapisardi,1992-01-05,Georgia,16137,M,bachelor degree,120189.95302005409,131,98,stomach
+111,Guglielmo Capecchi,1982-06-08,Mozambico,16140,O,bachelor degree,24194.862801022566,122,130,headache
+112,Sig. Nino Bocca,1938-01-20,Antigua e Barbuda,16136,O,phd,722815.5684694016,176,100,broken bones
+113,Sig. Milo Sonnino,1978-05-27,Georgia del sud e South Sandwich Islands,16123,M,middle schools,934357.6765476549,142,79,flu
+114,Melissa Leone-Bonino,2015-05-04,Singapore,16128,F,master degree,814765.8488712427,170,144,hearth disease
+115,Loredana Guicciardini,1965-03-24,Singapore,16130,O,middle schools,348298.4289646061,167,61,flu
+116,Sig. Alberto Fornaciari,1989-02-04,Gibilterra,16160,M,phd,948092.171338199,160,145,flu
+117,Dott. Lauretta Carriera,1958-08-02,Saint Vincent and the Grenadines,16158,F,phd,148881.46774421184,171,71,hearth disease
+118,Bruno Gentili,1991-08-20,Isole Vergini Britanniche,16132,F,middle schools,410829.95097177685,198,85,broken bones
+119,Rocco Toscani,2017-04-25,Egitto,16142,N/D,high schools,957833.7195143355,154,117,broken bones
+120,Virginia Morlacchi,1976-05-14,Mongolia,16144,F,phd,626939.4055067647,153,73,flu
+121,Pasqual Morabito,1948-10-02,Francia,16136,N/D,elementary schools,621015.6272641624,165,123,broken bones
+122,Ermenegildo Argurio,1969-03-02,Finlandia,16162,F,phd,52685.86562582811,128,143,stomach
+123,Ludovica Valmarana-Moschino,1936-10-27,Mauritius,16128,M,elementary schools,969117.0993517373,145,145,broken bones
+124,Rodolfo Carullo,1932-03-22,Niue,16140,O,elementary schools,148830.85279768347,139,136,backpain
+125,Dott. Elmo Bajardi,1945-08-19,Nicaragua,16125,O,bachelor degree,785516.1628314849,131,79,stomach
+126,Lilla Govoni-Ossani,2010-10-09,Capo Verde,16141,F,high schools,405007.74926269037,171,59,hearth disease
+127,Laura Pellico,1937-03-10,Islanda,16165,M,phd,983609.9345548016,146,146,hearth disease
+128,Sig.ra Valentina Moschino,1959-03-03,Peru,16152,O,bachelor degree,105963.69946098726,173,139,hearth disease
+129,Cesare Morgagni,1935-09-28,Repubblica Ceca,16123,F,elementary schools,284536.63431783527,137,89,hearth disease
+130,Giulia Buscetta,1983-11-10,Sao Tome and Principe,16159,N/D,high schools,978852.6468128846,183,142,broken bones
+131,Sig. Roberto Trentin,2022-08-01,Mali,16147,N/D,phd,249625.5091349441,131,91,flu
+132,Sandra Bosio,1997-04-14,Mongolia,16163,F,phd,967336.4493027825,163,105,backpain
+133,Sabatino Nosiglia,1932-10-27,Bhutan,16146,O,elementary schools,566052.2357488193,172,71,flu
+134,Milena Rubbia-Donati,2018-09-14,Northern Mariana Islands,16162,N/D,phd,369731.8920254022,155,79,stomach
+135,Franco Borsellino,1944-02-25,Bielorussia,16138,M,high schools,21833.98691495897,132,44,backpain
+136,Donna Cainero,1984-04-21,Peru,16144,M,middle schools,733402.330742882,145,75,stomach
+137,Sig.ra Sole Barsanti,1949-06-08,Serbia,16122,M,master degree,559056.2983998032,148,108,hearth disease
+138,Cesare Ruggeri,1990-06-22,Saint Martin,16153,O,high schools,174700.5990516879,165,43,stomach
+139,Sig. Giustino Avogadro,1975-09-07,Portogallo,16131,N/D,phd,918720.586834263,120,147,hearth disease
+140,Fabia Druso,1954-11-03,Mozambico,16158,O,elementary schools,172837.56640250247,155,60,stomach
+141,Liliana Luna,2022-10-06,Kiribati,16155,N/D,phd,811891.3468775592,194,74,flu
+142,Dott. Simonetta Zoppetti,1951-06-03,Polinesia Francese,16138,N/D,high schools,131393.90248253368,131,97,broken bones
+143,Mariana Procacci-Traetta,1943-08-04,Malawi,16127,O,middle schools,153377.35563098,189,128,hearth disease
+144,Mauro Aporti,2004-05-05,Trinidad e Tobago,16128,M,master degree,24599.5428089284,178,100,stomach
+145,Lucia Conte,1978-07-27,Trinidad e Tobago,16160,N/D,phd,410811.1087350066,158,81,broken bones
+146,Ruggiero Navone,1988-02-14,Peru,16129,F,high schools,520089.5249917399,127,60,flu
+147,Lilla Luria,1963-10-06,Rwanda,16148,O,elementary schools,557785.2599763458,138,45,backpain
+148,Piergiorgio Lamborghini,2004-04-22,Armenia,16130,M,bachelor degree,790770.1073697251,161,69,broken bones
+149,Giorgio Brenna,1941-10-27,Antigua e Barbuda,16133,F,master degree,160833.70264205532,191,144,flu
+150,Giorgia Pedroni-Comisso,2019-12-08,Bermuda,16135,M,middle schools,188965.46142041727,143,86,stomach
+151,Agostino Mimun-Polesel,1980-09-16,Olanda,16135,N/D,phd,677120.1805298498,178,96,broken bones
+152,Antonello Tamburini,2011-12-13,Regno Unito,16127,M,master degree,565192.132157933,159,78,headache
+153,Calcedonio Schicchi,2019-12-13,Zambia,16164,F,middle schools,710708.5632619978,166,51,headache
+154,Gianni Bertoni,2003-01-02,Nicaragua,16164,M,bachelor degree,890851.3359124729,166,66,stomach
+155,Irma Farnese,1958-06-01,Mozambico,16124,M,master degree,194944.51584085048,134,61,backpain
+156,Ernesto Callegaro-Chindamo,2000-05-01,Yemen,16148,N/D,phd,828262.0410007709,128,65,hearth disease
+157,Vittorio Bajamonti,1989-10-26,Timor-Leste,16122,O,bachelor degree,175783.85278233056,178,130,flu
+158,Federigo Morosini,1960-09-09,Libyan Arab Jamahiriya,16142,F,phd,907866.1310605785,194,149,headache
+159,Sig. Luca Casagrande,2009-06-07,Isole Vergini Statunitensi,16146,F,bachelor degree,244564.94679235897,126,69,stomach
+160,Cecilia Fabbri,1949-07-01,Svizzera,16157,M,master degree,283629.92793876916,130,125,broken bones
+161,Dott. Sante Piccinni,1948-10-17,Saint Lucia,16121,N/D,elementary schools,335143.5590563468,141,120,flu
+162,Venancio Bignami,1952-03-15,Wallis and Futuna,16154,F,master degree,708559.2876285526,152,113,flu
+163,Melania Tarchetti,1987-04-05,Nepal,16121,O,phd,398009.4419913602,182,58,stomach
+164,Paloma Veneziano-Peano,2009-09-22,Croazia,16142,N/D,middle schools,497365.81162067916,177,87,hearth disease
+165,Manuel Cendron,1950-02-17,Guinea Equatoriale,16147,N/D,high schools,979406.5083770776,141,62,hearth disease
+166,Aurora Correr-Iannelli,2016-12-05,Swaziland,16137,N/D,high schools,574607.482065838,143,110,hearth disease
+167,Daniele Mondaini,2022-04-11,Angola,16154,O,high schools,268932.72342985595,156,126,broken bones
+168,Augusto Iacovelli,1940-05-16,Papua Nuova Guinea,16123,M,high schools,333132.67017960415,196,69,backpain
+169,Sig. Luciano Blasi,2014-09-06,Palestina,16156,F,phd,29699.38492470481,182,50,broken bones
+170,Guglielmo Babato,1953-06-08,Tuvalu,16135,O,phd,187229.016624045,187,123,backpain
+171,Stella Orsini,2002-08-21,Città del Vaticano,16125,M,high schools,509637.7338449166,195,102,stomach
+172,Sig. Gioachino Paganini,1933-08-26,Tuvalu,16164,F,master degree,166701.81781554382,169,115,flu
+173,Nedda Jovinelli,2018-10-13,Ucraina,16146,O,elementary schools,62474.78402028672,123,106,broken bones
+174,Dott. Lidia Iannelli,1955-09-09,Serbia,16149,N/D,phd,186363.03076012706,157,95,flu
+175,Annamaria Soffici,1939-03-14,Palau,16157,O,phd,466242.2698270162,194,97,hearth disease
+176,Eleanora Cusano,1955-01-24,Rwanda,16134,N/D,master degree,30073.81836056533,165,80,flu
+177,Sig.ra Mariana Columbo,1953-11-13,Canada,16137,F,middle schools,512045.4264840836,160,143,stomach
+178,Morena Regge,1973-08-07,Algeria,16148,F,middle schools,339427.8421935173,138,136,backpain
+179,Antonella Belletini,2009-06-26,Brasile,16164,F,master degree,583006.6351051269,194,81,stomach
+180,Sig.ra Mercedes Gramsci,2001-10-26,Benin,16135,O,high schools,524534.399560556,135,60,flu
+181,Fiorenzo Bellocchio,1949-02-08,Olanda,16151,M,middle schools,537691.5028316202,171,52,hearth disease
+182,Lazzaro Interiano,1987-06-16,Mauritania,16149,F,master degree,673973.0755675974,158,143,backpain
+183,Sig.ra Paulina Mantegna,1950-09-02,Trinidad e Tobago,16155,M,middle schools,489394.9846345522,177,103,stomach
+184,Roberto Pezzali,1991-02-06,Bangladesh,16161,O,elementary schools,901479.4218423726,159,76,backpain
+185,Iolanda Gozzano,1992-10-23,Afghanistan,16126,M,elementary schools,281228.7462408106,165,134,stomach
+186,Temistocle Camilleri,1964-03-02,Aruba,16157,N/D,middle schools,472413.8159320217,161,77,broken bones
+187,Caterina Onisto,2022-10-06,Myanmar,16127,O,middle schools,630959.7186995872,192,134,backpain
+188,Pietro Vianello,1950-07-10,Cipro,16121,F,high schools,309434.57542635855,174,105,headache
+189,Fabio Gadda,1984-05-12,Samoa,16138,M,middle schools,195518.55500643168,121,97,stomach
+190,Piermaria Faranda,1963-02-24,Repubblica del Laos,16135,F,master degree,865558.0531291679,166,72,hearth disease
+191,Antonina Pometta,1952-03-02,Venezuela,16148,N/D,high schools,336039.0506876032,141,150,stomach
+192,Veronica Bartoli,1993-03-11,Turchia,16139,O,high schools,334483.42468481895,172,66,headache
+193,Sig.ra Antonina Sbarbaro,1975-08-05,Western Sahara,16150,F,phd,281538.46765922784,123,73,flu
+194,Romana Gulotta,1962-01-26,Islanda,16163,N/D,middle schools,850110.5880557682,121,104,flu
+195,Benvenuto Verga,2006-02-23,Costa Rica,16163,M,master degree,206209.79098665458,156,137,broken bones
+196,Dott. Letizia Ceravolo,1932-04-20,Montserrat,16145,N/D,master degree,891612.7273446401,136,59,flu
+197,Mario Ligorio,1960-11-22,Sao Tome and Principe,16154,F,middle schools,790946.2196469256,174,144,flu
+198,Arnaldo Verdi-Pellegrini,1983-09-26,Lussemburgo,16143,F,middle schools,321899.01031849,168,145,hearth disease
+199,Dott. Romolo Trentin,1941-11-01,Guyana,16151,N/D,phd,550617.4801237324,148,45,broken bones
+200,Puccio Pasqua-Trezzini,2003-07-04,Heard Island and McDonald Islands,16151,F,phd,57881.765770110724,191,52,headache
+201,Priscilla Liverotti,1964-06-12,Mongolia,16132,M,phd,577483.6698954919,126,137,broken bones
+202,Elena Sismondi,1966-12-03,Azerbaijan,16127,F,high schools,475826.747107622,170,146,hearth disease
+203,Tatiana Caccianemico-Saraceno,1943-03-14,Albania,16152,F,elementary schools,511878.34487734205,189,114,broken bones
+204,Paloma Farina,1932-04-21,Giamaica,16150,N/D,bachelor degree,48068.12595763843,170,146,backpain
+205,Gloria Siffredi,2007-12-08,Lussemburgo,16157,N/D,phd,603284.5233257886,178,146,broken bones
+206,Micheletto Pirandello,1964-05-01,Armenia,16141,O,bachelor degree,27350.48859379252,182,59,broken bones
+207,Diana Ceci,1983-04-02,Madagascar,16135,F,phd,202615.06575915366,151,73,flu
+208,Giosuè Ricci,1999-01-18,Ungheria,16154,M,bachelor degree,717052.8333341241,166,63,headache
+209,Piero Borromini,1986-07-20,Swaziland,16128,O,bachelor degree,671171.8950192877,166,52,stomach
+210,Clelia Ruggieri,2008-07-09,Myanmar,16167,O,elementary schools,218537.90586986666,171,110,flu
+211,Ruggero Mondaini,1946-03-03,Nigeria,16153,O,phd,441117.4301433517,142,54,hearth disease
+212,Olga Pisano-Gaito,2019-10-19,Isole di Turks and Caicos,16163,O,phd,488437.95419885096,146,86,flu
+213,Loretta Marino-Castelli,1960-01-20,Montenegro,16134,F,high schools,345730.1575363216,146,46,broken bones
+214,Livio Guinizzelli,2020-10-19,Isole Norfolk,16127,N/D,phd,253466.19799392688,152,43,hearth disease
+215,Sig.ra Melania Tosi,1964-09-01,Cina,16145,F,high schools,94043.9036198959,136,148,backpain
+216,Giorgio Giradello,1944-12-01,Peru,16141,O,bachelor degree,235361.91244897587,172,98,stomach
+217,Angelina Taliani,1939-08-07,Vietnam,16154,F,bachelor degree,682637.139055591,174,134,backpain
+218,Emma Maderna,1947-05-25,Antigua e Barbuda,16161,M,high schools,5079.7442388454965,166,129,headache
+219,Pierangelo Lettiere,1979-12-05,Reunion,16165,N/D,middle schools,139096.6305183168,125,134,hearth disease
+220,Fabio Boito,2022-06-04,Croazia,16152,M,middle schools,679913.5673390285,192,138,broken bones
+221,Nicola Guarato,1944-11-02,Bouvet Island (Bouvetoya),16123,M,phd,451737.05513047025,142,41,flu
+222,Gianfranco Calbo,1944-12-13,Norvegia,16141,O,high schools,341246.5467950259,128,110,hearth disease
+223,Eliana Roccabonella,1976-05-15,Portogallo,16162,F,middle schools,923500.842865668,188,119,backpain
+224,Victoria Colletti,1956-11-17,Isole Marshall,16148,F,middle schools,124875.47362857532,129,133,broken bones
+225,Gianni Parini,1939-09-15,Uzbekistan,16162,O,master degree,112042.7848600365,136,129,broken bones
+226,Elladio Tiepolo-Costanzi,1956-11-18,Bhutan,16123,O,phd,736680.5706841924,130,121,stomach
+227,Dott. Rosalia Bosio,1950-06-12,Congo,16164,O,phd,915615.880539752,186,116,broken bones
+228,Paolo Monte,1970-10-15,Samoa,16166,F,high schools,569040.8370190319,190,150,broken bones
+229,Margherita Caracciolo,1990-04-03,Swaziland,16129,N/D,middle schools,190974.07225148455,181,148,headache
+230,Jolanda Tropea,1946-04-09,Heard Island and McDonald Islands,16145,O,elementary schools,456733.151306569,179,41,stomach
+231,Alfredo Tagliafierro,1956-03-05,Svezia,16150,N/D,elementary schools,148843.62264607998,160,47,hearth disease
+232,Lucrezia Badoglio,1959-10-04,Tajikistan,16127,M,middle schools,116398.47909394851,187,127,headache
+233,Giulia Tremonti-Giovine,2008-02-07,Suriname,16129,N/D,bachelor degree,265920.57661198976,160,132,stomach
+234,Simonetta Mazzeo,1963-08-01,Hong Kong,16132,F,middle schools,234652.3638551332,175,67,flu
+235,Leonardo Pistoletto,2011-04-02,Isole Norfolk,16141,N/D,elementary schools,565331.8590856041,163,113,hearth disease
+236,Gaetano Carducci,1980-07-10,Capo Verde,16143,O,phd,389060.58378677524,132,134,stomach
+237,Guido Iannucci,1965-11-23,Oman,16145,N/D,bachelor degree,862221.4037127153,155,145,stomach
+238,Melina Marzorati,1949-06-16,Svizzera,16135,O,middle schools,37830.84509282941,168,108,backpain
+239,Marissa Trobbiani,1990-10-22,Western Sahara,16147,F,phd,324026.80968570797,173,94,hearth disease
+240,Melina Veltroni,2001-04-28,Yemen,16123,N/D,phd,573623.0998894847,142,90,flu
+241,Angelina Bonanno,1995-10-20,Guyana,16129,M,master degree,538134.6027332362,180,147,flu
+242,Gioacchino Sonnino,1999-10-11,Somalia,16125,O,bachelor degree,697316.479126213,126,102,stomach
+243,Dott. Jolanda Faugno,1987-09-17,Iran,16122,M,phd,246028.41665216978,169,111,stomach
+244,Victoria Collina-Spallanzani,1984-06-24,Repubblica Ceca,16133,M,middle schools,317505.0609454422,190,116,backpain
+245,Dott. Aria Nievo,2012-07-20,Sudan,16128,O,master degree,565008.3656491506,193,98,flu
+246,Stella Burcardo,1974-01-15,Madagascar,16135,N/D,middle schools,469511.6728616137,158,45,backpain
+247,Antonella Sismondi,1931-02-27,Afghanistan,16150,F,high schools,206646.14661305348,164,76,flu
+248,Sig. Carlo Nievo,1991-09-06,Polinesia Francese,16157,O,middle schools,334710.7891654582,195,109,stomach
+249,Alphons Garobbio,1955-10-26,Kenya,16140,M,elementary schools,472255.37530647166,181,43,flu
+250,Giovanna Sommaruga-Molesini,1947-11-10,Grenada,16143,F,master degree,384009.2110455295,194,75,backpain
+251,Dott. Franco Agostini,1997-12-14,Senegal,16161,F,bachelor degree,283906.57935497334,160,115,stomach
+252,Annalisa Golgi,2020-02-09,Guadalupa,16154,N/D,middle schools,495354.192278972,172,102,backpain
+253,Sig.ra Alessandra Palombi,1949-03-14,Sri Lanka,16122,N/D,elementary schools,857343.5566281603,170,124,broken bones
+254,Sandro Gradenigo,1962-04-17,Giordania,16143,O,elementary schools,397375.67722964997,141,78,broken bones
+255,Rosaria Pometta,1934-07-26,Zimbabwe,16148,O,phd,733716.7438729308,159,67,stomach
+256,Maria Abatantuono-Falier,1967-04-23,Slovenia,16160,O,phd,953757.4246166043,183,40,hearth disease
+257,Edoardo Jovinelli,2002-09-02,Portogallo,16166,F,elementary schools,751181.4251930495,123,69,flu
+258,Lilla Trentin,1998-10-08,Serbia,16123,F,high schools,699313.3587719438,167,51,backpain
+259,Guido Ruggieri,2015-05-26,Bahrain,16145,F,high schools,348714.60981858306,191,118,backpain
+260,Sig.ra Elena Sansoni,1940-01-14,Togo,16165,O,elementary schools,276726.7387130463,146,84,flu
+261,Margherita Delle,2014-02-22,Burundi,16157,M,master degree,792538.630884696,188,102,headache
+262,Sig.ra Stefania Aulenti,2022-02-03,Venezuela,16150,M,elementary schools,627037.4618446081,195,132,hearth disease
+263,Ignazio Villarosa,1984-05-25,Wallis and Futuna,16146,N/D,elementary schools,511585.86203465925,145,50,backpain
+264,Ansaldo Emanuelli,1975-04-27,Uruguay,16166,O,phd,914488.7986025393,165,150,headache
+265,Fedele Pacomio,1999-11-25,Swaziland,16130,F,bachelor degree,683530.9943145387,179,68,flu
+266,Rosalia Marinetti-Manolesso,2022-05-18,Honduras,16144,F,bachelor degree,521808.4056600628,164,131,stomach
+267,Edoardo Faggiani,2023-01-14,Antille Olandesi,16160,F,elementary schools,25682.094702397462,129,52,headache
+268,Adelasia Micca,1999-09-17,Madagascar,16126,N/D,master degree,382560.764432184,154,133,stomach
+269,Lolita Caracciolo,1953-10-26,Isole Vergini Statunitensi,16166,O,elementary schools,669451.3794840333,161,83,stomach
+270,Rembrandt Rapisardi,1983-05-09,Saint Pierre and Miquelon,16142,M,master degree,825920.6639001598,176,108,stomach
+271,Antonietta Bosurgi,2010-04-13,Wallis and Futuna,16123,N/D,bachelor degree,987156.1174813337,179,108,flu
+272,Niccolò Piane-Crispi,1983-01-02,Isole Falkland (Malvinas),16138,M,bachelor degree,558192.092662962,130,87,flu
+273,Michela Traetta,1939-10-02,United States Minor Outlying Islands,16145,M,high schools,35818.11830621817,138,135,hearth disease
+274,Flavia Paolini,1940-09-21,Qatar,16134,F,phd,148809.56598988228,124,117,hearth disease
+275,Sig.ra Priscilla Cignaroli,1948-05-28,Filippine,16141,N/D,high schools,668458.8930008209,182,139,flu
+276,Gioffre Pennetta,1947-07-07,Yemen,16166,N/D,middle schools,380459.432058901,189,49,flu
+277,Annunziata Boito,1970-02-17,Grenada,16158,N/D,bachelor degree,118143.77008292743,178,90,backpain
+278,Elvira Gozzano-Fermi,2000-07-04,Guernsey,16161,M,phd,41854.014127681636,149,90,headache
+279,Giacobbe Favata,1931-01-09,Sao Tome and Principe,16155,F,middle schools,59038.652538536575,125,94,broken bones
+280,Flavio Curatoli,2022-06-27,Montserrat,16159,O,middle schools,705909.7611197829,148,63,stomach
+281,Elvira Marangoni,1989-10-25,Niue,16128,M,bachelor degree,219364.20561071212,180,96,backpain
+282,Rosalia Ceravolo,2003-09-10,Somalia,16160,M,phd,539312.9250164876,137,127,broken bones
+283,Elvira Sgarbi,2002-07-21,Honduras,16138,O,master degree,58091.5945095567,189,71,backpain
+284,Tullio Ruggieri,1977-05-28,Costa d'Avorio,16156,N/D,phd,189279.3565150358,125,50,hearth disease
+285,Fulvio Segrè,1966-04-20,Korea,16137,F,phd,375108.6919476081,173,99,flu
+286,Greco Crispi,1941-05-14,Costa Rica,16141,N/D,elementary schools,9202.659830216398,131,131,broken bones
+287,Gabriele Foletti,1984-06-01,Sud Africa,16150,N/D,middle schools,360609.4969187211,150,49,headache
+288,Luciana Padovano,2008-04-07,Territorio dell'arcipelago indiano,16148,F,middle schools,788796.4694259494,135,101,broken bones
+289,Rosaria Caetani,1950-06-23,Kuwait,16124,F,master degree,666960.8060079616,123,130,backpain
+290,Adele Tencalla,1969-05-25,Cina,16165,N/D,master degree,284789.1273165857,171,96,broken bones
+291,Sig.ra Sonia Cristoforetti,1941-05-24,Principato di Monaco,16123,F,master degree,870455.2180914858,175,117,backpain
+292,Marissa Foletti,1941-09-13,Danimarca,16136,O,master degree,11718.383095408291,173,74,headache
+293,Pietro Sanudo-Travaglia,2010-02-20,Mayotte,16130,N/D,bachelor degree,202524.65950901533,156,85,backpain
+294,Ornella Mazzacurati,2011-01-22,Korea,16149,M,middle schools,605098.2361381843,193,97,backpain
+295,Marta Cossiga,1940-03-22,Korea,16139,F,high schools,564639.0794696324,174,110,broken bones
+296,Dott. Carlo Guarato,1979-02-14,Yemen,16124,F,bachelor degree,264976.19866585097,122,48,broken bones
+297,Lucia Argenti,1997-11-05,Tajikistan,16125,M,high schools,400663.2155794768,121,86,backpain
+298,Aria Cappelli,1934-07-21,Equador,16164,N/D,middle schools,190783.15366817045,148,50,stomach
+299,Damiano Salata,1962-04-20,Uganda,16124,O,phd,853434.0005059373,196,82,headache
+300,Alessandro Scialpi,1964-07-09,Algeria,16151,O,middle schools,92172.5925966096,196,83,flu
+301,Sig.ra Daria Tomasetti,2009-06-14,Guatemala,16128,O,master degree,717121.9987015972,183,108,broken bones
+302,Bernardo Callegaro,2007-05-28,Capo Verde,16153,O,phd,268112.85277540266,176,76,stomach
+303,Gabriele Gradenigo,1989-08-17,Isola di Man,16132,O,high schools,639715.9140549427,180,90,flu
+304,Flora Visintini-Bertoni,1971-07-28,Estonia,16160,N/D,bachelor degree,109355.54621466238,123,53,stomach
+305,Dott. Santino Fabbri,1930-07-23,Vanuatu,16121,F,high schools,869255.0197961095,174,49,stomach
+306,Adelasia Chechi,2010-12-13,Angola,16154,N/D,high schools,412906.2799876647,188,116,backpain
+307,Micheletto Babati,2011-09-06,Micronesia,16127,N/D,high schools,502606.49710879446,156,90,flu
+308,Sig.ra Iolanda Mastandrea,2018-01-16,Nepal,16124,F,phd,487767.43898016826,143,91,hearth disease
+309,Valeria Ceci,1931-10-23,Bermuda,16125,O,high schools,614133.5346502875,142,62,hearth disease
+310,Leonardo Randazzo,1972-07-25,Estonia,16139,M,high schools,899835.7966742356,142,147,hearth disease
+311,Giacomo Chechi-Turci,1997-05-14,Hong Kong,16125,N/D,middle schools,472396.1959538067,196,76,hearth disease
+312,Nicolò Bembo,1980-01-18,Grecia,16150,N/D,bachelor degree,822492.5543434259,130,91,broken bones
+313,Mario Anichini-Gianetti,1943-07-15,Bangladesh,16148,N/D,bachelor degree,319021.795261094,137,125,hearth disease
+314,Alessandra Alfonsi,1957-03-15,Pakistan,16152,N/D,high schools,788893.646225657,151,40,headache
+315,Bianca Endrizzi-Samele,1943-11-24,Estonia,16151,M,master degree,834735.6551728668,184,96,headache
+316,Gloria Ziani-Antonioni,1979-10-22,Isole Faroe,16160,N/D,high schools,452195.7898182537,142,88,stomach
+317,Alfredo Gussoni,1973-10-22,Swaziland,16147,F,high schools,307659.43006308604,122,116,broken bones
+318,Aria Manzoni-Agostinelli,1956-08-11,Tonga,16155,F,phd,530074.8708518127,173,64,backpain
+319,Delfino Ferraris-Finotto,1982-07-04,Togo,16137,F,phd,963626.5256409774,127,95,flu
+320,Sig.ra Adriana Zanazzo,1970-01-26,Kiribati,16147,O,elementary schools,260210.4270232499,145,61,stomach
+321,Sig.ra Elena Varano,1958-09-05,Spagna,16123,O,bachelor degree,95424.7767141041,146,77,backpain
+322,Dante Majorana,2010-07-01,Grecia,16129,M,middle schools,547036.624602508,199,118,headache
+323,Beppe Altera,1962-02-19,Albania,16130,M,phd,372737.1699605074,170,40,backpain
+324,Annunziata Camuccini,2011-03-20,Kuwait,16147,N/D,high schools,74631.0215974143,132,77,headache
+325,Pina Dossetti,1962-11-24,Libyan Arab Jamahiriya,16140,F,elementary schools,830393.3690298371,175,139,hearth disease
+326,Alphons Gangemi,1989-04-08,Namibia,16146,O,phd,433232.6509086518,177,95,hearth disease
+327,Dott. Dario Balla,2012-11-19,India,16130,N/D,high schools,325241.7105270359,197,131,flu
+328,Dott. Atenulf Bompiani,1935-07-01,Liberia,16131,M,bachelor degree,74269.97133177193,137,67,backpain
+329,Cipriano Salvemini,1963-02-06,Nepal,16123,N/D,bachelor degree,839787.9171711021,131,113,headache
+330,Dott. Elvira Turati,1958-12-19,Cuba,16148,N/D,phd,881643.8308949836,177,150,backpain
+331,Vanessa Fischetti,1984-02-15,Reunion,16140,O,elementary schools,888843.7022495033,179,69,stomach
+332,Flavio Stoppani,1955-01-10,Lituania,16150,F,high schools,899105.6578159129,194,86,hearth disease
+333,Allegra Beccaria-Collodi,1936-03-05,Mali,16155,O,middle schools,286384.9116913651,170,96,broken bones
+334,Dott. Maurilio Flaiano,1947-05-01,Sud Africa,16150,F,high schools,112784.48447445744,168,55,headache
+335,Fortunata Casarin-Monteverdi,2017-10-21,Sierra Leone,16142,M,high schools,845090.2535911304,186,62,hearth disease
+336,Antonia Tognazzi-Spadafora,2018-10-27,Bielorussia,16166,M,phd,334768.5560910626,152,149,backpain
+337,Dott. Antonina Duse,1969-08-23,Irlanda,16132,M,phd,758449.9737592438,187,116,flu
+338,Gianluca Verri,2002-09-25,Turkmenistan,16151,O,master degree,881069.234814177,196,58,headache
+339,Bernardo Olivetti,1996-10-26,Uzbekistan,16133,M,elementary schools,193828.7261591798,170,106,backpain
+340,Aurora Sommaruga,2011-11-26,Isole Norfolk,16132,O,bachelor degree,976225.98144601,165,44,stomach
+341,Pier Comisso,2000-10-03,Saint Martin,16143,O,middle schools,398803.1697491516,134,110,stomach
+342,Sig. Biagio Vergerio,1981-12-17,Giordania,16150,O,phd,293352.07773526595,190,67,stomach
+343,Giada Mondadori,1948-08-28,Algeria,16136,O,master degree,972954.581539273,147,91,flu
+344,Edoardo Curci,2005-07-18,Nepal,16135,O,middle schools,739369.9791018999,146,78,headache
+345,Torquato Goldoni-Palazzo,2011-06-21,Tonga,16145,M,middle schools,32524.024299564913,120,139,stomach
+346,Irma Michelangeli-Strangio,1970-11-04,Guam,16143,O,middle schools,794083.6872228472,145,76,stomach
+347,Sig. Paolo Durante,1944-08-19,Vanuatu,16135,N/D,bachelor degree,668726.4875437091,166,46,backpain
+348,Sig.ra Cecilia Zetticci,1954-09-20,El Salvador,16139,O,bachelor degree,91247.83757138377,169,42,backpain
+349,Sergius Campanella,1980-02-09,Yemen,16137,F,phd,122773.66419095137,186,95,backpain
+350,Margherita Gentileschi,1968-08-20,Libyan Arab Jamahiriya,16140,F,middle schools,757497.4712951527,146,62,stomach
+351,Rembrandt Parisi,2002-01-16,Venezuela,16131,F,elementary schools,957822.4709500883,139,137,headache
+352,Germana Barozzi,2008-11-12,Anguilla,16163,N/D,elementary schools,156901.8250579587,199,56,broken bones
+353,Sig.ra Adriana Govoni,2001-11-14,Rwanda,16136,M,high schools,487465.8431535488,127,49,backpain
+354,Uberto Bandello-Garibaldi,1952-10-24,Rwanda,16149,F,phd,334410.524519714,160,61,broken bones
+355,Valeria Depero-Emanuelli,2018-01-01,Mali,16161,O,middle schools,463126.30793124874,199,106,hearth disease
+356,Pierangelo Dulbecco,2005-03-20,Jersey,16124,F,master degree,384594.97447547555,147,58,hearth disease
+357,Sig.ra Evangelista Bergoglio,1960-07-01,Liechtenstein,16165,M,high schools,797443.4317883932,138,95,headache
+358,Angelica Vendetti,1960-11-09,Saint Pierre and Miquelon,16130,M,middle schools,266945.8027927818,165,146,flu
+359,Ruggero Mennea,2014-03-07,Città del Vaticano,16157,N/D,high schools,872410.4157371073,163,145,headache
+360,Calcedonio Ruggieri,1984-08-18,Tuvalu,16155,F,master degree,697085.4207468199,128,81,backpain
+361,Saverio Tonisto,2008-07-22,Sri Lanka,16166,N/D,bachelor degree,364606.51626983844,122,85,backpain
+362,Mattia Rienzo,2017-05-13,Isole Cayman,16131,N/D,middle schools,164256.27183460034,138,125,broken bones
+363,Salvi Ceschi,2014-05-16,Cile,16155,O,phd,108347.62496227756,192,104,flu
+364,Biagio Andreotti,1962-02-04,Guinea-Bissau,16123,F,high schools,350795.7035376056,180,77,backpain
+365,Jolanda Rastelli,1945-08-08,Guyana,16161,F,bachelor degree,517322.5100805102,161,95,headache
+366,Elisa Angeli-Botta,2000-06-20,Chad,16124,F,high schools,304747.76638239087,125,120,backpain
+367,Graziella Trevisani,1999-03-25,Kuwait,16125,M,master degree,753322.9191809616,198,142,hearth disease
+368,Toni Verdone,1930-04-20,Spagna,16135,M,high schools,451404.7550416497,141,54,backpain
+369,Lorenzo Telesio,1988-04-01,Pitcairn Islands,16144,M,elementary schools,670650.4734337578,125,134,hearth disease
+370,Dott. Matilda Piazzi,1930-06-05,Irlanda,16163,M,bachelor degree,690983.1346042557,183,83,stomach
+371,Natalia Mazzocchi,1984-04-02,Samoa,16166,M,master degree,204332.51494863493,162,87,broken bones
+372,Giacomo Donatoni,1941-07-26,Repubblica Dominicana,16144,M,middle schools,908995.0679383475,138,44,stomach
+373,Mercedes Offredi,1943-03-23,Bolivia,16149,O,phd,98000.26977708543,163,88,headache
+374,Ennio Gentili,2008-10-18,Micronesia,16149,O,phd,442032.5766114964,192,64,backpain
+375,Olga Ravaglioli,1954-02-28,Mauritania,16166,M,high schools,453823.4335878687,197,42,flu
+376,Romina Sabbatini,2011-08-16,Maldive,16122,M,master degree,310945.9044626074,195,75,stomach
+377,Dott. Annamaria Redi,1988-09-13,Guam,16158,O,high schools,763675.9455896333,121,106,flu
+378,Dott. Federigo Anguissola,1975-08-16,Paraguay,16135,N/D,elementary schools,798738.554889831,142,141,headache
+379,Filippa Russo-Brunello,1994-03-18,Bermuda,16130,M,high schools,487261.5562179683,122,116,broken bones
+380,Dott. Fernanda Fantoni,1949-09-22,Afghanistan,16140,M,master degree,918263.4579251445,172,137,hearth disease
+381,Nedda Regge,1940-07-14,Martinica,16132,M,bachelor degree,326407.65375928313,196,130,flu
+382,Gianna Opizzi,2014-07-09,Cile,16125,F,middle schools,477392.7683035614,194,141,hearth disease
+383,Barbara Bresciani-Barbarigo,1946-01-22,Cameroon,16146,M,high schools,510018.91905855655,137,89,hearth disease
+384,Dott. Daria Cardano,2022-06-03,Argentina,16129,O,elementary schools,455818.5989440638,130,62,broken bones
+385,Silvio Pavone,1946-12-27,Bhutan,16143,O,bachelor degree,992367.4573866262,123,52,headache
+386,Sandra Pedersoli,1999-09-03,Guyana Francese,16140,O,high schools,44137.613823495456,144,142,stomach
+387,Ottavio Carducci,2020-03-09,Togo,16149,M,bachelor degree,32849.19104698403,140,109,backpain
+388,Zaira Borromeo-Borgia,2014-03-03,Svalbard & Jan Mayen Islands,16129,O,phd,241656.51569857216,133,109,hearth disease
+389,Griselda Morandi,1966-02-09,Liechtenstein,16122,F,high schools,724974.8333372024,174,117,flu
+390,Giacobbe Migliaccio,2001-10-28,Città del Vaticano,16162,O,elementary schools,70869.59650441482,159,50,stomach
+391,Sig.ra Luciana Maffei,2008-10-24,Slovenia,16167,M,middle schools,287193.71754968446,142,134,backpain
+392,Annunziata Venditti-Cociarelli,1944-10-06,Territorio dell'arcipelago indiano,16126,M,high schools,545086.2440850281,147,57,backpain
+393,Romina Cagnin,1960-03-26,Costa d'Avorio,16140,O,bachelor degree,58138.84982877593,183,105,headache
+394,Carolina Salandra,2007-07-18,Madagascar,16145,F,elementary schools,304583.83487121266,136,118,headache
+395,Daniele Tebaldi,1930-12-03,Germania,16155,O,bachelor degree,386325.62773606484,146,42,hearth disease
+396,Gemma Trupiano-Olivetti,2004-11-26,Nigeria,16165,F,elementary schools,342580.3761265948,187,113,hearth disease
+397,Adele Geraci,1936-06-03,Norvegia,16143,M,bachelor degree,745255.2651220829,172,56,headache
+398,Girolamo Sgarbi,1995-03-15,Ucraina,16130,F,master degree,376991.5023146021,121,85,broken bones
+399,Temistocle Saraceno,1947-04-07,Norvegia,16151,F,master degree,101077.30465875886,190,120,broken bones
+400,Carolina Foconi,1951-03-23,Nepal,16155,F,high schools,851841.9569126953,135,132,stomach
+401,Marta Gregorio-Bianchini,1943-03-26,Svizzera,16153,F,phd,838714.4559920309,140,105,backpain
+402,Milena Battelli-Borzomì,2001-06-15,Tokelau,16127,F,master degree,133799.09126616875,155,135,broken bones
+403,Sig. Greco Legnante,1968-01-23,Fiji,16160,F,bachelor degree,869374.9578589608,122,101,stomach
+404,Dott. Ronaldo Draghi,1996-01-05,Cile,16138,M,high schools,330022.71970179054,175,134,flu
+405,Dolores Gravina,1970-06-26,Montenegro,16133,O,high schools,642899.5440523844,195,61,backpain
+406,Ilaria Scalfaro-Angeli,1986-07-06,Mozambico,16154,O,elementary schools,503247.4401283746,131,97,flu
+407,Fabia Tamborini,1981-12-22,Iran,16121,M,middle schools,50619.17570309449,120,125,hearth disease
+408,Sergius Belletini-Sermonti,1992-05-18,Guyana,16138,M,master degree,995660.0419668698,120,109,broken bones
+409,Ernesto Gucci,1981-01-13,Honduras,16145,N/D,middle schools,302383.10447952035,155,41,hearth disease
+410,Lolita Pennetta,2009-05-23,Niue,16156,O,phd,299419.9162002299,180,71,hearth disease
+411,Tina Merisi,1976-03-20,Antartide (territori a sud del 60° parallelo),16147,F,bachelor degree,35001.055924251734,135,64,hearth disease
+412,Luchino Zecchini-Rosmini,1963-04-11,Andorra,16136,O,middle schools,485438.51147058746,174,43,broken bones
+413,Paola Chinnici-Dibiasi,2023-05-19,Romania,16142,M,bachelor degree,990117.7642033632,162,121,broken bones
+414,Massimiliano Morellato-Zamengo,2023-02-23,Italia,16135,F,phd,30635.912557817057,142,128,backpain
+415,Sig.ra Melina Bonomo,1967-07-04,Oman,16123,F,phd,225686.0555457876,199,146,stomach
+416,Giuseppina Polesel,2009-12-26,Isole Marshall,16139,O,master degree,446734.59375084436,195,143,stomach
+417,Bettina Leonardi,1984-08-07,Madagascar,16143,N/D,elementary schools,870727.1951978733,143,114,broken bones
+418,Claudio Borromeo,1968-09-24,Libano,16165,O,high schools,612011.0210570405,161,115,hearth disease
+419,Rossana Interminei,2008-01-08,Emirati Arabi Uniti,16136,F,middle schools,316549.4341473067,174,58,backpain
+420,Silvio Rismondo,1970-11-19,Liechtenstein,16162,N/D,middle schools,254841.91909946274,182,123,hearth disease
+421,Giustino Coppola,1998-01-20,Guinea-Bissau,16148,O,elementary schools,895844.9266451871,151,48,flu
+422,Annetta Carducci-Emo,1983-09-06,Guernsey,16122,N/D,middle schools,261971.60812273002,172,132,hearth disease
+423,Diana Parisi,1943-03-28,Gambia,16130,M,middle schools,469723.6008508843,132,51,flu
+424,Gianmarco Abate,1935-12-14,Liberia,16139,M,middle schools,314902.29675505974,131,142,stomach
+425,Emma Rocca,2013-08-08,Tanzania,16149,F,high schools,270977.9667785834,159,123,broken bones
+426,Gioele Bergoglio,1942-02-14,Saint Kitts and Nevis,16165,O,elementary schools,48211.56922700265,126,89,stomach
+427,Piergiuseppe Cabrini,1955-12-14,Filippine,16164,N/D,bachelor degree,432240.0454969746,167,55,flu
+428,Adele Maglio,2022-05-26,Australia,16134,O,phd,71418.63179379137,167,115,backpain
+429,Gabriele Panzera,1961-09-28,Principato di Monaco,16163,O,phd,32221.00046015208,133,105,broken bones
+430,Daniele Ubaldi,1935-10-02,Cile,16157,M,high schools,38446.86349117721,176,96,stomach
+431,Greca Venier,2005-04-03,Armenia,16160,O,master degree,463735.072524133,196,147,flu
+432,Gianluigi Cattaneo-Brambilla,1955-09-19,Russia,16154,M,phd,851671.2659010623,173,50,stomach
+433,Armando Camicione-Cagnotto,2007-10-07,United States Minor Outlying Islands,16132,F,middle schools,793040.6386902747,152,108,hearth disease
+434,Raimondo Mengolo,1999-02-21,Costa d'Avorio,16137,M,master degree,480714.66165303753,158,57,backpain
+435,Isabella Comeriato-Govoni,1992-05-16,Svezia,16144,M,phd,449961.1419452695,187,77,hearth disease
+436,Simonetta Mercadante,1992-04-21,Fiji,16146,M,phd,924989.2640760862,172,135,backpain
+437,Paolo Grasso,1959-02-15,Lussemburgo,16162,M,phd,354831.36897886655,195,44,hearth disease
+438,Dott. Melania Surian,1946-08-01,Polinesia Francese,16129,O,elementary schools,649173.6756636656,155,124,hearth disease
+439,Giuseppina Desio,2014-02-03,Messico,16162,N/D,phd,155856.8398814565,132,123,headache
+440,Leonardo Almagià,2009-01-09,Saint Pierre and Miquelon,16167,M,high schools,649073.7173350301,155,65,backpain
+441,Carlo Vergassola,1997-10-16,Slovenia,16129,N/D,bachelor degree,326121.0893366644,200,135,broken bones
+442,Sig.ra Romina Beccaria,1996-11-17,Filippine,16156,O,master degree,744301.6033360468,129,92,hearth disease
+443,Toni Rensi,1982-03-04,Russia,16155,N/D,high schools,209176.39341879447,155,73,stomach
+444,Dott. Mariano Vergassola,1936-02-20,Brunei Darussalam,16147,M,elementary schools,689009.0304584621,163,48,hearth disease
+445,Oreste Ruggeri-Lucchesi,1996-05-13,Irlanda,16147,M,elementary schools,756763.1768095858,181,99,stomach
+446,Bernardo Veneziano-Gabba,1970-03-17,Republicca Kirgiza,16149,M,high schools,546134.3156122726,166,41,hearth disease
+447,Gabriele Pagnotto,1936-08-05,Turchia,16134,F,high schools,445157.01896883233,120,94,hearth disease
+448,Giulio Vergassola-Murri,1955-09-08,Anguilla,16123,O,elementary schools,945647.5811957247,138,115,stomach
+449,Dott. Etta Badoer,1947-01-20,Guam,16142,O,elementary schools,365984.19984015427,153,77,flu
+450,Sig.ra Cristina Omma,1970-04-24,Bahrain,16163,N/D,bachelor degree,105469.26676369028,160,89,backpain
+451,Alderano Vergassola-Binaghi,1992-09-01,Saint Vincent and the Grenadines,16144,O,middle schools,165063.31549586917,181,150,backpain
+452,Dott. Annibale Littizzetto,1943-09-09,Namibia,16155,N/D,middle schools,42121.50688809013,124,40,backpain
+453,Vittoria Bassi,1949-07-09,Isole Solomon,16125,N/D,middle schools,235705.98811212927,161,74,flu
+454,Dott. Adelasia Ginese,1964-01-27,Portogallo,16157,O,bachelor degree,536177.3903192584,190,55,broken bones
+455,Marcella Giannelli,1995-11-11,Trinidad e Tobago,16142,O,bachelor degree,306142.32170840574,158,106,backpain
+456,Laura Santi-Prati,1954-04-02,Romania,16144,M,phd,166015.9666869768,161,63,stomach
+457,Eliana Prada,1990-08-23,Cuba,16157,M,master degree,204796.03649078892,132,150,headache
+458,Luisa Paoletti,1986-02-27,Belize,16150,N/D,master degree,846244.6997859387,187,45,headache
+459,Antonello Onisto,1984-02-18,Wallis and Futuna,16126,F,high schools,967145.2778614116,179,91,broken bones
+460,Ermes Schiavone,2015-02-02,Messico,16147,M,master degree,173347.7855037271,197,121,broken bones
+461,Serafina Dibiasi,1954-04-15,Arabia Saudita,16158,N/D,master degree,830823.9630131822,191,80,stomach
+462,Dott. Ivan Turrini,2008-10-21,Isole Cayman,16127,N/D,bachelor degree,796340.7286512556,156,88,broken bones
+463,Annibale Favata,1962-01-21,Tunisia,16161,M,phd,627824.1594933014,158,79,backpain
+464,Dott. Antonia Pennetta,1941-03-13,Peru,16151,N/D,middle schools,324995.12273710605,145,85,flu
+465,Pierangelo Fattori,1954-05-25,Tanzania,16135,O,phd,231109.3861095237,156,122,flu
+466,Tatiana Comisso,2003-09-03,Chad,16152,M,master degree,74113.32535258342,161,56,headache
+467,Luigina Montalcini,1975-08-26,Myanmar,16134,O,high schools,712589.8609321237,147,103,hearth disease
+468,Maria Peruzzi,1930-10-18,Territori Francesi del sud,16139,O,elementary schools,312020.53206353664,131,100,backpain
+469,Coriolano Foconi,1991-12-08,Isole Marshall,16147,N/D,elementary schools,45225.0996909912,195,96,headache
+470,Baldassare Sabbatini,1961-01-22,Porto Rico,16153,O,phd,463547.7982328574,148,141,backpain
+471,Dott. Bettina Loredan,2023-04-26,Bielorussia,16136,M,phd,568164.9538810645,140,139,hearth disease
+472,Gianfranco Gargallo,1945-04-13,Timor-Leste,16145,O,master degree,487686.2944339354,198,78,backpain
+473,Dott. Angelica Salgari,1972-07-21,Trinidad e Tobago,16146,M,middle schools,714489.2293488173,194,89,broken bones
+474,Manuel Vecellio,1991-06-28,Territori Francesi del sud,16163,N/D,middle schools,687062.7507541473,148,103,headache
+475,Graziella Stefanelli-Stoppani,1978-12-16,Gibuti,16133,M,middle schools,630704.2577320518,144,141,flu
+476,Michele Salandra-Giannini,2015-05-10,Arabia Saudita,16132,N/D,master degree,400382.4142652218,199,68,flu
+477,Fiamma Ceravolo,2004-04-01,Venezuela,16149,O,master degree,315998.1488907698,137,144,headache
+478,Ivo Conte,1932-10-17,Svizzera,16155,N/D,bachelor degree,337654.7548105201,196,102,stomach
+479,Sig. Luchino Leoncavallo,1975-10-21,Papua Nuova Guinea,16151,N/D,master degree,491747.9750060001,162,63,backpain
+480,Dionigi Sonnino,1955-03-02,Papua Nuova Guinea,16140,M,elementary schools,930466.9232122431,192,132,headache
+481,Valerio Ungaretti,1934-06-08,Indonesia,16140,F,elementary schools,193879.46675855605,174,105,broken bones
+482,Leone Mercati,1984-04-17,Pitcairn Islands,16156,N/D,bachelor degree,50439.77690133383,142,136,backpain
+483,Sig.ra Monica Querini,2016-10-04,Martinica,16155,M,master degree,775161.2051294575,174,125,broken bones
+484,Angelica Mercalli,1998-11-04,Isole Faroe,16143,N/D,bachelor degree,627304.7923932137,150,45,hearth disease
+485,Calogero Avogadro,1960-08-23,Algeria,16123,M,master degree,667475.8402220515,199,71,flu
+486,Flavia Pepe,1989-04-15,Cambogia,16148,M,bachelor degree,542593.8807995095,152,67,backpain
+487,Lamberto Rosmini,2020-08-24,Ucraina,16150,N/D,bachelor degree,822282.4920575169,129,41,backpain
+488,Vito Gritti-Stoppani,1970-08-20,Bhutan,16160,N/D,master degree,654592.0420368935,145,94,hearth disease
+489,Ronaldo Verdone-Detti,1994-06-08,Cambogia,16143,O,high schools,451345.44868182525,196,135,stomach
+490,Fabrizia Pignatti-Rienzo,1971-07-06,Isola di Man,16125,F,master degree,509522.94631602813,153,47,hearth disease
+491,Maria Vespucci,1936-02-10,Antartide (territori a sud del 60° parallelo),16153,F,elementary schools,769894.1904623383,176,42,headache
+492,Michelangelo Zamorani,1993-10-14,Giordania,16137,N/D,middle schools,336165.20058275724,198,139,stomach
+493,Luca Deledda-Falloppio,1934-06-16,Ungheria,16135,F,master degree,893513.2749384056,200,82,broken bones
+494,Arsenio Callegari,1947-04-18,Marocco,16137,N/D,bachelor degree,665040.8122485034,158,94,backpain
+495,Benito Turci,1964-11-16,Egitto,16135,O,master degree,577188.240179574,128,80,hearth disease
+496,Nicoletta Bongiorno,1961-02-14,Marocco,16134,M,high schools,461414.2143619941,170,60,flu
+497,Pompeo Brenna,1944-07-21,Nuova Zelanda,16146,O,master degree,238909.7704052614,175,138,backpain
+498,Achille Travaglia-Giulietti,1955-01-02,Grenada,16166,M,elementary schools,907891.3531611385,125,92,broken bones
+499,Alina Grossi,1943-07-10,Ungheria,16161,O,master degree,102103.3036352108,134,70,backpain
+500,Damiano Righi,1951-05-25,Georgia del sud e South Sandwich Islands,16124,O,middle schools,379600.6170958206,174,46,backpain
+501,Teresa Cusano,1992-01-07,Barbados,16164,N/D,master degree,982762.8200719722,142,66,broken bones
+502,Marco Cilibrasi,2012-09-02,Tuvalu,16135,M,bachelor degree,147877.93999806631,143,66,backpain
+503,Lando Galvani,2009-12-04,Belgio,16130,M,high schools,568151.7613123468,132,66,broken bones
+504,Dott. Gianpietro Cimini,2008-02-03,Territori Francesi del sud,16166,F,elementary schools,74944.81551862563,128,83,headache
+505,Vittoria Pacetti-Barberini,1981-01-10,Nepal,16163,F,middle schools,796476.2826619481,134,147,headache
+506,Antonina Anguillara,2005-03-10,Comoros,16159,N/D,master degree,17435.88338804225,147,40,broken bones
+507,Sig. Gianfranco Schiaparelli,1977-10-23,Korea,16148,N/D,high schools,942350.3893504497,200,45,broken bones
+508,Dott. Pietro Ciani,1980-06-15,Nauru,16132,F,middle schools,927771.0957161895,192,82,headache
+509,Elisa Duse,1945-01-01,Spagna,16159,M,bachelor degree,796273.05497171,152,64,backpain
+510,Mariana Bartoli,1996-02-02,Panama,16138,F,bachelor degree,19635.768330133364,170,46,hearth disease
+511,Martina Bruno,2014-04-21,Armenia,16162,F,bachelor degree,991646.6755166437,152,124,backpain
+512,Fabrizio Udinesi,1954-08-02,Stati Uniti d'America,16145,O,elementary schools,268232.3880228724,190,106,flu
+513,Romina Naccari-Dibiasi,2001-12-13,Norvegia,16146,N/D,elementary schools,81603.44023212296,135,97,headache
+514,Dott. Rita Murialdo,2016-09-21,Western Sahara,16161,M,high schools,840186.9337393576,139,114,hearth disease
+515,Flora Galtarossa,2015-08-06,Antigua e Barbuda,16150,N/D,middle schools,483425.1100091747,168,68,backpain
+516,Gianna Pigafetta,2007-11-08,Cameroon,16163,M,bachelor degree,728080.1960568853,173,127,headache
+517,Cesare Zetticci,2000-04-16,Bouvet Island (Bouvetoya),16123,F,master degree,557753.8110610279,183,78,backpain
+518,Delfino Endrizzi,1964-10-25,Malawi,16160,N/D,bachelor degree,324837.3821108227,188,142,headache
+519,Dott. Azeglio Battaglia,1945-07-09,Republicca Kirgiza,16142,N/D,elementary schools,347509.6958259266,160,131,broken bones
+520,Giacinto Bondumier,1993-07-20,Giamaica,16159,N/D,bachelor degree,941542.1094694514,184,121,broken bones
+521,Rosaria Mazzini,1991-08-23,Rwanda,16134,N/D,middle schools,681490.8359617499,184,86,broken bones
+522,Nicolò Metella,2017-08-28,Angola,16155,N/D,middle schools,371470.6712864251,144,108,stomach
+523,Lando Iannucci,1936-01-12,India,16159,N/D,elementary schools,433396.32855770935,179,82,broken bones
+524,Daria Capecchi,2003-09-03,Vietnam,16130,O,bachelor degree,664511.7439686675,132,54,stomach
+525,Sig.ra Antonina Filippini,1934-03-10,Niue,16156,N/D,bachelor degree,729204.7890041069,180,71,stomach
+526,Giuseppina Pepe,1996-03-21,El Salvador,16156,M,high schools,70309.21724702099,128,120,backpain
+527,Daria Casellati,1983-01-11,Portogallo,16141,N/D,elementary schools,825882.4054780902,191,40,flu
+528,Stefano Naccari-Zeffirelli,1987-07-11,Cameroon,16143,F,phd,815692.486451587,128,130,hearth disease
+529,Guido Iacovelli,1974-05-17,Regno Unito,16131,N/D,phd,735977.281747279,158,73,broken bones
+530,Lara Galiazzo-Pistoletto,2008-04-08,Serbia,16153,O,high schools,619795.2443636988,133,50,stomach
+531,Vincenza Majorana,1933-12-23,Croazia,16162,N/D,master degree,836881.4774081543,173,145,hearth disease
+532,Loredana Olivetti,1941-05-03,Repubblica del Laos,16154,M,middle schools,876743.6191220388,160,130,hearth disease
+533,Fabia Majewski-Inzaghi,1983-08-19,Reunion,16152,N/D,phd,409131.7537342066,161,84,headache
+534,Alberico Geraci,1983-10-18,Peru,16155,N/D,master degree,109101.45022478512,132,48,backpain
+535,Beppe Buonauro,1995-05-19,Italia,16140,F,middle schools,336852.9902194306,138,119,backpain
+536,Vincenza Tassoni,1933-04-28,Islanda,16150,M,bachelor degree,869984.1466404836,140,76,hearth disease
+537,Cassandra Soranzo,1951-03-23,Macedonia del Nord,16159,F,bachelor degree,983288.7122003856,135,143,flu
+538,Sophia Federici,1954-11-16,Grecia,16148,O,bachelor degree,20311.20398209929,163,136,headache
+539,Gastone Scarfoglio,1963-03-07,Nepal,16133,O,master degree,397247.0651518789,122,57,backpain
+540,Elena Paltrinieri,1952-07-02,Isole di Turks and Caicos,16159,M,high schools,188357.18066333153,181,143,flu
+541,Maria Pizzetti,2012-09-19,Niger,16152,N/D,master degree,139330.9804224232,144,43,broken bones
+542,Lorenzo Salieri,1933-01-02,Tuvalu,16137,N/D,elementary schools,72534.10344288913,159,47,headache
+543,Dott. Graziano Piccio,1964-05-19,Togo,16144,O,bachelor degree,334693.0536877485,193,79,headache
+544,Dott. Griselda Maccanelli,1942-12-20,Niue,16127,O,master degree,953588.9389637954,148,124,backpain
+545,Dott. Osvaldo Scarponi,1960-04-27,Antigua e Barbuda,16144,M,phd,940490.4212369747,138,42,stomach
+546,Camillo Orsini-Vespucci,1997-08-25,Bolivia,16124,M,phd,350151.2614305895,125,143,hearth disease
+547,Cecilia Gemito,2002-11-24,Iran,16137,O,high schools,345244.52318222343,170,133,hearth disease
+548,Emma Salandra-Bertoni,1997-08-27,Bhutan,16158,M,middle schools,992457.0843802338,199,106,broken bones
+549,Danilo Tosi,1937-10-07,Montenegro,16123,M,elementary schools,768059.4881844106,134,146,stomach
+550,Vanessa Villadicani,1966-12-17,Lussemburgo,16142,F,phd,790595.3273381022,198,87,backpain
+551,Roman Finetti,1948-01-26,Francia,16142,N/D,master degree,119729.62323879465,132,65,stomach
+552,Pasqual Pace,2013-01-10,Haiti,16161,M,high schools,690260.364811279,137,86,stomach
+553,Matilda Innocenti,1973-06-19,Filippine,16135,F,elementary schools,104644.90076313427,130,110,headache
+554,Bianca Guglielmi,1938-06-13,Capo Verde,16159,O,high schools,449600.2688080035,161,128,stomach
+555,Lara Bondumier-Duodo,1966-08-20,Bahrain,16163,F,high schools,288630.57877320296,139,110,stomach
+556,Mariano Valier,1982-09-07,Saint Lucia,16166,M,phd,665149.6370551382,170,92,broken bones
+557,Mirco Piacentini,1998-08-14,Uzbekistan,16155,N/D,master degree,838258.6790262408,199,126,flu
+558,Luciano Camuccini,2016-09-18,Malta,16154,O,middle schools,193632.53381933976,200,72,hearth disease
+559,Rosina Scaduto,1995-11-22,Montenegro,16130,F,phd,572189.4406038095,194,96,headache
+560,Sig. Carmelo Lercari,2004-05-11,Croazia,16156,F,high schools,160760.1159794434,174,84,headache
+561,Toni Mondadori,1933-12-20,Stati Uniti d'America,16163,O,middle schools,238273.13662209848,142,72,flu
+562,Fulvio Cicala,1939-04-14,Aruba,16124,F,master degree,727662.0166889061,164,77,flu
+563,Ludovico Gentileschi,1980-08-15,Angola,16126,F,master degree,913816.9317524262,194,100,stomach
+564,Paola Agostini,1990-11-02,Namibia,16125,M,master degree,269534.79660888744,175,47,headache
+565,Dionigi Manunta,1982-10-04,Uganda,16167,M,master degree,116327.75687271735,197,118,hearth disease
+566,Melissa Marcacci,1949-08-16,Macao,16148,O,phd,928239.3672123152,166,64,headache
+567,Benvenuto Costanzi,2021-06-01,Siria,16121,N/D,phd,23977.506965907945,164,93,flu
+568,Vittorio Pincherle-Cibin,1932-02-12,Cameroon,16151,F,high schools,213186.14051402218,134,93,headache
+569,Sandra Gentilini-Castiglione,2015-07-23,Libyan Arab Jamahiriya,16137,M,middle schools,310773.13670852326,165,122,hearth disease
+570,Galasso Vecoli,1934-06-03,Zimbabwe,16150,M,high schools,902879.4554341083,146,90,flu
+571,Alessandra Guglielmi,1947-03-05,Marocco,16126,F,master degree,563216.6174566933,150,68,hearth disease
+572,Temistocle Parpinel,2009-10-23,Tajikistan,16167,M,elementary schools,39968.624367006545,144,78,broken bones
+573,Lilla Aloisio,2000-12-10,Peru,16153,F,master degree,732879.3152061997,158,93,flu
+574,Sig.ra Donatella Manunta,1948-08-25,Saint Martin,16132,N/D,high schools,431819.8371000287,122,54,hearth disease
+575,Giacinto Fabrizi,1934-06-11,Bangladesh,16158,O,phd,344961.41494976764,169,85,headache
+576,Enzo Mantegna,1949-02-15,Isole Falkland (Malvinas),16125,M,bachelor degree,228325.51660245415,198,65,hearth disease
+577,Loretta Alonzi,1946-07-18,Lesotho,16160,O,high schools,777402.3409500333,123,148,hearth disease
+578,Dott. Stella Fracci,1980-12-19,Antigua e Barbuda,16139,F,elementary schools,734853.5983645446,167,49,broken bones
+579,Leonardo Vanvitelli,1993-05-08,Giappone,16126,N/D,high schools,310813.197439484,137,84,flu
+580,Silvia Surian-Cafarchia,1964-12-14,Porto Rico,16137,N/D,bachelor degree,947828.931596219,156,108,headache
+581,Pierpaolo Rosmini-Guarato,2002-09-07,Tokelau,16136,M,master degree,484986.36930064886,132,148,stomach
+582,Eleanora Gaito,2003-10-25,Guam,16150,N/D,elementary schools,242392.87299774736,156,98,stomach
+583,Sig. Ruggiero Callegari,1998-01-18,Bulgaria,16155,N/D,elementary schools,765477.3705311076,174,42,hearth disease
+584,Sig.ra Rosalia Terragni,2005-10-02,Madagascar,16149,O,bachelor degree,35460.11720165487,195,94,headache
+585,Adamo Bettin,1968-01-01,Olanda,16133,M,phd,922692.0226823473,123,138,stomach
+586,Clelia Vergassola,1966-06-20,Lesotho,16154,O,master degree,85378.1716431249,196,122,hearth disease
+587,Sig. Ermenegildo Romiti,2005-10-03,Cipro,16167,N/D,phd,361473.49043704115,195,135,backpain
+588,Alessandro Anastasi-Caetani,1959-07-23,Etiopia,16150,F,master degree,721734.0284705167,173,79,backpain
+589,Sig.ra Isa Polani,1983-03-05,Qatar,16143,O,elementary schools,988743.5100266713,164,44,broken bones
+590,Giovanni Scaramucci,2022-11-09,Comoros,16147,N/D,phd,152667.2324733518,146,103,hearth disease
+591,Adelasia Mascheroni,2013-01-23,Guyana Francese,16136,O,middle schools,208840.90713645087,146,65,flu
+592,Viridiana Zamengo-Catenazzi,2006-05-28,Isola di Man,16134,N/D,bachelor degree,818159.0467344424,187,129,stomach
+593,Venancio Granatelli-Odescalchi,1979-02-04,Samoa,16137,N/D,bachelor degree,732498.7404483716,123,115,headache
+594,Gianpaolo Travia,1969-02-20,Libyan Arab Jamahiriya,16160,O,phd,932374.2378694208,196,101,stomach
+595,Serena Treccani-Piccinni,1982-09-20,Iran,16144,O,master degree,499221.73951837176,185,149,hearth disease
+596,Giampiero Durante,1991-07-25,Malesia,16135,M,bachelor degree,207711.36625044284,145,149,backpain
+597,Sig. Leone Bonino,1969-11-08,Guinea Equatoriale,16142,M,elementary schools,415800.7440858015,177,49,flu
+598,Sig.ra Lucia Offredi,2018-04-01,Repubblica Ceca,16146,O,phd,563455.4098676423,193,105,stomach
+599,Marcantonio Barracco,2005-02-22,Isole Norfolk,16164,N/D,elementary schools,469132.94719747466,178,91,stomach
+600,Sig. Massimo Seddio,1933-03-03,Guam,16163,F,elementary schools,971361.9152906667,125,127,headache
+601,Toni Parri,1977-05-12,Saint Lucia,16139,F,bachelor degree,667203.9406724224,126,65,hearth disease
+602,Gianna Corradi,2004-02-25,Turchia,16122,M,phd,524698.1783699472,180,128,headache
+603,Marisa Bevilacqua,1993-09-21,Antartide (territori a sud del 60° parallelo),16150,M,middle schools,208944.61617345738,150,88,headache
+604,Victoria Salvini-Manolesso,2011-09-12,Territori Francesi del sud,16155,F,middle schools,114734.39433662924,193,138,backpain
+605,Alessia Veltroni,1981-02-17,San Marino,16150,N/D,phd,885642.1947097017,167,100,stomach
+606,Francesco Gottardi,1963-01-24,Antartide (territori a sud del 60° parallelo),16134,F,bachelor degree,256437.95926035882,191,97,stomach
+607,Sig.ra Mariana Turati,2001-12-25,Israele,16126,O,high schools,637529.3882793514,193,130,flu
+608,Marcantonio Filangieri,1993-11-23,Lesotho,16132,N/D,high schools,324101.0937359826,200,79,backpain
+609,Melania Bonolis,2008-05-10,Israele,16130,N/D,phd,902254.870617247,173,91,hearth disease
+610,Gianpaolo Scotto,2001-02-05,Repubblica Centrale Africana,16154,M,elementary schools,904141.0038683326,180,49,hearth disease
+611,Angelo Canova-Vendetti,1989-11-28,Azerbaijan,16131,N/D,bachelor degree,321117.53801269183,157,136,stomach
+612,Greca Ritacca-Medici,2021-12-02,Swaziland,16150,F,elementary schools,167866.09484301173,170,138,hearth disease
+613,Sig. Beppe Buscetta,1931-08-09,Lesotho,16142,N/D,elementary schools,163766.00910244798,158,78,flu
+614,Giovanni Morrocco,1995-08-05,Repubblica Ceca,16138,O,phd,618392.0650313438,131,43,hearth disease
+615,Michelotto Petrocelli,2022-03-01,Guatemala,16135,M,middle schools,34609.21389247729,152,131,broken bones
+616,Sig. Pasqual Falloppio,2022-05-18,Australia,16134,M,elementary schools,498610.6700496,126,68,headache
+617,Ninetta Manacorda,2002-06-23,Etiopia,16139,F,middle schools,82900.10405148352,129,55,flu
+618,Vincenzo Ruberto,2019-09-04,Martinica,16128,O,master degree,10642.364916883307,191,133,headache
+619,Baccio Rossini,1997-11-15,Montenegro,16133,O,high schools,602372.7235247066,166,93,headache
+620,Sig. Ricciotti Ligorio,1941-04-12,Porto Rico,16136,M,elementary schools,390266.6295016185,125,106,broken bones
+621,Eugenia Lombardi,1950-10-16,Olanda,16151,M,high schools,920710.3829669909,180,43,headache
+622,Vito Alighieri,2009-11-12,Territori Francesi del sud,16122,F,master degree,782716.9267300018,197,88,flu
+623,Piersanti Boiardo,2009-04-11,Siria,16160,O,high schools,154295.7535004691,128,93,backpain
+624,Livia Armani-Speri,2000-04-08,Azerbaijan,16124,F,phd,922616.4532740064,163,93,flu
+625,Angelica Antonetti-Guicciardini,1952-04-03,Yemen,16126,M,phd,824633.4631909735,161,139,backpain
+626,Dott. Gustavo Trotta,2013-04-13,Palestina,16129,N/D,middle schools,218112.22245902452,134,148,backpain
+627,Rosina Poerio-Tarantini,2012-10-08,Burundi,16128,N/D,elementary schools,826371.5926356552,149,66,backpain
+628,Sig. Pierangelo Stucchi,1990-07-07,Costa Rica,16126,N/D,bachelor degree,194163.94351858424,194,150,stomach
+629,Agostino Dossi-Guinizzelli,1987-07-14,Papua Nuova Guinea,16139,O,high schools,273967.24031106813,159,45,backpain
+630,Berenice Zoppetto,1998-03-20,Russia,16163,M,middle schools,523963.2753584801,184,96,headache
+631,Luchino Traversa,1943-04-25,Kiribati,16149,O,high schools,69155.49563759749,171,83,broken bones
+632,Lucio Querini-Interminei,1968-04-05,Danimarca,16161,O,high schools,117315.21250291832,179,122,stomach
+633,Gianna Florio,2004-11-21,Mozambico,16126,M,elementary schools,246811.69965169337,122,115,backpain
+634,Marcantonio Tonisto,1951-10-13,Etiopia,16142,O,bachelor degree,581036.159650669,196,98,backpain
+635,Ugolino Galtarossa,1996-07-25,Ghana,16147,M,bachelor degree,833021.3114815326,177,107,hearth disease
+636,Eleanora Fittipaldi-Savorgnan,1945-12-16,Svizzera,16143,M,master degree,453249.94109101593,184,70,backpain
+637,Annalisa Galeati,1930-04-24,Argentina,16162,N/D,phd,774119.926724943,151,145,backpain
+638,Pomponio Garobbio,1963-08-18,Antigua e Barbuda,16152,O,master degree,844722.4055575768,174,71,broken bones
+639,Priscilla Cutrufo,1959-04-05,Bulgaria,16129,N/D,elementary schools,244687.42309344592,122,95,broken bones
+640,Umberto Montalcini,1943-08-12,Costa d'Avorio,16138,F,phd,63142.729439263356,197,93,flu
+641,Arnaldo Durante,1942-08-20,Germania,16125,M,middle schools,139105.08082316752,134,147,headache
+642,Fedele Bulzoni,1946-12-20,Hong Kong,16128,M,bachelor degree,484797.6585997229,177,71,headache
+643,Sig. Gaspare Ramazzotti,1944-05-26,Iraq,16148,N/D,middle schools,958606.8345257234,192,42,broken bones
+644,Dott. Mariana Raurica,1964-06-23,Tailandia,16163,F,phd,437250.63418283896,196,114,hearth disease
+645,Lara Trussardi,1940-01-05,Qatar,16156,N/D,master degree,916769.6860465812,145,131,stomach
+646,Ciro Udinese,2010-06-28,Ghana,16137,O,bachelor degree,534031.5781853969,147,78,flu
+647,Cecilia Druso,1969-09-20,San Bartolomeo,16148,O,high schools,508778.10582445393,164,67,backpain
+648,Emma Mancini,2011-10-13,Isole Vergini Britanniche,16167,O,middle schools,954243.4232644654,196,103,backpain
+649,Pier Michelangeli,1930-12-22,Repubblica Ceca,16149,F,master degree,775159.5680997785,135,58,backpain
+650,Amedeo Gullotta,1961-08-06,Guatemala,16134,M,middle schools,56338.52693388575,162,87,backpain
+651,Gioachino Novaro,1959-02-07,Tokelau,16153,F,high schools,443219.0474191181,142,77,flu
+652,Antonina Canali-Scaramucci,1979-02-23,Lesotho,16154,O,phd,934133.8995544643,176,143,flu
+653,Gastone Morandini,2001-01-10,Aruba,16164,F,middle schools,806298.3468583744,136,142,hearth disease
+654,Ranieri Garibaldi,1983-05-18,Panama,16125,F,elementary schools,217660.77212217462,173,105,backpain
+655,Cristina Collina,1941-07-07,Sierra Leone,16161,M,bachelor degree,603297.5919707825,133,103,headache
+656,Liliana Borzomì,2007-01-02,Saint Kitts and Nevis,16128,N/D,middle schools,514520.3142441682,156,118,stomach
+657,Guglielmo Cardano,1945-07-03,Kuwait,16129,M,bachelor degree,282147.4844516534,132,114,backpain
+658,Ninetta Antonacci,1960-11-26,Namibia,16144,N/D,middle schools,40098.821303007906,174,146,flu
+659,Pellegrino Mercadante,1979-08-24,Svizzera,16133,F,master degree,381674.0313227034,138,107,flu
+660,Pasquale Collina,1952-04-05,Oman,16128,M,high schools,20513.610633001168,155,114,flu
+661,Temistocle Fittipaldi,2018-01-03,Regno Unito,16137,M,middle schools,435777.9989110123,189,47,broken bones
+662,Etta Gualtieri,1938-01-18,Lituania,16144,N/D,bachelor degree,983893.964843805,190,127,headache
+663,Elladio Tozzi,1965-05-09,Montenegro,16156,O,bachelor degree,123111.98999253559,122,150,backpain
+664,Dott. Nadia Comisso,2021-11-17,Australia,16161,N/D,phd,712526.865010595,172,97,broken bones
+665,Romina Toso,1967-11-06,Isole Vergini Britanniche,16140,M,high schools,769898.9351815894,193,111,broken bones
+666,Carmelo Mercadante-Tarantino,1936-05-02,Serbia,16146,N/D,high schools,922677.5065980484,135,51,hearth disease
+667,Ruggero Treccani,2012-04-14,Saint Martin,16137,F,high schools,352368.07255749457,162,59,stomach
+668,Lodovico Turati-Surian,1946-03-25,Haiti,16137,O,phd,652557.827754299,161,131,hearth disease
+669,Susanna Travaglia,1937-10-23,Bahrain,16138,O,phd,521635.90921092493,188,45,broken bones
+670,Donato Saraceno,1972-12-14,Nepal,16134,F,elementary schools,911632.7235828117,124,100,backpain
+671,Lilla Bocelli,1983-04-02,Bielorussia,16143,N/D,phd,50664.435299203615,189,90,hearth disease
+672,Dott. Jacopo Scarlatti,2021-04-09,Malesia,16153,F,elementary schools,987998.5523326863,176,107,headache
+673,Dott. Giorgio Villarosa,1976-11-21,Trinidad e Tobago,16155,M,elementary schools,761827.9355392718,199,114,headache
+674,Sig. Amico Iadanza,1935-01-16,Marocco,16139,N/D,master degree,158454.72965945594,170,91,backpain
+675,Elena Maccanelli,1975-01-14,Senegal,16144,O,master degree,452003.7807191838,178,83,broken bones
+676,Monica Scarpetta-Grimani,2008-05-18,Sri Lanka,16146,O,bachelor degree,663289.2105893624,184,66,headache
+677,Rodolfo Tarantini,2013-06-14,Afghanistan,16122,F,master degree,185468.70407400918,164,55,backpain
+678,Coriolano Bignardi-Lancisi,1975-05-13,Giamaica,16163,F,phd,517962.34186751087,185,108,headache
+679,Cristina Paolucci,2009-03-04,Guernsey,16136,F,phd,39096.42651510426,197,70,flu
+680,Mattia Calbo,1990-11-20,Gabon,16163,M,bachelor degree,11560.54751522817,146,145,broken bones
+681,Riccardo Verga,1957-06-12,Turchia,16154,F,phd,312362.0261478448,176,52,stomach
+682,Dott. Maurizio Tropea,2004-06-03,Mayotte,16147,M,phd,362535.71417049726,183,73,hearth disease
+683,Ronaldo Zaguri-Tasca,1970-09-13,Chad,16149,F,bachelor degree,189857.90677526826,125,132,headache
+684,Vittorio Chittolini,2019-11-16,Botswana,16156,F,phd,218572.88519522166,130,78,flu
+685,Martino Prodi,1983-07-10,Guinea Equatoriale,16146,N/D,phd,320439.441871077,151,84,backpain
+686,Fiamma Bosio-Barese,1991-06-26,Algeria,16144,O,phd,468532.25038221455,158,95,headache
+687,Dott. Maurilio Paoletti,1944-05-12,Cipro,16153,N/D,middle schools,128231.84728532122,159,121,backpain
+688,Marina Scotti-Barillaro,2016-12-07,Azerbaijan,16137,N/D,middle schools,252548.37132110252,128,93,headache
+689,Pompeo Franzese,1935-02-04,Barbados,16158,O,middle schools,544122.8329193526,136,88,backpain
+690,Galasso Crispi,2002-12-28,Burkina Faso,16133,F,phd,355783.69966631895,175,146,stomach
+691,Sig. Fausto Moccia,2010-01-07,Madagascar,16133,O,middle schools,913097.8497535976,141,67,headache
+692,Bianca Polani,1955-05-22,Tanzania,16129,M,master degree,44593.1326908493,167,70,flu
+693,Gioachino Pirandello,2006-05-24,Lituania,16150,N/D,bachelor degree,726645.2743464684,128,143,broken bones
+694,Maria Trussardi-Udinesi,1986-10-25,Saint Martin,16158,F,master degree,415214.2157421015,131,118,stomach
+695,Martina Palumbo-Binaghi,1989-03-27,Repubblica del Laos,16142,F,bachelor degree,261698.05676484003,159,59,flu
+696,Ninetta Lovato,1962-07-26,Fiji,16130,N/D,bachelor degree,898193.6655783511,148,43,stomach
+697,Paloma Sermonti-Pizzo,2016-11-15,Finlandia,16145,F,master degree,873503.2345234598,186,91,stomach
+698,Marisa Magnani-Bixio,1981-10-12,Gibilterra,16134,O,master degree,735495.9559046463,139,88,broken bones
+699,Imelda Tonisto,1982-09-07,Argentina,16165,F,elementary schools,473439.85821257305,200,132,broken bones
+700,Concetta Giacometti,1949-04-25,Tailandia,16152,O,elementary schools,643665.9595528311,129,62,headache
+701,Ippazio Fornaciari-Donarelli,1966-10-19,Tajikistan,16151,N/D,phd,900100.1450218372,194,76,broken bones
+702,Licia Botta-Roccabonella,1991-12-04,Vietnam,16156,N/D,master degree,269055.78383914987,146,60,broken bones
+703,Teresa Bevilacqua,2013-10-11,Norvegia,16161,F,master degree,695114.1868444728,120,124,flu
+704,Gioachino Novaro,1999-05-02,Antille Olandesi,16132,M,phd,385166.5004927246,170,46,stomach
+705,Dott. Ermenegildo Pratesi,2011-04-28,Gibilterra,16160,N/D,elementary schools,582790.7781041464,192,51,backpain
+706,Mercedes Andreozzi,2021-02-11,Ungheria,16160,N/D,middle schools,241542.04944103895,170,126,flu
+707,Dott. Raffaello Rubbia,1939-11-13,Sao Tome and Principe,16150,M,high schools,884484.1144814091,161,93,headache
+708,Gianluigi Franzese,1960-02-13,Regno Unito,16123,N/D,middle schools,120368.54058811563,200,61,stomach
+709,Romana Tartaglia,1947-11-11,Isole Vergini Britanniche,16124,N/D,elementary schools,199948.74468608014,187,50,broken bones
+710,Luisa Visconti,1961-01-25,Georgia,16134,F,phd,89150.07035251432,167,127,headache
+711,Sig.ra Giulietta Faggiani,2022-05-19,Città del Vaticano,16156,M,high schools,59949.659688897314,187,65,backpain
+712,Ludovico Villarosa-Bellocchio,1973-12-24,Iran,16136,M,bachelor degree,274234.88170648867,131,42,broken bones
+713,Beppe Finetti,1998-09-11,Lesotho,16122,M,master degree,347836.75847630703,189,136,flu
+714,Emma Montanelli,1969-04-23,Mongolia,16129,O,middle schools,662656.9529455926,193,94,broken bones
+715,Ida Gangemi,1962-11-10,Micronesia,16128,O,phd,496272.24042363063,129,137,flu
+716,Valerio Ziani,1939-04-21,Uganda,16164,O,elementary schools,560517.1142961506,163,70,backpain
+717,Lando Vezzali-Accardo,1945-03-17,Portogallo,16143,O,master degree,962097.8030064439,183,130,stomach
+718,Adriana Barillaro,1972-12-14,Irlanda,16160,M,master degree,650773.883853296,179,77,broken bones
+719,Gastone Tropea,1964-05-21,Lituania,16136,F,high schools,54336.204331340676,172,101,headache
+720,Pomponio Cattaneo,1954-09-16,Antartide (territori a sud del 60° parallelo),16158,F,elementary schools,915507.5252713041,188,79,stomach
+721,Lauretta Soffici,2000-04-05,Tailandia,16167,O,phd,77438.62353242625,134,128,broken bones
+722,Annunziata Caffarelli,1937-06-19,Belgio,16132,N/D,bachelor degree,986887.7205730993,187,139,hearth disease
+723,Eugenia Tomasetti,1935-04-15,American Samoa,16128,M,phd,97177.54407652335,140,129,hearth disease
+724,Adelasia Zanzi-Ritacca,1957-01-19,Barbados,16133,O,bachelor degree,36916.50444994832,194,88,hearth disease
+725,Gianpietro Mozart-Bossi,1977-03-26,Palau,16140,M,bachelor degree,92861.64720360668,179,104,backpain
+726,Lorenzo Vergerio,1977-10-25,Mauritius,16153,M,master degree,306794.752368439,149,83,backpain
+727,Gaspare Bellocchio,1959-05-17,Mauritius,16132,O,phd,307670.3436219662,139,87,flu
+728,Sig.ra Aurora Romano,1969-12-18,Venezuela,16140,M,elementary schools,463690.3202321571,171,63,stomach
+729,Arnaldo Morlacchi,1999-08-24,Mali,16122,O,master degree,346219.80397501274,193,96,stomach
+730,Valentina Calvo,2008-12-04,Taiwan,16123,O,phd,67692.73032124701,183,102,broken bones
+731,Beppe Maggioli,1995-04-07,Guyana,16134,N/D,middle schools,733906.8324606942,180,100,broken bones
+732,Beppe Bataglia,1960-10-03,Filippine,16163,O,high schools,889802.2690219025,191,91,broken bones
+733,Dott. Carla Grasso,2005-01-21,Seychelles,16124,O,phd,948466.6377532241,120,86,broken bones
+734,Renata Jovinelli,1957-10-27,Stati Uniti d'America,16137,M,phd,435645.7987626159,160,50,hearth disease
+735,Dott. Valerio Tedesco,1996-03-27,Repubblica del Laos,16145,N/D,master degree,785704.7808689495,197,121,headache
+736,Maria Cignaroli,2011-03-09,Saint Vincent and the Grenadines,16142,O,high schools,791799.7772794903,148,47,flu
+737,Rolando Comeriato-Turci,1944-05-22,Sant'Elena,16121,F,bachelor degree,420669.6543916361,192,86,headache
+738,Giuliano Battaglia,1994-10-22,Grenada,16145,N/D,master degree,882365.7767450095,160,146,stomach
+739,Augusto Parpinel,2013-03-17,Malawi,16157,O,high schools,446216.58538407425,130,94,broken bones
+740,Ernesto Rossi-Udinese,1940-03-27,Zimbabwe,16121,F,high schools,188640.60137737004,138,144,backpain
+741,Teresa Gori-Gregorio,1991-03-21,Italia,16162,F,master degree,887012.4248258553,166,131,stomach
+742,Agnolo Baroffio,2023-05-24,Libyan Arab Jamahiriya,16123,M,bachelor degree,898217.4859206973,158,147,stomach
+743,Giulietta Mazzini,1957-01-10,Republicca Kirgiza,16158,O,master degree,58704.80452250138,130,100,broken bones
+744,Dott. Aldo Papetti,1972-01-12,Turchia,16122,M,elementary schools,102326.01018196164,183,148,stomach
+745,Pierluigi Cadorna-Doria,1992-08-12,Georgia del sud e South Sandwich Islands,16126,F,middle schools,252130.7044255815,176,60,headache
+746,Sig.ra Graziella Bellini,1984-07-21,Azerbaijan,16142,O,master degree,223172.82731785293,129,73,broken bones
+747,Antonietta Crispi,1930-08-06,Tajikistan,16124,O,phd,228691.60312349425,183,69,backpain
+748,Dott. Bruno Lettiere,1971-02-17,Iraq,16144,N/D,master degree,805398.0567383657,134,57,backpain
+749,Monica Priuli,1985-12-04,Timor-Leste,16129,F,elementary schools,792210.0171060943,186,102,hearth disease
+750,Galasso Paolini,1941-03-24,Sud Africa,16133,O,bachelor degree,100317.0480967197,153,111,stomach
+751,Ida Monti,2003-08-24,Kuwait,16130,N/D,master degree,386702.2312903653,194,80,stomach
+752,Rosaria Nicolini,1960-05-22,Pakistan,16124,N/D,middle schools,684041.6016538839,185,101,hearth disease
+753,Valerio Trevisani,1930-02-10,Norvegia,16131,M,elementary schools,989969.9700908844,190,71,flu
+754,Valeria Pelli,1952-07-28,Saint Kitts and Nevis,16149,O,master degree,38065.99615776218,126,133,broken bones
+755,Delfino Samele-Proietti,2006-09-21,Nuova Zelanda,16161,F,elementary schools,673460.9643306605,124,126,stomach
+756,Sole Toscanini,1988-12-02,Comoros,16138,M,middle schools,779157.487412632,185,117,headache
+757,Antonina Giannone,1959-02-21,Costa Rica,16132,M,high schools,16132.070066519733,180,66,backpain
+758,Zaira Sbarbaro,1940-03-28,Montenegro,16137,F,master degree,40612.8150669427,167,89,flu
+759,Letizia Pascarella,1955-02-08,Isola di Pasqua,16155,F,bachelor degree,159801.06809866778,159,119,flu
+760,Gianni Camilleri,1942-08-11,Antartide (territori a sud del 60° parallelo),16140,N/D,middle schools,393147.3535267845,197,63,broken bones
+761,Concetta Anguillara,2007-06-07,Tonga,16144,O,phd,637907.528701595,196,122,stomach
+762,Margherita Castioni,1953-10-25,Isole Cayman,16161,O,master degree,890391.7554023948,144,118,backpain
+763,Eraldo Grisoni-Sermonti,2013-09-26,Libyan Arab Jamahiriya,16156,O,elementary schools,203576.75164380117,199,70,stomach
+764,Ermanno Ferrazzi,1979-09-27,Malta,16128,O,phd,53845.53242586121,177,124,flu
+765,Giosuè Passalacqua,1969-01-14,Nauru,16162,M,middle schools,186665.9113974527,152,40,flu
+766,Flora Gussoni,1980-12-09,Bhutan,16144,O,master degree,433610.7503599961,133,105,stomach
+767,Nino Mastandrea,1988-10-21,Kazakhstan,16130,N/D,high schools,337083.6397692135,171,85,stomach
+768,Dott. Gino Petrucci,1986-07-10,Eritrea,16141,O,elementary schools,810427.8649678706,136,109,flu
+769,Caterina Seddio,1962-11-16,Uzbekistan,16130,N/D,master degree,839453.2731903122,155,149,broken bones
+770,Loretta Camilleri,1986-07-20,Gibilterra,16123,M,elementary schools,857002.2931257494,164,55,broken bones
+771,Ubaldo Mogherini,1985-10-18,Burkina Faso,16136,O,high schools,541180.7737894993,147,69,flu
+772,Carlo Trillini,1938-02-18,Madagascar,16126,F,phd,839235.6718893409,199,147,broken bones
+773,Michelotto Vianello,2015-12-27,Madagascar,16133,F,high schools,697875.6286533283,194,139,headache
+774,Girolamo Borghese,2015-02-28,Sri Lanka,16157,F,middle schools,707430.3657234728,184,46,backpain
+775,Carolina Pinamonte,1970-01-01,Repubblica Centrale Africana,16124,F,bachelor degree,692458.8892232521,152,59,stomach
+776,Luisa Vanvitelli,1969-01-23,Belize,16126,M,elementary schools,961948.4895626517,131,87,flu
+777,Paoletta Pietrangeli-Calgari,1980-06-03,San Marino,16160,M,master degree,462595.4796712152,184,90,stomach
+778,Manuel Comencini,1959-09-03,Isole Cayman,16152,F,bachelor degree,740858.2166069229,141,120,flu
+779,Torquato Mimun,2000-02-24,Rwanda,16130,O,master degree,446508.25815749663,120,102,stomach
+780,Alderano Savorgnan,1972-12-06,Niue,16122,N/D,middle schools,3110.7118697794035,173,85,hearth disease
+781,Giovanna Buscetta,1972-11-13,Singapore,16130,N/D,master degree,333100.2229867718,143,73,backpain
+782,Maria Cantimori-Zaguri,1958-06-15,Vanuatu,16148,F,middle schools,806947.1589632535,128,87,broken bones
+783,Sergius Gritti-Calgari,2004-02-24,San Marino,16166,F,elementary schools,666557.4314315574,137,47,flu
+784,Piergiuseppe Norbiato,1978-03-15,Palestina,16122,N/D,high schools,493102.81633832265,176,139,flu
+785,Sig.ra Donatella Terragni,2001-10-12,Kuwait,16137,O,elementary schools,131912.61580607094,139,57,headache
+786,Sante Jacuzzi,1945-03-12,Tunisia,16157,M,master degree,348629.6320729146,143,150,broken bones
+787,Lorenzo Fantozzi,1933-04-24,Italia,16142,M,middle schools,474840.63784130616,144,85,flu
+788,Nicoletta Pergolesi,1942-02-11,Mauritius,16164,F,elementary schools,766026.4772585225,191,93,headache
+789,Sig. Pomponio Fattori,1990-02-16,Mauritius,16151,M,elementary schools,10071.504081722971,182,140,broken bones
+790,Ruggero Camiscione,1968-03-27,Tonga,16128,F,high schools,397556.14320360834,165,43,stomach
+791,Salvi Miniati,2006-09-26,Lituania,16140,O,master degree,915957.4955562219,131,51,broken bones
+792,Bianca Manunta,1971-07-11,Romania,16127,M,middle schools,207950.37398987514,133,136,broken bones
+793,Sig.ra Lara Mocenigo,1975-02-06,Angola,16162,N/D,high schools,929937.3822110309,187,144,hearth disease
+794,Renata Brunelleschi,1999-03-20,Gibilterra,16149,F,elementary schools,859633.6632339408,198,63,hearth disease
+795,Guglielmo Magrassi,2021-06-03,Tonga,16128,O,bachelor degree,285073.8637079391,129,76,hearth disease
+796,Ezio Cilea,2015-01-13,Guam,16156,O,master degree,437073.63220688666,132,70,backpain
+797,Romolo Sgarbi,1994-09-19,Togo,16126,M,middle schools,105575.70558710139,129,101,hearth disease
+798,Letizia Filangieri-Pergolesi,1963-07-13,Danimarca,16131,M,elementary schools,112120.2275190749,141,117,broken bones
+799,Bianca Greco,1967-08-18,Iraq,16142,F,middle schools,305591.7326252263,127,97,stomach
+800,Lodovico Aporti-Agnesi,1940-04-22,Seychelles,16137,F,phd,629392.9609799092,176,136,headache
+801,Matilda Armellini,2017-06-14,Stati Uniti d'America,16150,M,bachelor degree,564459.4978233912,147,145,backpain
+802,Girolamo Zoppetto,1942-01-02,Irlanda,16123,F,high schools,773838.3995025808,164,114,flu
+803,Diana Ponti,1948-12-03,Swaziland,16133,N/D,middle schools,561536.4820864513,177,115,stomach
+804,Vittorio Onisto,2008-10-21,Messico,16126,O,bachelor degree,889391.1557857553,198,144,hearth disease
+805,Serena Petralli,1952-09-01,Bouvet Island (Bouvetoya),16153,O,phd,838584.1324307927,124,134,broken bones
+806,Sig. Pellegrino Ziani,1946-12-24,Portogallo,16166,N/D,elementary schools,181504.79144512265,138,117,hearth disease
+807,Dott. Ermenegildo Fischetti,1933-04-08,Territorio dell'arcipelago indiano,16157,F,master degree,622483.278557465,194,59,hearth disease
+808,Antonietta Monaco-Caracciolo,1982-08-28,Malawi,16144,F,master degree,33833.19489761094,184,124,broken bones
+809,Dott. Coriolano Verdi,2017-10-27,Antartide (territori a sud del 60° parallelo),16128,O,bachelor degree,801663.090520121,195,79,stomach
+810,Filippa Brugnaro,1968-01-18,Irlanda,16145,O,middle schools,761812.6639706995,157,116,backpain
+811,Aldo Pignatti,1956-03-01,Nuova Caledonia,16159,F,master degree,113706.36072547613,150,65,backpain
+812,Fausto Infantino,2000-09-26,Gambia,16151,O,phd,477416.8365943099,134,106,hearth disease
+813,Cassandra Armellini,1974-12-05,Nuova Caledonia,16164,M,high schools,940896.4510183599,144,58,hearth disease
+814,Nina Bragadin,1997-11-08,Bolivia,16165,O,bachelor degree,750740.7805846243,144,140,hearth disease
+815,Giuseppina Santorio-Casale,1965-01-14,Cile,16155,O,middle schools,115908.2764544631,192,137,stomach
+816,Gian Gregori-Gianvecchio,1938-12-27,Montserrat,16132,N/D,middle schools,845455.292767017,176,145,headache
+817,Orazio Malaparte,1993-12-05,Afghanistan,16138,M,middle schools,412738.34357742977,183,130,stomach
+818,Anita Aporti,1972-07-04,Azerbaijan,16131,F,middle schools,101739.63079136694,183,96,backpain
+819,Lazzaro Bragaglia,2015-02-25,Liechtenstein,16126,F,master degree,37070.684250819606,120,118,broken bones
+820,Benedetto Tafuri,1939-04-25,Suriname,16162,F,middle schools,15853.55897037366,123,65,flu
+821,Giada Borrani,1938-01-04,Belize,16158,O,master degree,997980.7432371464,164,44,headache
+822,Barbara Polizzi,1977-01-08,Cuba,16145,N/D,high schools,830042.7662992439,174,147,backpain
+823,Ansaldo Callegaro-Galvani,1948-10-22,Burundi,16124,F,high schools,741659.1714628709,143,92,hearth disease
+824,Stefani Varano,1949-12-27,Suriname,16130,F,phd,797279.7647293197,175,116,stomach
+825,Sig.ra Stefani Squarcione,1954-09-08,Bosnia e Herzegovina,16145,M,master degree,90639.80980896801,130,83,flu
+826,Sig. Ermes Disdero,1997-12-14,Danimarca,16164,N/D,high schools,428470.2468139321,189,131,flu
+827,Alessandra Luria,1987-08-10,Trinidad e Tobago,16144,F,middle schools,666441.9293028798,163,107,backpain
+828,Isa Maderna,1946-03-10,Singapore,16164,F,elementary schools,872878.7120865072,165,83,stomach
+829,Sig.ra Cristina Cerutti,1989-10-11,Guinea-Bissau,16136,N/D,master degree,423222.55316260195,174,61,hearth disease
+830,Letizia Cignaroli,2018-12-03,Turchia,16140,N/D,master degree,342362.44851921685,182,136,headache
+831,Dott. Rembrandt Oliboni,1991-10-21,Danimarca,16146,N/D,high schools,102323.06456174467,181,131,broken bones
+832,Gianluigi Rossetti-Carli,1968-03-26,Germania,16146,O,master degree,522522.6432849609,171,135,hearth disease
+833,Dott. Concetta Seddio,2018-04-03,Capo Verde,16165,F,middle schools,309354.0265669946,132,82,hearth disease
+834,Stefani Galtarossa,1954-05-22,Uganda,16127,M,middle schools,475261.29046643595,192,108,backpain
+835,Vincenzo Tognazzi,2023-08-01,Sao Tome and Principe,16167,F,middle schools,940469.4417441422,186,53,backpain
+836,Biagio Tuzzolino,1934-05-22,Zambia,16155,O,master degree,996804.2859524561,175,80,hearth disease
+837,Maurizio Florio,1964-07-26,Republicca Kirgiza,16126,O,high schools,752024.8833348352,154,145,hearth disease
+838,Giampaolo Bruscantini,1969-04-05,Benin,16136,M,elementary schools,587713.789101953,146,103,stomach
+839,Lodovico Ubaldi-Bernardi,1953-01-20,Swaziland,16138,N/D,phd,996274.9349908626,163,48,headache
+840,Caterina Scarlatti,1964-01-28,Andorra,16158,N/D,high schools,155285.75212586948,121,138,broken bones
+841,Ermanno Tomaselli-Perozzo,1944-05-07,Macao,16125,M,bachelor degree,337669.0798326665,138,87,hearth disease
+842,Puccio Esposito-Gottardi,1954-05-24,Svalbard & Jan Mayen Islands,16163,M,elementary schools,502523.7335264061,143,68,stomach
+843,Lauretta Rizzo,2015-05-13,Gibilterra,16164,F,bachelor degree,595037.4219435484,144,47,broken bones
+844,Viridiana Govoni,1981-03-02,Messico,16140,O,phd,284637.98087200953,137,79,flu
+845,Gianpaolo Foconi,1956-03-21,Maldive,16163,F,master degree,960862.9019562801,176,126,hearth disease
+846,Romeo Antonini-Filippini,2016-10-16,Bosnia e Herzegovina,16150,O,master degree,52381.090095759755,145,44,broken bones
+847,Dott. Antonella Polani,1983-09-23,Tajikistan,16166,F,bachelor degree,270541.7595579603,171,61,backpain
+848,Sig.ra Luigina Bertoli,1991-06-10,Trinidad e Tobago,16124,O,phd,314870.46458604664,122,99,headache
+849,Serena Gelli,1932-04-14,Turkmenistan,16164,F,middle schools,919518.5441793347,181,92,headache
+850,Dott. Vittoria Draghi,1992-10-27,Guadalupa,16140,M,middle schools,347708.2247284717,200,93,backpain
+851,Lidia Bertoni,2011-03-17,Giordania,16141,O,middle schools,648529.534217331,188,51,flu
+852,Venancio Brambilla-Gucci,1949-11-28,Cipro,16148,F,master degree,165930.53293187454,125,51,flu
+853,Mirco Canil,1952-07-01,Montenegro,16141,N/D,master degree,58434.054402073496,195,101,flu
+854,Ubaldo Caboto,1999-06-14,Bouvet Island (Bouvetoya),16149,N/D,elementary schools,309864.5030656435,190,68,flu
+855,Antonietta Tutino,2017-05-25,Cameroon,16150,N/D,middle schools,430997.51950821176,141,122,flu
+856,Dott. Romana Germano,1944-08-26,Venezuela,16156,N/D,bachelor degree,845723.0630364413,175,48,broken bones
+857,Sig. Augusto Bellò,1982-07-23,Myanmar,16121,N/D,phd,190017.10110387605,196,84,headache
+858,Adriana Paltrinieri,1986-11-20,Austria,16162,F,high schools,112147.69354534293,142,57,flu
+859,Sig. Biagio Paolucci,1954-02-18,Mayotte,16121,M,master degree,655011.8007285537,139,48,headache
+860,Donatello Carullo,2017-06-13,Mozambico,16167,N/D,middle schools,734105.2500237445,150,104,flu
+861,Ippazio Zarlino-Medici,1954-08-15,Estonia,16149,M,bachelor degree,131727.1169985702,192,130,flu
+862,Arnaldo Altera,1978-06-11,Bouvet Island (Bouvetoya),16143,O,elementary schools,260656.66071684047,150,124,stomach
+863,Eliana Ceri-Nadi,1978-10-01,Liberia,16127,N/D,bachelor degree,591178.4570354623,178,120,backpain
+864,Sophia Lettiere-Gemito,1954-05-13,Irlanda,16165,O,high schools,374580.5070937803,186,103,headache
+865,Gianfrancesco Ossani,1975-06-03,Malesia,16127,N/D,bachelor degree,904051.2417190742,198,88,broken bones
+866,Fabrizio Babati-Tommaseo,1932-06-15,Madagascar,16141,F,elementary schools,234739.02010792136,196,112,stomach
+867,Massimo Pisano,2012-10-19,Cipro,16143,N/D,elementary schools,918980.7401639684,134,119,backpain
+868,Dott. Melania Vento,1933-05-13,Mongolia,16133,N/D,phd,148463.51858426532,152,77,backpain
+869,Ezio Ungaretti,1950-02-21,Ghana,16128,N/D,phd,38663.1888911988,171,66,stomach
+870,Eliana Mortati,2022-05-10,Belgio,16134,F,middle schools,111735.93816450622,179,78,headache
+871,Concetta Pagnotto,1930-01-25,Tonga,16140,O,high schools,689254.6070606366,165,147,backpain
+872,Nadia Sforza-Mercantini,2005-06-13,Tunisia,16153,O,bachelor degree,802177.574868721,153,61,flu
+873,Lina Lucarelli-Bignami,1935-06-14,Martinica,16164,N/D,elementary schools,485657.6125026211,173,102,flu
+874,Fiorenzo Carosone,1986-09-04,Liberia,16153,F,phd,161630.8245409942,122,46,hearth disease
+875,Filippa Cadorna,1971-01-07,American Samoa,16137,N/D,high schools,453440.76023819245,158,86,stomach
+876,Gioffre Boldù-Anastasi,2020-10-27,Moldova,16124,O,master degree,955598.0601408884,200,88,headache
+877,Dott. Melissa Benussi,2020-02-02,Maldive,16153,N/D,bachelor degree,197509.0749157189,173,125,backpain
+878,Sig. Leone Pietrangeli,2011-05-12,Sierra Leone,16153,M,master degree,372111.4543326278,192,49,broken bones
+879,Atenulf Gradenigo,1997-12-23,Brasile,16136,N/D,bachelor degree,205637.92907586388,194,99,headache
+880,Sig. Federico Antonelli,1990-10-04,Azerbaijan,16141,O,bachelor degree,34715.058313946836,182,126,headache
+881,Viridiana Marconi,1985-05-20,Martinica,16163,M,master degree,401316.7112871985,124,71,flu
+882,Pina Cilibrasi,1930-07-13,Repubblica del Laos,16126,M,elementary schools,951314.2078651926,152,85,broken bones
+883,Leonardo Ioppi,1948-09-20,Swaziland,16126,F,master degree,732707.4157425417,172,87,broken bones
+884,Romana Bellocchio-Scalera,2014-12-02,Botswana,16126,M,phd,438708.2969134375,197,94,hearth disease
+885,Arnaldo Riccati,1958-10-21,Iraq,16161,F,high schools,717629.5233258097,156,97,stomach
+886,Leonardo Dibiasi,1944-12-05,Saint Lucia,16124,O,high schools,868553.6345371695,194,40,backpain
+887,Laura Bramante,1957-04-22,Germania,16145,N/D,bachelor degree,979789.3728301137,163,115,headache
+888,Filippo Busoni,1994-03-27,Ghana,16163,O,elementary schools,284683.6393645444,183,72,headache
+889,Elena Tarantino-Olivetti,1938-02-10,Cambogia,16136,O,phd,429776.01035655086,140,117,stomach
+890,Graziano Biagi,1937-02-01,Cina,16141,N/D,elementary schools,294522.82957975805,138,74,backpain
+891,Domenico Terragni-Tedesco,1962-03-27,Isole Vergini Statunitensi,16131,O,high schools,595169.8202882288,132,106,backpain
+892,Luchino Moschino,1987-08-11,Isola di Cocos (Keeling),16125,N/D,elementary schools,387981.166674262,198,90,backpain
+893,Sig. Pierangelo Nonis,1945-10-01,Croazia,16140,F,bachelor degree,521229.51903665473,200,118,stomach
+894,Sabatino Camanni,2017-08-15,Anguilla,16151,N/D,bachelor degree,891817.9757857627,128,98,flu
+895,Rolando Pergolesi,1960-11-04,Oman,16133,M,bachelor degree,994149.2658720737,175,138,backpain
+896,Gianni Storladi,1987-04-18,Malawi,16146,M,elementary schools,857802.8229900302,128,42,stomach
+897,Dott. Uberto Sismondi,2009-07-11,Guyana,16156,F,master degree,362730.90482018376,127,147,hearth disease
+898,Alina Gioberti,1951-07-17,Niue,16155,M,high schools,361573.58997078025,154,54,headache
+899,Roberto Pratesi,1952-04-17,Danimarca,16126,F,phd,518643.0377838942,147,117,backpain
+900,Raffaellino Moretti,2012-07-02,Repubblica Ceca,16132,F,middle schools,548033.3365597554,200,87,flu
+901,Dott. Giulio Fioravanti,1955-02-04,Uruguay,16145,N/D,middle schools,30385.853957808908,161,126,broken bones
+902,Pina Civaschi,2014-12-24,Palestina,16148,F,elementary schools,681449.1086088512,145,79,headache
+903,Venancio Trezzini,1980-12-10,Regno Unito,16143,O,phd,922906.0585265498,158,143,hearth disease
+904,Girolamo Argan-Brenna,2007-02-20,Georgia,16138,F,elementary schools,509051.2260219352,174,146,hearth disease
+905,Vanessa Bergoglio,2007-05-27,Afghanistan,16125,F,master degree,6213.963070607509,143,92,broken bones
+906,Sonia Vespa,1963-07-18,Grecia,16138,N/D,master degree,718167.2049298796,140,127,broken bones
+907,Sig. Ranieri Moschino,1936-03-27,El Salvador,16144,F,phd,79575.5971920089,159,67,broken bones
+908,Domenico Ceschi,1937-10-26,Isole Vergini Statunitensi,16163,N/D,high schools,281666.6784448205,165,108,backpain
+909,Liana Pizzo,1976-01-12,Sant'Elena,16134,N/D,phd,361098.14382785076,187,83,stomach
+910,Hugo Barese,1973-05-13,Mauritius,16163,O,bachelor degree,50298.98726012039,164,98,headache
+911,Cristina Finotto-Callegari,1997-05-20,Isole Cayman,16143,N/D,elementary schools,141108.97295354807,156,66,hearth disease
+912,Etta Zecchini,1959-02-07,Repubblica del Laos,16143,F,master degree,54273.24764047126,192,43,broken bones
+913,Sig.ra Milena Tagliafierro,2017-06-13,Sri Lanka,16136,N/D,high schools,749134.2625063022,167,53,broken bones
+914,Angelina Modigliani,1931-02-04,Guinea,16151,F,phd,123288.284975423,123,146,hearth disease
+915,Lara Palladio,2009-10-17,Canada,16160,O,master degree,788414.0127789698,134,68,flu
+916,Giorgia Sanguineti,1999-05-08,Isola di Man,16121,N/D,elementary schools,568511.8410692851,174,90,backpain
+917,Marina Mondaini-Tosto,1988-04-08,Peru,16124,M,phd,92031.53737371416,141,136,broken bones
+918,Nadia Malacarne,1991-10-26,Groenlandia,16128,N/D,high schools,85719.21985211218,122,147,stomach
+919,Ermes Raurica-Dulbecco,1938-01-02,Ghana,16133,N/D,master degree,898797.5303712437,173,68,headache
+920,Benito Verri-Federico,1938-10-20,Bouvet Island (Bouvetoya),16121,F,middle schools,684220.3089482344,180,73,broken bones
+921,Bianca Malipiero,2018-07-18,Tajikistan,16147,O,bachelor degree,17542.6555111311,122,140,stomach
+922,Roberta Mezzetta,2016-10-20,Cameroon,16129,M,high schools,179226.58776274225,146,110,flu
+923,Rocco Bianchini,1937-12-26,India,16123,F,master degree,893441.7118147349,127,115,hearth disease
+924,Virginia Castellitto,1965-06-08,Tokelau,16138,M,elementary schools,27384.647764272628,156,63,backpain
+925,Alderano Lamborghini-Papetti,1973-02-10,Principato di Monaco,16134,O,high schools,952675.87610623,125,110,broken bones
+926,Renata Nolcini,1971-09-09,Korea,16152,M,elementary schools,159966.27495477934,126,128,broken bones
+927,Mirko Flaiano,1987-04-15,Liechtenstein,16155,N/D,bachelor degree,827205.273126824,141,81,broken bones
+928,Fabrizia Innocenti,1968-04-21,Etiopia,16122,F,master degree,514859.8273716649,183,129,broken bones
+929,Concetta Scaduto,1955-12-01,Russia,16140,M,middle schools,329940.1889070609,172,94,broken bones
+930,Sig.ra Flavia Paoletti,2000-09-22,Hong Kong,16125,O,bachelor degree,485490.6865811016,165,120,backpain
+931,Daria Zecchini-Borsiere,2019-09-17,Botswana,16142,F,phd,468948.11507177615,180,46,headache
+932,Sig.ra Liana Tomei,2018-06-08,El Salvador,16165,F,middle schools,55743.441515842314,200,51,backpain
+933,Giada Giolitti,1997-03-05,Sao Tome and Principe,16123,N/D,middle schools,511129.90881620033,154,62,stomach
+934,Roberto Caruso,1959-02-11,Iran,16166,F,master degree,755120.5358576523,133,47,hearth disease
+935,Dott. Antonietta Falloppio,1973-02-21,Liechtenstein,16136,O,elementary schools,624330.4846192827,194,54,hearth disease
+936,Claudio Bettoni,2022-09-05,Germania,16150,O,elementary schools,935641.5726239454,152,88,headache
+937,Tatiana Miniati,1935-11-14,Nepal,16166,F,bachelor degree,940989.7636154275,199,129,stomach
+938,Licia Ruffini-Alonzi,1972-06-08,Sud Africa,16128,F,master degree,542511.4821699713,136,95,backpain
+939,Sophia Sraffa,1941-12-05,Stati Uniti d'America,16137,N/D,bachelor degree,880565.5364952296,157,147,headache
+940,Dina Aloisio,2000-03-06,Cuba,16133,M,elementary schools,114254.94120567525,141,145,headache
+941,Dott. Vincenzo Palumbo,2009-12-09,Montserrat,16128,F,phd,240556.35413108522,180,129,hearth disease
+942,Milena Cilibrasi-Tuzzolino,2015-01-03,Montenegro,16154,N/D,bachelor degree,30721.035912465,131,81,backpain
+943,Giorgia Spinelli,1968-12-25,Territorio dell'arcipelago indiano,16141,M,high schools,494043.6585728001,166,80,stomach
+944,Arsenio Farina-Toldo,1989-02-25,Nicaragua,16137,O,high schools,748757.1896570905,196,46,flu
+945,Virginia Antonetti,1937-09-17,Francia,16156,N/D,bachelor degree,406311.93818403967,177,123,flu
+946,Francesco Agostinelli,1961-07-08,Isola di Man,16127,O,high schools,449359.66378158244,185,119,stomach
+947,Nedda Pietrangeli-Combi,1966-10-24,Isole Faroe,16156,N/D,high schools,708803.9631779719,130,150,flu
+948,Gabriele Montanariello-Antonucci,2003-05-15,Uganda,16149,N/D,middle schools,340021.19606320304,165,60,stomach
+949,Sig. Ignazio Seddio,1934-12-20,Isola di Cocos (Keeling),16151,F,elementary schools,537653.1286895731,180,81,hearth disease
+950,Geronimo Nievo,2021-12-06,Iran,16148,F,master degree,719187.5699844162,152,50,flu
+951,Sig. Ermenegildo Bresciani,1951-05-14,Arabia Saudita,16142,O,master degree,973680.5532186809,200,130,backpain
+952,Marina Raurica,1960-11-01,Togo,16130,O,phd,773653.1102388807,144,48,headache
+953,Adelasia Pizzetti,2015-06-20,Filippine,16130,M,master degree,490064.5282456646,166,95,backpain
+954,Tonia Mazzi,1995-06-23,Saint Pierre and Miquelon,16153,F,phd,694515.6405234855,136,123,stomach
+955,Bianca Papetti,1937-01-06,Siria,16167,N/D,middle schools,999887.6521939348,195,76,hearth disease
+956,Griselda Martucci,1995-01-21,Cipro,16147,F,high schools,616440.8773160537,159,66,backpain
+957,Sig.ra Aria Porzio,1930-07-16,Francia,16167,F,high schools,553666.608758132,124,77,flu
+958,Ottavio Sagese,1989-01-06,Madagascar,16165,O,master degree,267373.49588731106,173,72,broken bones
+959,Manuel Tamburello,1947-01-02,Malesia,16157,M,elementary schools,660781.3021626183,145,100,stomach
+960,Napoleone Tresoldi,1946-03-04,Bangladesh,16158,M,phd,166454.39276213548,164,126,broken bones
+961,Nico Acerbi,1941-06-01,Estonia,16131,M,master degree,254187.23668398013,190,146,stomach
+962,Fabrizio Cavalcanti,2015-08-08,Comoros,16154,N/D,elementary schools,914260.9072960538,144,120,backpain
+963,Alessandro Lucchesi-Anguillara,1949-11-20,San Marino,16132,O,middle schools,637190.327006986,155,102,broken bones
+964,Dott. Fabio Scaramucci,1945-07-25,Mozambico,16151,F,phd,799108.1890436427,177,114,hearth disease
+965,Rolando Trapanese,1951-10-23,Belgio,16121,N/D,phd,873772.7825611912,181,94,stomach
+966,Graziella Pasqua-Traetta,1990-12-05,Isole Cayman,16149,M,master degree,568760.5522094268,140,64,headache
+967,Filippa Malacarne,1985-10-22,Mauritius,16163,F,high schools,557595.3579945263,135,112,backpain
+968,Lucia Polesel,1931-08-27,Venezuela,16135,N/D,high schools,405048.5256290034,193,105,headache
+969,Margherita Antonetti,1947-09-21,Lituania,16161,M,master degree,112945.52334340857,178,60,backpain
+970,Telemaco Pertile,1950-08-20,Porto Rico,16160,F,master degree,614979.7631437435,200,58,headache
+971,Rosina Ravaglioli,1978-10-13,Sierra Leone,16140,N/D,middle schools,760623.0683819874,127,57,stomach
+972,Mauro Garzoni,2006-11-10,Cile,16165,M,bachelor degree,410318.4257066986,168,82,stomach
+973,Cristina Vittadello,1988-01-10,Malawi,16123,M,master degree,932214.3195982085,127,113,stomach
+974,Stefano Filogamo,2000-09-24,Isole Cook,16160,O,elementary schools,132287.79457953022,178,50,hearth disease
+975,Silvestro Moresi,1963-11-25,Yemen,16165,F,middle schools,190157.9844098159,143,112,broken bones
+976,Ornella Cavanna,1946-05-19,Repubblica del Laos,16160,M,high schools,183256.5603547477,128,94,headache
+977,Lamberto Veltroni,2003-07-11,Comoros,16156,O,master degree,701178.2902696831,177,41,stomach
+978,Flavia Comeriato,1956-04-15,Seychelles,16131,M,master degree,708046.4916720279,184,137,hearth disease
+979,Serafina Finotto,1942-04-16,Tokelau,16156,N/D,phd,234590.524468816,185,150,stomach
+980,Amadeo Gramsci,1948-09-16,Libyan Arab Jamahiriya,16159,F,master degree,996695.6438502189,155,110,hearth disease
+981,Rossana Mondadori,2017-04-13,Maldive,16158,O,elementary schools,893813.0466187757,173,84,headache
+982,Dott. Amleto Bottaro,1985-02-04,Yemen,16125,N/D,bachelor degree,141261.87147536397,138,89,backpain
+983,Pasqual Bulzoni,1986-11-01,Porto Rico,16163,N/D,phd,35971.329360826254,179,44,flu
+984,Giulio Puglisi,2013-09-26,Iraq,16132,O,high schools,188782.2909250584,169,76,stomach
+985,Lilla Desio,1950-01-05,India,16149,O,phd,891520.0803126211,194,112,flu
+986,Vittorio Giannotti,1991-07-05,Giordania,16140,M,phd,284980.63321772136,153,89,stomach
+987,Ruggero Ubaldi,1999-07-05,El Salvador,16167,O,elementary schools,422891.4702479052,167,53,flu
+988,Bianca Omma-Pietrangeli,2011-06-23,Repubblica Dominicana,16162,N/D,middle schools,345223.213060847,124,135,stomach
+989,Pasqual Cuzzocrea,1977-10-26,Sierra Leone,16131,O,phd,776368.931844524,130,143,backpain
+990,Dott. Agostino Nordio,1996-11-17,Niger,16160,F,master degree,101095.54986870417,176,115,stomach
+991,Sonia Prodi,1977-12-07,Australia,16127,M,middle schools,284005.000678205,159,147,hearth disease
+992,Emilio Sandi,2008-04-28,Stati Uniti d'America,16151,M,elementary schools,912462.7668872075,125,77,flu
+993,Fredo Musatti,1999-08-06,Samoa,16160,M,high schools,508440.32768479333,176,91,stomach
+994,Stella Udinesi,2022-05-20,Qatar,16126,M,high schools,651648.6981385484,142,102,flu
+995,Amedeo Malpighi-Totino,2009-06-10,Sao Tome and Principe,16149,F,high schools,117896.3762226779,197,45,flu
+996,Renata Zamengo,1932-05-07,Egitto,16135,F,phd,24800.131212153854,183,119,broken bones
+997,Dott. Imelda Saracino,1967-10-14,Latvia,16124,N/D,elementary schools,126522.84956287874,121,58,headache
+998,Emilio Pedersoli,2015-02-22,Namibia,16138,O,high schools,823557.4867316207,136,150,backpain
+999,Silvia Venturi-Rossi,1936-11-06,Nuova Zelanda,16166,M,phd,191836.62723940588,127,114,headache

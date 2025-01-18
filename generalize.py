@@ -1,6 +1,6 @@
 import csv
 import hashlib
-import datetime
+from datetime import datetime
 
 # Read the dataset
 dataset = []

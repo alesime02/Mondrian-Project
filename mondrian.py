@@ -1,7 +1,6 @@
 from kanon import is_k_anon
 import generalize as gen
 import csv
-
 sequence = [1, 2, 2, 3, 4, 4, 4, 5, 6, 7, 8, 9, 9, 9, 9, 10, 11, 12, 13]
 
 '''
@@ -47,11 +46,42 @@ print("SEQ = ", sequence2)
 print("LHS = ", LHS)
 print("RHS = ", RHS)'''
 
+'''
+if(qi == "zip-code"):
+            for row in dataset:
+                row[qi] = gen.myGeneralizeNumbers(row[qi])
+        if(qi == "birthday"):
+            for row in dataset:
+                row[qi] = gen.age_generalization(row[qi])
+        if(qi == "education"):
+            for row in dataset:
+                row[qi] = gen.generalize_function(row[qi])
+'''
+
+'''
+sembra ok ma bisogna sistemare come vengono generalizzati i cathegorical attributes, a grandi linee bisogan generalizzare solo nell'ultima partizione che si ottiene finché quella partizione non è k anonima, in questo modo mi vado a costruire tanti blocchi q* k-anonimi che poi compongono la tabella rendendola k-anonima, che te ne pare? siamo aperti a critiche e revisioni, abbiamo anche pasticciato nel codice e cagato in giro
+Cordiali saluti, Ale e Livio
+
+'''
+
+def summarize(dataset, QIs):
+    for qi in QIs:
+        # Ordina il dataset in base alla chiave specificata (qi)
+        dataset.sort(key=lambda x: x[qi])
+        # Calcola l'intervallo generalizzato per la colonna
+        min_value = dataset[0][qi]
+        max_value = dataset[-1][qi]
+        generalized_value = f"[{min_value} - {max_value}]"
+        # Sostituisci il valore nella colonna con l'intervallo generalizzato
+        for row in dataset:
+            row[qi] = generalized_value
+    return dataset
 
 # Makes the dataset k-anonymous by
 # generalizing QIs
 def mondrianAnon(dataset, QIs, K):
 
+#a questo punto penso che questo si possa togliere
     # TODO: Check if dataset in already K anonymous
     if (is_k_anon(dataset, QIs, K)):
         return dataset
@@ -59,8 +89,8 @@ def mondrianAnon(dataset, QIs, K):
     
     # I don't have any new quasi identifiers to generalize
     # in order to reach k-anonymization
-    if len(QIs) == 0:
-        return dataset
+    #if len(QIs) == 0:
+    #   return dataset
     # I have some quasi-identifier to generalize
     else:
         # dim ← choose dimension()
@@ -82,7 +112,7 @@ def mondrianAnon(dataset, QIs, K):
         # maxQI è l'attributo con il maggior numero di valori unici
         # values è una lista che contiene quanti elementi unici ci sono in un attributo
         
-        # Takes the first element that has the maximum different values
+        # Takes the first element that has the maximum diverse values
         # inside the dataset
         dim = values[values.index(max(values))]
 
@@ -118,44 +148,32 @@ def mondrianAnon(dataset, QIs, K):
         # RHS <- all the elements > median
         # Split the dataset into two partitions
         print("Median value: " + str(medValue) + "\n")
+
+
+        '''
+        creo le partizioni, se sono di dimensioni maggiore o uguale a k, alla vuol dire che posso andare avanti a partizionare quindi
+        faccio le due chiamate ricorsive, la ricorsione mi ritorna dei dataset con almeno k righe generalizzate una volta, perché questo fa
+        la funzione summarize, quindi i dati vengono generalizzati una volta per ogni ritorno da chiamata ricorsiva
+        quando non posso più partizionare allora viene chiamata summarize che generalizza la partizione corrente e la ritorna
+
+
+        '''
         
         LHS = [row for row in dataset if row[maxQI] <= medValue]
         RHS = [row for row in dataset if row[maxQI] > medValue]
         print("LHS: "+str(LHS) + "\n")
         print("RHS: "+str(RHS) + "\n")
+        if((len(LHS) >= K) and (len(RHS) >= K)):
+            return mondrianAnon(LHS, QIs, K) + mondrianAnon(RHS, QIs, K)
+        return summarize((LHS+RHS), QIs)
         # TODO: Generalize LHS and RHS according to the previous example
-
-        if(maxQI == "zip-code"):
-            for row in LHS:
-                row[maxQI] = gen.myGeneralizeNumbers(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.myGeneralizeNumbers(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")
-
-       
-        if(maxQI == "birthday"):
-            for row in LHS:
-                row[maxQI] = gen.age_generalization(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.age_generalization(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")   
-
-        if(maxQI == "education"):
-            for row in LHS:
-                row[maxQI] = gen.generalize_function(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.generalize_function(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")
 
 
         # Remove the used attributes from the available list
-        QIsNew = [q for q in QIs if q != maxQI]
+        #QIsNew = [q for q in QIs if q != maxQI]
         
         #return Anonymize(lhs) ∪ Anonymize(rhs)
-        return mondrianAnon(LHS, QIs, K) + mondrianAnon(RHS, QIs, K) 
+         
     
 
 small_dataset = []

@@ -1,13 +1,13 @@
 id,name,birthday,country,zip-code,gender,education,salary,height,weight,condition
-1,Maria Tomasetti,2006-02-26,Afghanistan,1612x,O,undergraduate,391475.00507842767,143,114,flu
-5,Rosaria Fantini,1959-03-16,Guinea Equatoriale,1613x,N/D,undergraduate,352750.1910401708,173,100,backpain
-7,Niccolò Proietti,1959-09-13,Malta,1614x,M,grad schools,487258.43691098446,133,142,flu
-10,Amadeo Bernini,1982-10-04,Liberia,1615x,O,undergraduate,666560.0387209232,189,146,backpain
-11,Augusto Fiorucci,1953-12-20,Australia,1615x,O,undergraduate,189497.13636710274,187,122,hearth disease
-3,Laura Errani,1976-10-28,Madagascar,1613x,O,grad schools,6208.112127768284,148,119,hearth disease
-8,Sig. Daniele Casale,1994-11-03,Bouvet Island (Bouvetoya),1612x,F,grad schools,473206.07729952247,145,127,flu
-0,Annamaria Trapanese-Fracci,2005-12-05,Tajikistan,1616x,O,bachelors,677369.1111869827,131,121,broken bones
-6,Angelo Scarponi,1953-01-07,Hong Kong,1616x,O,undergraduate,363732.26593387267,127,112,hearth disease
-9,Giustino Pininfarina,1947-06-16,Costa d'Avorio,1615x,O,bachelors,48997.40424121102,141,58,stomach
-2,Leone Trapani,1955-02-09,Iran,1616x,F,undergraduate,760887.0712903307,151,88,headache
-4,Osvaldo Guglielmi,2009-11-25,Heard Island and McDonald Islands,1616x,N/D,undergraduate,615277.6866826239,188,111,hearth disease
+1,Maria Tomasetti,2006-02-26,Afghanistan,[16127 - 16139],O,[elementary schools - phd],391475.00507842767,143,114,flu
+5,Rosaria Fantini,1959-03-16,Guinea Equatoriale,[16127 - 16139],N/D,[elementary schools - phd],352750.1910401708,173,100,backpain
+8,Sig. Daniele Casale,1994-11-03,Bouvet Island (Bouvetoya),[16127 - 16139],F,[elementary schools - phd],473206.07729952247,145,127,flu
+3,Laura Errani,1976-10-28,Madagascar,[16127 - 16139],O,[elementary schools - phd],6208.112127768284,148,119,hearth disease
+7,Niccolò Proietti,1959-09-13,Malta,[16146 - 16153],M,[master degree - middle schools],487258.43691098446,133,142,flu
+11,Augusto Fiorucci,1953-12-20,Australia,[16146 - 16153],O,[master degree - middle schools],189497.13636710274,187,122,hearth disease
+10,Amadeo Bernini,1982-10-04,Liberia,[16146 - 16153],O,[master degree - middle schools],666560.0387209232,189,146,backpain
+9,Giustino Pininfarina,1947-06-16,Costa d'Avorio,[16155 - 16167],O,[bachelor degree - high schools],48997.40424121102,141,58,stomach
+0,Annamaria Trapanese-Fracci,2005-12-05,Tajikistan,[16155 - 16167],O,[bachelor degree - high schools],677369.1111869827,131,121,broken bones
+6,Angelo Scarponi,1953-01-07,Hong Kong,[16155 - 16167],O,[bachelor degree - high schools],363732.26593387267,127,112,hearth disease
+2,Leone Trapani,1955-02-09,Iran,[16155 - 16167],F,[bachelor degree - high schools],760887.0712903307,151,88,headache
+4,Osvaldo Guglielmi,2009-11-25,Heard Island and McDonald Islands,[16155 - 16167],N/D,[bachelor degree - high schools],615277.6866826239,188,111,hearth disease

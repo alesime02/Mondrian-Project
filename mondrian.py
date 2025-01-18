@@ -1,6 +1,7 @@
 from kanon import is_k_anon
 import generalize as gen
 import csv
+import statistics
 
 sequence = [1, 2, 2, 3, 4, 4, 4, 5, 6, 7, 8, 9, 9, 9, 9, 10, 11, 12, 13]
 
@@ -10,15 +11,6 @@ sequence = [1, 2, 2, 3, 4, 4, 4, 5, 6, 7, 8, 9, 9, 9, 9, 10, 11, 12, 13]
 '''
 
 def median(sequence):
-    sequence = list(sorted(sequence))
-    median = -1
-    if len(sequence) % 2 == 0:
-        median = ( sequence[ len(sequence) // 2 -1 ] + sequence[ len(sequence) // 2 ] ) /2
-    else:
-        median = sequence[ len(sequence) // 2 ]
-    return median
-
-def median2(sequence):
     sequence = list(sorted(sequence))
     return sequence[ len(sequence) // 2 ]
 
@@ -47,116 +39,74 @@ print("SEQ = ", sequence2)
 print("LHS = ", LHS)
 print("RHS = ", RHS)'''
 
+# Con "dim" ho l'attributo con più elementi
+
+# Con "frequency_set(partition, dim)" mi devo far restituire
+# il vettore delle frequenze relative all'attributo dim
+
+# In splitVal devo farmi restituire la mediana del vettore delle frequenze
+
+# In LHS devo mettere tutti gli elementi della partizione che hanno il valore 
+# dell'attributo "dim" minori o uguali alla mediana
+
+# In RHS metto tutti gli elementi maggiori alla mediana
+
+def find_best_attribute(partition, QIs):
+    values = []
+    maxDim = 0
+    maxQI = ""
+    for QI in QIs:
+        # This will create a set with all the distinct values
+        # for the currenct quasi-identifier
+        values.append( len( set( row[QI] for row in partition)) )
+        if(values[-1] > maxDim):
+            maxDim = values[-1]
+            maxQI = QI
+    return maxQI
+
+def frequency_set(partition, QI):
+    frequency_set = {}
+    for row in partition:
+        value = row[QI]
+        if value in frequency_set:
+            frequency_set[value] += 1
+        else:
+            frequency_set[value] = 1
+    return frequency_set
+
+def find_median_in_fs(fs):
+    value_list = list(fs.keys())
+    return median(value_list)
 
 # Makes the dataset k-anonymous by
 # generalizing QIs
 def mondrianAnon(dataset, QIs, K):
-
-    # TODO: Check if dataset in already K anonymous
+    # Check if dataset in already K anonymous, if true stop
     if (is_k_anon(dataset, QIs, K)):
         return dataset
-    # If true stop
     
     # I don't have any new quasi identifiers to generalize
     # in order to reach k-anonymization
     if len(QIs) == 0:
         return dataset
+    
+    # Se non è più possibile fare tagli fai la funzione di generalizzazione
+
+
     # I have some quasi-identifier to generalize
     else:
         # dim ← choose dimension()
-        # ^ choose one elements inside QIs to split my dataset
-        dim = QIs[0]
-        maxQI = ""
-        maxdim = 0
-        
-        # choose the QI with the most different values 
-        values = []
-        for QI in QIs:
-            # This will create a set with all the distinct values
-            # for the currenct quasi-identifier
-            values.append( len( set( row[QI] for row in dataset)) )
-            if(values[-1] > maxdim):
-                maxdim = values[-1]
-                maxQI = QI
-            
-        # maxQI è l'attributo con il maggior numero di valori unici
-        # values è una lista che contiene quanti elementi unici ci sono in un attributo
-        
-        # Takes the first element that has the maximum different values
-        # inside the dataset
-        dim = values[values.index(max(values))]
-
-        '''
-        dataset = {
-            ZIP CODE = [3, 3, 4, 5, 5, 5, 6, 7, 7, 7, 9] <- set(3, 4, 5, 6, 7, 9) <- 6
-            CITY     = [A, A, A, A, B, B, B, B, B, E, E] <- set(A, B, E)          <- 3
-            DEGREE   = [B, B, B, B, P, P, P, M, M, H, H] <- set(B, P, M, H)       <- 4
-        }
-        '''
-
-        #f s ← frequency set(partition, dim)
-        #splitV al ← ﬁnd median(f s)
-        # ^ find the median value for the choosen attribute (dim)
-        medValue = int
-        
-        # Get the median value for splitting
-    values = sorted(set(row[maxQI] for row in dataset))
-    if isinstance(values[0], (int, float)):
-        # Numerical median
-        medValue = median2(values)
-    else:
-        # Categorical "median" (use frequency-based split or mid-point)
-        medValue = median2(values)
-        '''if(maxQI == "country"):
-            all_values_in_QI = [row[maxQI] for row in dataset]
-            medValue = median2(all_values_in_QI)'''
-        
-        #lhs ← {t ∈ partition : t.dim ≤ splitV all}
-        #rhs ← {t ∈ partition : t.dim > splitV all}
-        # ^ split dataset in two partition
-        # LHS <- all the elements <= median
-        # RHS <- all the elements > median
-        # Split the dataset into two partitions
-        print("Median value: " + str(medValue) + "\n")
-        
-        LHS = [row for row in dataset if row[maxQI] <= medValue]
-        RHS = [row for row in dataset if row[maxQI] > medValue]
-        print("LHS: "+str(LHS) + "\n")
-        print("RHS: "+str(RHS) + "\n")
-        # TODO: Generalize LHS and RHS according to the previous example
-
-        if(maxQI == "zip-code"):
-            for row in LHS:
-                row[maxQI] = gen.myGeneralizeNumbers(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.myGeneralizeNumbers(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")
-
-       
-        if(maxQI == "birthday"):
-            for row in LHS:
-                row[maxQI] = gen.age_generalization(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.age_generalization(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")   
-
-        if(maxQI == "education"):
-            for row in LHS:
-                row[maxQI] = gen.generalize_function(row[maxQI])
-            for row in RHS:
-                row[maxQI] = gen.generalize_function(row[maxQI])
-            print("LHS generalized : "+str(LHS) + "\n")
-            print("RHS generalized : "+str(RHS) + "\n")
-
-
-        # Remove the used attributes from the available list
-        QIsNew = [q for q in QIs if q != maxQI]
-        
-        #return Anonymize(lhs) ∪ Anonymize(rhs)
-        return mondrianAnon(LHS, QIs, K) + mondrianAnon(RHS, QIs, K) 
-    
+        maxQI = find_best_attribute(dataset, QIs)
+        # fs ← frequency set(partition, dim)
+        fs = frequency_set(dataset, maxQI)
+        # splitVal ← find median(fs)
+        splitVal = find_median_in_fs(fs)
+        # lhs ← {t ∈ partition : t.dim ≤ splitVal}
+        LHS = [row for row in dataset if row[maxQI] <= splitVal]
+        # rhs ← {t ∈ partition : t.dim > splitVal}
+        RHS = [row for row in dataset if row[maxQI] > splitVal]
+        # return Anonymize(rhs) ∪ Anonymize(lhs)
+        return mondrianAnon(LHS, QIs, K) + mondrianAnon(RHS, QIs, K)
 
 small_dataset = []
 
@@ -185,26 +135,3 @@ output_file = "dataset-anonimized.csv"
 write_to_csv(result, output_file)
 
 print(f"Il risultato anonimizzato è stato scritto nel file '{output_file}'")
-
-
-
-
-'''
-
-
-
-generalize and split by city
-
-mondrian(LHS, [zip code, degree], 3) + mondrian(RHS, [zip code, degree], 3)
-
-generalize and split by zip code
-
-mondrian(LHS1, [degree], 3) + mondrian(LHS2, [degree], 3) + ...
-
-generalize and split by degree level
-
-mondrian(LHS11, [], 3) + 
-
-
-'''
-        

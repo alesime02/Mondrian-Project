@@ -66,15 +66,33 @@ Cordiali saluti, Ale e Livio
 
 def summarize(dataset, QIs):
     for qi in QIs:
-        # Ordina il dataset in base alla chiave specificata (qi)
-        dataset.sort(key=lambda x: x[qi])
-        # Calcola l'intervallo generalizzato per la colonna
-        min_value = dataset[0][qi]
-        max_value = dataset[-1][qi]
-        generalized_value = f"[{min_value} - {max_value}]"
-        # Sostituisci il valore nella colonna con l'intervallo generalizzato
-        for row in dataset:
-            row[qi] = generalized_value
+        if(qi == "birthday"):
+            for row in dataset:
+                row[qi] = row[qi].split("-")[0]
+            # Dataset sorting
+            dataset.sort(key=lambda x: x[qi])
+            # Calcola l'intervallo generalizzato per la colonna
+            min_value = dataset[0][qi]
+            max_value = dataset[-1][qi]
+            generalized_value = f"[{min_value} - {max_value}]"
+            # Sostituisci il valore nella colonna con l'intervallo generalizzato
+            for row in dataset:
+                row[qi] = generalized_value
+        if(qi == "zip-code"):
+            # Dataset sorting
+            dataset.sort(key=lambda x: x[qi]) 
+            # Calcola l'intervallo generalizzato per la colonna
+            min_value = dataset[0][qi]
+            max_value = dataset[-1][qi]
+            generalized_value = f"[{min_value} - {max_value}]"
+            # Sostituisci il valore nella colonna con l'intervallo generalizzato
+            for row in dataset:
+                row[qi] = generalized_value
+        if(qi == "education"):
+            while(len(set(row[qi] for row in dataset)) != 1):
+                for row in dataset:
+                    row[qi] = gen.generalize_function(row[qi])
+
     return dataset
 
 # Makes the dataset k-anonymous by
@@ -196,7 +214,7 @@ def write_to_csv(dataset, output_file):
 
 
 # Applicazione di mondrianAnon al dataset e salvataggio del risultato
-result = mondrianAnon(small_dataset, ["zip-code", "education"], 3)
+result = mondrianAnon(small_dataset, ["zip-code", "education","birthday"], 3)
 
 # Scrive il risultato in un file CSV
 output_file = "dataset-anonimized.csv"

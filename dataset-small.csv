@@ -1,13 +1,26 @@
-id,name,birthday,country,zip-code,gender,education,salary,height,weight,condition
-0,Annamaria Trapanese-Fracci,2005-12-05,Tajikistan,16161,O,bachelor degree,677369.1111869827,131,121,broken bones
-1,Maria Tomasetti,2006-02-26,Afghanistan,16127,O,elementary schools,391475.00507842767,143,114,flu
-2,Leone Trapani,1955-02-09,Iran,16166,F,high schools,760887.0712903307,151,88,headache
-3,Laura Errani,1976-10-28,Madagascar,16130,O,phd,6208.112127768284,148,119,hearth disease
-4,Osvaldo Guglielmi,2009-11-25,Heard Island and McDonald Islands,16167,N/D,high schools,615277.6866826239,188,111,hearth disease
-5,Rosaria Fantini,1959-03-16,Guinea Equatoriale,16139,N/D,middle schools,352750.1910401708,173,100,backpain
-6,Angelo Scarponi,1953-01-07,Hong Kong,16162,O,elementary schools,363732.26593387267,127,112,hearth disease
-7,Niccolò Proietti,1959-09-13,Malta,16146,M,master degree,487258.43691098446,133,142,flu
-8,Sig. Daniele Casale,1994-11-03,Bouvet Island (Bouvetoya),16128,F,phd,473206.07729952247,145,127,flu
-9,Giustino Pininfarina,1947-06-16,Costa d'Avorio,16155,O,bachelor degree,48997.40424121102,141,58,stomach
-10,Amadeo Bernini,1982-10-04,Liberia,16153,O,middle schools,666560.0387209232,189,146,backpain
-11,Augusto Fiorucci,1953-12-20,Australia,16150,O,middle schools,189497.13636710274,187,122,hearth disease
+id,name,birthday,country,zip-code,gender,education,salary,height,weight,condition
+
+0,Annamaria Trapanese-Fracci,2005-12-05,Tajikistan,16161,O,bachelor degree,677369.1111869827,131,121,broken bones
+
+1,Maria Tomasetti,2006-02-26,Afghanistan,16127,O,elementary schools,391475.00507842767,143,114,flu
+
+2,Leone Trapani,1955-02-09,Iran,16166,F,high schools,760887.0712903307,151,88,headache
+
+3,Laura Errani,1976-10-28,Madagascar,16130,O,phd,6208.112127768284,148,119,hearth disease
+
+4,Osvaldo Guglielmi,2009-11-25,Heard Island and McDonald Islands,16167,N/D,high schools,615277.6866826239,188,111,hearth disease
+
+5,Rosaria Fantini,1959-03-16,Guinea Equatoriale,16139,N/D,middle schools,352750.1910401708,173,100,backpain
+
+6,Angelo Scarponi,1953-01-07,Hong Kong,16162,O,elementary schools,363732.26593387267,127,112,hearth disease
+
+7,Niccolï¿½ Proietti,1959-09-13,Malta,16146,M,master degree,487258.43691098446,133,142,flu
+
+8,Sig. Daniele Casale,1994-11-03,Bouvet Island (Bouvetoya),16128,F,phd,473206.07729952247,145,127,flu
+
+9,Giustino Pininfarina,1947-06-16,Costa d'Avorio,16155,O,bachelor degree,48997.40424121102,141,58,stomach
+
+10,Amadeo Bernini,1982-10-04,Liberia,16153,O,middle schools,666560.0387209232,189,146,backpain
+
+11,Augusto Fiorucci,1953-12-20,Australia,16150,O,middle schools,189497.13636710274,187,122,hearth disease
+

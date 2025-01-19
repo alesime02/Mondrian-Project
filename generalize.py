@@ -67,30 +67,25 @@ tokenized_dataset, mapping_values = tokenize2_dataset(dataset[:5], ["name"])
 #print("UNTOKENIZED", mapping_values[tokenized_dataset[0]["name"]])
 
 
-# hierarchy tree of education
+# Hierarchy tree of education_tree
 education_tree = {}
 
-# Suppressed attribute, no value (root)
 education_tree["-"] = "-"
-
-# First level of the tree
-education_tree["any degree"] = "-"
-education_tree["no degree"] = "-"
-
-# Second level of the tree
-education_tree["grad schools"] = "any degree"
-education_tree["bachelors"] = "any degree"
-education_tree["undergraduate"] = "no degree"
-
-# Leafs
-education_tree["doctorate"] = "grad schools"
-education_tree["master degree"] = "grad schools"
-education_tree["bachelor degree"] = "bachelors"
-education_tree["phd"] = "grad schools"
-
-education_tree["elementary schools"] = "undergraduate"
-education_tree["middle schools"] = "undergraduate"
-education_tree["high schools"] = "undergraduate"
+ 
+# 1st level
+education_tree["under graduated"] = "-"
+education_tree["graduated"] = "-"
+ 
+# 2nd level
+education_tree["second grade schools"] = "under graduated"
+education_tree["bachelor degree"] = "graduated"
+education_tree["master degree"] = "graduated"
+education_tree["phd"] = "graduated"
+ 
+# Leaves
+education_tree["elementary schools"] = "under graduated"
+education_tree["middle schools"] = "second grade schools"
+education_tree["high schools"] = "second grade schools"
 
 def age_generalization(date):
     # Counts the number of dashes in input: if one then it's a range, if two then it's a date
@@ -126,9 +121,9 @@ def generalize_function(value):
 
 '''
 print("GENERALIZE ELEMENTARY x0", "Elementary school")
-print("GENERALIZE ELEMENTARY x1", generalize_function(education_tree, "Elementary school"))
-print("GENERALIZE ELEMENTARY x2", generalize_function(education_tree, generalize_function(education_tree, "Elementary school")))
-print("GENERALIZE ELEMENTARY x3", generalize_function(education_tree, generalize_function(education_tree, generalize_function(education_tree, "Elementary school"))))
+print("GENERALIZE ELEMENTARY x1", generalize_function(education_tree_tree, "Elementary school"))
+print("GENERALIZE ELEMENTARY x2", generalize_function(education_tree_tree, generalize_function(education_tree_tree, "Elementary school")))
+print("GENERALIZE ELEMENTARY x3", generalize_function(education_tree_tree, generalize_function(education_tree_tree, generalize_function(education_tree_tree, "Elementary school"))))
 '''
 
 '''

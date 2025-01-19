@@ -1,1001 +1,1001 @@
-id,name,birthday,zip-code,education,gender,salary,height,weight,condition
-0,Osvaldo Rensi,1989-08-09,16087,middle schools,O,64207,155,96,hearth disease
-1,Dott. Antonina Grassi,1935-03-26,16064,elementary schools,N/D,100448,152,78,backpain
-2,Alessia Brunelleschi,1930-08-04,16120,master degree,N/D,76114,168,116,flu
-3,Matteo Giunti,1984-06-24,16087,high schools,O,68897,152,53,flu
-4,Irma Tomei,1997-02-19,16164,phd,M,89960,154,96,headache
-5,Graziano Brunello,1959-10-03,16099,elementary schools,M,24498,178,105,stomach
-6,Ippazio Aporti,1976-10-12,16125,high schools,O,74901,163,127,backpain
-7,Ludovica Camilleri,1979-05-07,16079,elementary schools,M,106552,161,96,stomach
-8,Renata Alboni,1942-11-18,16128,elementary schools,M,28996,182,70,hearth disease
-9,Giosuè Ferrante,1965-11-20,16085,elementary schools,M,29198,146,72,flu
-10,Marta Casellati,1965-06-04,16117,elementary schools,O,70471,155,149,stomach
-11,Marcella Peano-Parmitano,1951-07-02,16052,middle schools,M,115047,151,56,broken bones
-12,Dott. Raimondo Giannotti,1958-09-23,16031,master degree,N/D,53858,197,131,hearth disease
-13,Arsenio Lovato-Bartoli,1988-04-20,16029,elementary schools,N/D,41832,143,82,hearth disease
-14,Amalia Fagotto,1947-11-25,16015,high schools,O,76859,150,125,backpain
-15,Sig.ra Carla Pisano,1956-09-28,16074,high schools,O,48024,174,47,broken bones
-16,Sig.ra Veronica Mastandrea,1959-03-10,16107,master degree,M,40504,164,130,headache
-17,Erika Farina-Garozzo,1953-12-27,16165,elementary schools,M,66207,162,105,flu
-18,Massimiliano Norbiato,1938-01-23,16130,middle schools,O,95023,194,138,headache
-19,Barbara Pennetta,1980-10-16,16115,middle schools,N/D,56909,181,127,stomach
-20,Dott. Domenico Contarini,1933-08-19,16055,master degree,M,14983,145,121,broken bones
-21,Giuliano Pertile,1943-01-20,16035,high schools,N/D,79747,182,84,broken bones
-22,Fernanda Luciani,1979-08-12,16068,bachelor degree,F,62016,200,124,hearth disease
-23,Valerio Platini,1962-05-09,16080,master degree,M,96638,172,102,hearth disease
-24,Napoleone Govoni,1938-03-25,16022,middle schools,F,44456,171,126,headache
-25,Massimiliano Leone,1986-11-23,16128,high schools,O,114912,180,140,broken bones
-26,Achille Zanzi,2003-02-08,16064,elementary schools,N/D,24724,172,81,backpain
-27,Vittoria Bazzi,1998-03-06,16107,middle schools,F,88804,187,56,broken bones
-28,Tonino Beccheria-Mondadori,1961-03-26,16167,elementary schools,F,97246,177,87,flu
-29,Lauretta Marcacci,1972-05-07,16115,elementary schools,F,24379,183,117,flu
-30,Dolores Boaga,1996-05-26,16153,middle schools,O,58242,184,145,backpain
-31,Simone Marinetti,1945-03-24,16097,middle schools,M,19437,173,118,headache
-32,Dolores Fattori,1942-05-10,16154,high schools,F,42292,165,111,backpain
-33,Dott. Patrizio Gagliardi,1949-11-27,16011,master degree,M,36877,144,136,stomach
-34,Alberto Gatto-Toselli,1963-01-28,16138,elementary schools,M,28883,146,50,stomach
-35,Pierluigi Catalano,1956-10-07,16095,elementary schools,N/D,97468,176,77,headache
-36,Ivan Montecchi,2002-12-25,16139,middle schools,N/D,78339,142,79,flu
-37,Gelsomina Jacuzzi-Govoni,1944-01-08,16099,elementary schools,O,55413,175,100,hearth disease
-38,Dolores Grisoni,1930-09-07,16019,middle schools,O,80263,195,140,headache
-39,Gianfrancesco Beccheria,1942-01-05,16162,high schools,M,110674,146,104,broken bones
-40,Arnaldo Chindamo,1987-08-21,16121,elementary schools,F,94153,171,71,backpain
-41,Greco Donatoni-Capone,1954-09-18,16123,high schools,F,47623,195,74,hearth disease
-42,Sante Leone,1999-07-05,16025,master degree,M,48255,161,126,hearth disease
-43,Laureano Aporti,1953-12-07,16144,bachelor degree,M,32544,140,114,broken bones
-44,Ottone Turchi,1963-12-07,16064,elementary schools,O,13683,150,49,stomach
-45,Rocco Campise,1975-06-13,16067,elementary schools,M,97970,157,127,headache
-46,Matilda Galtarossa,1969-05-08,16110,elementary schools,M,98032,145,139,headache
-47,Sylvia Stoppani,1965-03-06,16015,elementary schools,N/D,58112,179,126,backpain
-48,Dott. Erika Galeati,1990-04-20,16155,middle schools,F,19665,195,99,backpain
-49,Elisa Bergoglio,1935-08-13,16114,elementary schools,F,30697,141,109,hearth disease
-50,Romeo Barozzi,1951-12-01,16099,elementary schools,M,90999,192,97,backpain
-51,Maria Turci,1975-07-05,16126,elementary schools,O,41102,158,57,backpain
-52,Camillo Iacovelli,1999-10-08,16073,high schools,N/D,69334,152,145,flu
-53,Anita Toso,1954-02-01,16113,elementary schools,M,110538,196,145,flu
-54,Nicoletta Scaramucci,1936-09-27,16166,elementary schools,N/D,116549,200,135,flu
-55,Eugenia Spanevello,1999-08-02,16081,middle schools,N/D,97151,175,140,flu
-56,Dott. Gianmarco Scalera,1946-12-10,16061,middle schools,N/D,100128,180,88,hearth disease
-57,Sig. Gabriele Turrini,1930-02-09,16098,middle schools,F,47617,167,87,backpain
-58,Michela Contrafatto,1975-12-08,16112,master degree,N/D,73406,189,60,stomach
-59,Dott. Rita Ziani,1972-12-20,16035,high schools,N/D,56340,142,46,flu
-60,Salvatore Foà-Polani,1975-10-25,16119,high schools,M,96940,189,65,flu
-61,Mattia Novaro,2001-01-27,16093,middle schools,M,65250,172,58,backpain
-62,Dott. Giulietta Bernardini,1945-09-19,16139,middle schools,M,78842,155,90,stomach
-63,Sig. Sandro Stradivari,1966-04-06,16112,middle schools,F,88731,168,147,flu
-64,Ilaria Callegari,1978-08-23,16082,elementary schools,N/D,102973,165,55,hearth disease
-65,Fredo Fantini,1987-10-23,16100,middle schools,F,46125,159,71,hearth disease
-66,Elladio Solari,1988-01-03,16049,middle schools,O,96032,192,115,backpain
-67,Massimiliano Briccialdi-Grasso,1994-03-05,16103,middle schools,N/D,58615,150,103,flu
-68,Monica Mastandrea-Belletini,1972-12-24,16046,high schools,F,28617,146,138,hearth disease
-69,Baccio Gargallo,1958-09-13,16032,master degree,N/D,30485,167,83,broken bones
-70,Michela Grossi,1982-11-01,16036,bachelor degree,M,22156,193,63,stomach
-71,Baccio Germano,1969-02-21,16011,elementary schools,N/D,119024,199,96,hearth disease
-72,Gaspare Ajello,1981-04-02,16119,elementary schools,N/D,102696,180,134,backpain
-73,Cipriano Tasca,1934-06-23,16098,high schools,F,115833,178,111,broken bones
-74,Gianna Fermi-Lombroso,2000-06-20,16125,elementary schools,O,62307,167,83,stomach
-75,Emma Bernardini,1944-11-28,16028,middle schools,M,84665,153,67,stomach
-76,Sig.ra Gemma Antonello,1991-10-19,16110,high schools,F,81032,179,98,hearth disease
-77,Fausto Zanazzo,1979-06-07,16030,master degree,F,86035,152,72,stomach
-78,Cecilia Papetti-Treves,1937-08-02,16150,elementary schools,M,14644,182,145,flu
-79,Delfino Venturi,2003-03-14,16106,middle schools,O,69236,179,61,backpain
-80,Amanda Trevisani-Pellico,1992-03-03,16149,high schools,F,100060,153,68,backpain
-81,Paulina Scotti,1936-12-08,16020,middle schools,F,113702,155,128,broken bones
-82,Puccio Gravina,1962-11-14,16020,middle schools,F,73096,183,85,headache
-83,Camilla Lettiere,1971-05-13,16150,elementary schools,M,113959,165,75,stomach
-84,Evangelista Ovadia,1939-05-03,16145,high schools,O,18149,191,108,flu
-85,Angelica Moretti,2000-06-12,16027,middle schools,M,69399,198,74,backpain
-86,Saverio Santorio,1997-06-16,16125,high schools,O,65312,149,123,broken bones
-87,Amleto Sagredo,2002-01-24,16088,high schools,N/D,99170,186,112,flu
-88,Vincentio Scarpa-Spanevello,1993-11-23,16142,elementary schools,M,26790,143,97,stomach
-89,Dott. Benvenuto Capecchi,1930-11-17,16134,middle schools,F,82423,140,92,broken bones
-90,Serafina Borroni-Boccherini,1973-12-28,16160,high schools,N/D,40436,165,60,stomach
-91,Pasquale Carfagna-Turchi,2004-04-17,16032,high schools,N/D,47236,192,68,stomach
-92,Fabrizia Surian,2005-08-27,16106,middle schools,O,23677,194,102,hearth disease
-93,Napoleone Fallaci-Sobrero,1975-12-22,16140,high schools,N/D,15356,159,49,broken bones
-94,Daniele Udinese,1934-03-13,16113,master degree,M,61358,146,150,backpain
-95,Sig. Nico Salvemini,1998-06-23,16085,middle schools,F,99811,155,93,backpain
-96,Dario Condoleo-Moresi,2002-01-24,16042,master degree,M,74283,173,117,broken bones
-97,Corrado Borroni,1999-10-28,16068,high schools,O,56949,194,48,flu
-98,Allegra Fogazzaro,1947-08-25,16066,middle schools,N/D,97978,143,54,headache
-99,Pierina Milanesi,1938-03-21,16098,high schools,F,101155,165,88,headache
-100,Sig.ra Melina Bianchini,1948-01-25,16083,phd,O,65529,176,131,headache
-101,Ricciotti Porzio-Esposito,1972-11-07,16164,elementary schools,O,89549,167,95,broken bones
-102,Pietro Verri,1986-04-11,16075,master degree,M,30756,198,101,hearth disease
-103,Dott. Arsenio Civaschi,1983-10-22,16155,elementary schools,M,68898,184,140,broken bones
-104,Antonina Gradenigo,1993-04-12,16136,middle schools,F,14411,170,137,headache
-105,Coluccio Mazzini,1991-01-27,16117,elementary schools,F,95241,177,103,flu
-106,Calogero Abba,1987-06-05,16162,middle schools,O,110993,140,150,headache
-107,Benvenuto Deledda,1986-03-01,16109,master degree,M,62111,155,105,hearth disease
-108,Dott. Elvira Peranda,1996-09-15,16018,middle schools,O,34756,180,64,hearth disease
-109,Germana Aulenti-Aloisio,2005-05-18,16117,middle schools,O,70324,178,101,flu
-110,Dott. Sylvia Bossi,1979-03-19,16036,elementary schools,F,94897,200,77,headache
-111,Vito Calgari,1930-08-21,16035,master degree,M,53350,175,70,hearth disease
-112,Tonia Filogamo,1993-12-11,16044,middle schools,N/D,53231,140,114,headache
-113,Fernanda Galilei,1959-11-04,16135,high schools,M,57758,150,108,flu
-114,Mirko Venier,1940-08-26,16042,elementary schools,F,56202,178,141,headache
-115,Mariana Endrizzi-Benussi,1998-06-07,16042,middle schools,F,20911,195,99,broken bones
-116,Temistocle Pavarotti-Pratesi,1962-02-20,16098,middle schools,M,48908,161,136,flu
-117,Emma Pulci-Sermonti,2000-02-17,16095,elementary schools,N/D,74389,168,90,backpain
-118,Marcella Parini-Trotta,1940-10-03,16100,high schools,F,17735,165,70,backpain
-119,Marissa Ioppi,1937-11-19,16090,middle schools,O,77221,147,48,broken bones
-120,Giada Mantegna,1949-11-20,16040,elementary schools,O,100527,153,76,backpain
-121,Gianna Tomei-Mortati,1960-08-01,16105,middle schools,N/D,96198,150,51,broken bones
-122,Beatrice Scaduto,1962-11-28,16043,elementary schools,M,74831,146,114,hearth disease
-123,Dott. Cecilia Rubbia,1991-02-12,16035,high schools,F,59757,177,70,flu
-124,Rodolfo Gioberti-Pisano,1981-01-01,16077,bachelor degree,N/D,95166,148,103,headache
-125,Sig. Leopoldo Lucciano,1986-07-27,16124,high schools,F,63513,144,146,stomach
-126,Pierangelo Scaramucci,1945-11-27,16018,high schools,M,73006,152,138,flu
-127,Sig.ra Lina Morrocco,1954-07-18,16120,high schools,M,68872,142,137,broken bones
-128,Gianpaolo Brunelleschi-Faggiani,1992-06-20,16127,middle schools,M,109888,143,54,broken bones
-129,Flavia Palombi,1935-02-13,16155,middle schools,O,30997,195,89,stomach
-130,Sig. Ruggero Ravaglioli,1969-05-02,16117,phd,O,99173,171,140,headache
-131,Amleto Ruffini-Nosiglia,1937-12-01,16166,high schools,N/D,56923,192,89,headache
-132,Diana Campanella,1986-05-13,16035,master degree,M,51215,149,92,headache
-133,Carolina Battisti,1983-08-26,16109,middle schools,F,107975,169,119,stomach
-134,Giacomo Ungaretti-Randazzo,1933-09-16,16147,middle schools,O,106672,175,60,broken bones
-135,Nicola Boitani-Bernardi,1961-11-17,16042,middle schools,O,47765,190,66,backpain
-136,Dott. Rosaria Catenazzi,2000-09-16,16012,elementary schools,O,88479,200,149,broken bones
-137,Raffaele Morlacchi,1942-06-07,16147,middle schools,F,71865,178,128,headache
-138,Vincenza Gelli,1979-03-05,16159,elementary schools,F,98055,145,66,stomach
-139,Elena Mocenigo-Canova,1948-11-17,16101,master degree,F,111554,145,114,headache
-140,Etta Bignami,1969-03-05,16119,bachelor degree,O,28895,162,80,headache
-141,Ennio Fischetti,1952-07-21,16134,middle schools,O,103304,183,141,stomach
-142,Piergiorgio Costalonga-Malaparte,1971-03-01,16053,elementary schools,O,94323,187,149,broken bones
-143,Dott. Camilla Notarbartolo,2004-02-13,16033,high schools,M,17086,192,144,flu
-144,Renata Righi,1941-07-25,16153,elementary schools,O,46062,171,142,hearth disease
-145,Romina Grifeo,1983-11-13,16119,elementary schools,O,43381,172,46,stomach
-146,Sig.ra Donna Canova,1952-08-16,16113,bachelor degree,N/D,35315,185,116,broken bones
-147,Bianca Maggioli,1951-05-16,16100,elementary schools,M,116995,188,117,hearth disease
-148,Raffaele Offredi,1999-09-21,16162,master degree,O,96923,180,147,headache
-149,Pierina Manolesso,1948-01-07,16020,elementary schools,M,83676,154,66,backpain
-150,Pier Proietti,1943-04-25,16044,elementary schools,N/D,82609,170,127,broken bones
-151,Dott. Ernesto Bignami,2005-12-25,16073,elementary schools,N/D,100319,176,72,backpain
-152,Eraldo Mezzetta,1948-05-18,16105,elementary schools,F,80241,177,53,stomach
-153,Pierpaolo Cristoforetti,1994-09-18,16162,middle schools,M,62317,159,85,backpain
-154,Sig.ra Liana Gilardoni,2007-09-17,16119,high schools,M,82776,172,91,stomach
-155,Bianca Gaito,1997-07-25,16018,middle schools,N/D,77392,185,105,headache
-156,Benvenuto Antonello-Nicolini,1956-08-24,16063,middle schools,O,21051,165,80,flu
-157,Dott. Filippa Tamburi,1999-08-13,16138,elementary schools,M,115726,141,65,hearth disease
-158,Martino Visintini-Silvestri,1948-12-28,16073,master degree,O,104772,193,63,stomach
-159,Benvenuto Chigi,1960-05-28,16111,bachelor degree,O,100611,200,95,backpain
-160,Romina Gramsci,1948-10-26,16112,elementary schools,F,12863,186,77,headache
-161,Claudia Bignami-Forza,1979-04-25,16141,middle schools,F,36469,176,88,stomach
-162,Fabio Correr-Carfagna,1977-11-10,16036,middle schools,M,90777,140,58,backpain
-163,Galasso Vercelloni,1998-05-13,16076,bachelor degree,N/D,113553,171,81,hearth disease
-164,Dionigi Paganini,1937-11-24,16106,elementary schools,N/D,95555,176,92,backpain
-165,Massimiliano Peranda,1974-10-15,16035,middle schools,F,107523,142,111,flu
-166,Corrado Tartini,1947-07-28,16035,elementary schools,N/D,80314,146,54,headache
-167,Vincenza Mercati,1972-10-12,16160,elementary schools,M,87417,178,90,backpain
-168,Annetta Amaldi,1942-12-11,16137,middle schools,M,39669,184,120,hearth disease
-169,Angelica Faranda,1977-12-01,16036,high schools,F,29720,143,88,hearth disease
-170,Giacinto Renier,1995-10-26,16084,high schools,M,74436,146,64,stomach
-171,Ubaldo Marinetti,1967-09-25,16057,bachelor degree,M,49572,155,147,stomach
-172,Dott. Filippa Boito,1955-02-24,16048,high schools,N/D,87060,168,46,hearth disease
-173,Augusto Pigafetta-Dossi,1999-01-02,16111,master degree,N/D,68664,153,60,broken bones
-174,Lolita Bonaventura,1982-02-11,16045,high schools,N/D,116813,178,124,stomach
-175,Bartolomeo Trupiano,1965-07-09,16117,master degree,N/D,77520,185,90,stomach
-176,Romana Petrocelli,1995-09-05,16125,middle schools,F,98378,153,81,stomach
-177,Dott. Stella Bertoni,2005-02-03,16017,high schools,F,64394,192,130,stomach
-178,Arturo Rinaldi,1940-08-17,16061,elementary schools,M,56292,143,112,headache
-179,Amanda Staglieno,1950-01-28,16144,high schools,M,86107,147,61,backpain
-180,Arsenio Moccia,1965-08-17,16020,middle schools,O,57590,150,71,hearth disease
-181,Antonella Cibin,1962-10-21,16047,high schools,N/D,105285,161,91,backpain
-182,Ninetta Dibiasi,1977-10-05,16124,middle schools,M,63018,195,82,stomach
-183,Giulia Liguori,1931-12-21,16097,elementary schools,F,58296,185,128,flu
-184,Sig. Gioachino Scarpa,1998-05-20,16081,elementary schools,N/D,51745,156,97,flu
-185,Stefani Malaparte,1985-01-05,16075,bachelor degree,N/D,86590,187,63,backpain
-186,Caterina Veneziano,1990-01-04,16062,middle schools,F,17942,156,46,stomach
-187,Durante Respighi,1986-11-15,16020,high schools,F,59663,150,91,backpain
-188,Antonino Pavarotti,1981-04-03,16145,bachelor degree,F,117692,190,123,flu
-189,Annamaria Gioberti,1993-11-01,16133,elementary schools,O,22841,156,52,headache
-190,Ermes Matteotti,1957-11-26,16072,middle schools,M,75998,147,82,headache
-191,Victoria Fusani,1965-05-17,16091,middle schools,O,48850,186,91,backpain
-192,Renata Persico-Burcardo,1960-01-12,16119,high schools,M,108940,156,59,flu
-193,Sig. Tonino Lupo,1976-06-14,16157,high schools,F,85150,187,86,stomach
-194,Morena Montalti,1995-02-16,16079,middle schools,F,33124,150,130,backpain
-195,Valentina Mercati,1970-06-15,16053,middle schools,N/D,32401,192,141,backpain
-196,Goffredo Nolcini,1980-04-22,16047,master degree,F,91006,199,74,flu
-197,Roberta Verga,1984-12-15,16101,middle schools,M,60578,154,45,broken bones
-198,Ermes Grossi,2007-11-16,16066,middle schools,M,32257,173,113,flu
-199,Sig.ra Monica Telesio,1934-07-16,16104,elementary schools,O,78325,196,116,broken bones
-200,Sabatino Navarria-Puglisi,1986-03-01,16084,elementary schools,N/D,22892,199,97,hearth disease
-201,Imelda Disdero,1959-12-27,16102,high schools,M,47935,151,72,hearth disease
-202,Bettina Zanichelli,1991-10-04,16099,high schools,M,116422,149,63,flu
-203,Hugo Boccioni,1938-11-04,16035,master degree,O,109466,190,127,hearth disease
-204,Donna Zampa,1984-05-28,16028,high schools,O,22742,146,62,broken bones
-205,Ezio Luna,1999-02-05,16024,middle schools,F,86101,189,97,stomach
-206,Dott. Simonetta Andreotti,1966-11-07,16119,bachelor degree,M,115176,193,111,backpain
-207,Laureano Foa,1949-10-12,16157,high schools,O,110719,195,117,broken bones
-208,Michelotto Sabatini,2007-12-08,16018,bachelor degree,M,21707,148,100,stomach
-209,Sig. Alfio Roncalli,1962-06-22,16140,elementary schools,N/D,93054,153,139,backpain
-210,Giuliana Caironi-Chechi,1934-09-25,16086,elementary schools,N/D,80889,165,117,backpain
-211,Elena Vianello,1959-06-03,16090,bachelor degree,M,73031,177,51,hearth disease
-212,Guglielmo Ossola,2000-01-08,16010,master degree,N/D,48836,152,61,stomach
-213,Emma Alboni-Ioppi,1956-04-21,16106,elementary schools,F,99670,161,47,headache
-214,Sig.ra Stella Argentero,1988-01-08,16017,elementary schools,M,38699,148,123,broken bones
-215,Raffaello Druso,1933-04-02,16039,master degree,O,106429,163,59,broken bones
-216,Lucrezia Barsanti,1982-01-23,16038,high schools,M,35756,179,129,hearth disease
-217,Bianca Marangoni,2001-02-12,16139,high schools,F,72446,172,58,flu
-218,Marta Dulbecco,1997-10-12,16044,master degree,M,21763,183,61,hearth disease
-219,Dott. Tiziana Ubaldi,1948-11-19,16097,middle schools,M,39095,169,84,headache
-220,Sig.ra Annunziata Muratori,1972-12-01,16031,middle schools,M,85849,144,103,flu
-221,Vincentio Luxardo,2004-06-17,16027,high schools,O,22915,177,114,stomach
-222,Arnaldo Altera,1990-11-08,16122,high schools,N/D,36309,148,147,broken bones
-223,Lolita Galuppi,1943-02-09,16019,elementary schools,F,20743,193,108,stomach
-224,Annetta Migliaccio-Conte,1967-02-03,16012,elementary schools,F,58382,196,117,backpain
-225,Enzio Gianvecchio,2001-08-12,16060,elementary schools,M,52510,173,58,flu
-226,Annunziata Pertile,1954-05-04,16020,middle schools,F,79906,172,67,headache
-227,Dott. Raffaella Giorgetti,1949-07-07,16117,elementary schools,F,113503,147,142,hearth disease
-228,Sig. Sandro Catalano,2007-04-03,16048,high schools,F,107220,147,146,backpain
-229,Matilda Gagliano,1994-04-19,16053,elementary schools,O,41499,185,133,headache
-230,Sig. Mirko Offredi,1930-10-14,16040,high schools,N/D,108695,193,73,flu
-231,Melina Bragaglia-Bulzoni,2004-06-20,16137,high schools,M,40574,140,91,hearth disease
-232,Elena Crespi,1962-02-21,16056,high schools,M,17625,151,134,stomach
-233,Gian Pacetti,1954-08-16,16148,elementary schools,F,119391,191,51,backpain
-234,Sig. Dionigi Ricolfi,1994-08-09,16129,elementary schools,O,58446,161,140,backpain
-235,Osvaldo Lettiere,1953-12-23,16125,middle schools,O,104934,166,93,headache
-236,Caterina Collodi,1975-07-04,16077,middle schools,O,115720,161,95,broken bones
-237,Lucia Morrocco,1995-01-12,16114,elementary schools,M,53993,187,110,flu
-238,Germana Toselli,1970-03-03,16128,master degree,N/D,14209,192,115,backpain
-239,Melina Gori,1962-09-06,16030,middle schools,O,44203,190,107,broken bones
-240,Gustavo Vattimo,1965-02-08,16021,high schools,F,83113,192,99,stomach
-241,Piersanti Boccioni,1990-06-11,16023,middle schools,F,66634,160,98,stomach
-242,Fortunata Roero,2001-04-18,16097,elementary schools,F,113404,149,90,broken bones
-243,Dina Falcone,1942-06-28,16070,elementary schools,F,104075,147,107,headache
-244,Tina Scarlatti,1937-10-06,16119,high schools,F,106263,143,138,broken bones
-245,Ugo Scalera-Scalera,1950-03-02,16026,middle schools,M,74110,162,85,stomach
-246,Tonia Cutrufo-Barillaro,1932-02-01,16022,middle schools,N/D,93633,150,145,backpain
-247,Imelda Tomasetti,1978-11-19,16092,high schools,O,95995,151,46,backpain
-248,Valeria Comencini,1960-02-08,16032,middle schools,O,109638,166,120,headache
-249,Ezio Pedroni,1978-08-13,16066,high schools,F,76123,195,108,backpain
-250,Gemma Lombardo,1982-01-03,16094,middle schools,O,24092,191,124,headache
-251,Uberto Gioberti-Samele,1944-11-05,16034,middle schools,O,19199,187,66,backpain
-252,Stella Cheda,1947-05-11,16037,elementary schools,M,74466,154,121,headache
-253,Lauretta Franceschi-Fracci,1942-08-06,16119,middle schools,N/D,108711,168,76,stomach
-254,Fausto Tropea,1979-07-27,16130,elementary schools,F,50764,197,109,hearth disease
-255,Livio Ramazzotti-Carfagna,1973-09-19,16025,middle schools,M,82576,197,140,headache
-256,Oreste Pace-Respighi,1983-07-13,16145,elementary schools,M,34456,194,61,broken bones
-257,Eleanora Crisafulli-Mimun,1949-12-07,16056,middle schools,N/D,57620,177,142,stomach
-258,Nedda Camilleri,1976-08-16,16117,middle schools,N/D,93890,172,102,flu
-259,Viridiana Murialdo-Viola,1977-01-15,16038,phd,M,87362,165,53,stomach
-260,Matteo Sabbatini,1997-02-28,16081,high schools,O,56175,169,104,headache
-261,Fausto Scarpa,1969-02-01,16060,elementary schools,F,74713,154,77,stomach
-262,Letizia Iannucci,1964-03-13,16064,high schools,M,73009,172,125,flu
-263,Dott. Benedetto Tasso,1949-06-05,16065,bachelor degree,M,109917,165,62,stomach
-264,Fernanda Castioni,1956-05-16,16082,elementary schools,O,98746,197,60,broken bones
-265,Dott. Serafina Pirelli,1934-10-27,16046,elementary schools,F,72872,189,144,flu
-266,Silvia Merisi-Ferrata,1969-01-05,16029,middle schools,M,21563,183,84,broken bones
-267,Dott. Baccio Luxardo,1983-05-02,16144,middle schools,M,110717,143,114,flu
-268,Mattia Abbagnale,1991-01-15,16146,elementary schools,M,48295,186,76,flu
-269,Greca Gussoni,1934-04-04,16149,elementary schools,F,114254,165,109,backpain
-270,Alessandra Tasca,1962-04-14,16157,middle schools,M,19035,178,108,hearth disease
-271,Serena Cantimori,1956-01-11,16136,elementary schools,N/D,110325,184,96,headache
-272,Matilda Matteotti,1979-07-02,16089,middle schools,N/D,29699,181,123,stomach
-273,Paolo Bonatti,1944-08-23,16141,master degree,M,109119,157,81,broken bones
-274,Durante Gangemi,1991-03-03,16058,elementary schools,O,84018,177,81,flu
-275,Paloma Gelli,1944-10-28,16131,high schools,O,27287,146,150,broken bones
-276,Caterina Mannoia,1983-04-07,16027,bachelor degree,N/D,36881,196,132,backpain
-277,Fausto Parini,1996-08-02,16095,middle schools,M,55539,177,134,broken bones
-278,Dott. Renzo Modigliani,1982-11-02,16107,high schools,O,40476,153,72,backpain
-279,Calogero Bonolis,1943-05-15,16010,master degree,O,37558,145,103,broken bones
-280,Lilla Chiaramonte-Vattimo,1980-10-10,16064,elementary schools,N/D,74600,171,83,stomach
-281,Carla Pezzali,1970-08-18,16159,master degree,N/D,13165,170,46,hearth disease
-282,Leonardo Tutino,1948-02-07,16166,high schools,O,30762,194,104,broken bones
-283,Tina Ricolfi,1939-07-15,16013,elementary schools,O,73129,198,108,stomach
-284,Michela Lattuada,1974-06-07,16094,elementary schools,F,20950,157,50,backpain
-285,Amadeo Crisafulli-Spinelli,1935-06-01,16148,middle schools,O,23893,159,109,backpain
-286,Sig.ra Paulina Pedersoli,1973-12-15,16099,elementary schools,N/D,109992,163,51,headache
-287,Bianca Iannucci-Moretti,1969-06-02,16124,high schools,N/D,13282,199,145,hearth disease
-288,Dott. Torquato Micheletti,1949-07-15,16074,middle schools,O,77926,172,116,hearth disease
-289,Tatiana Cadorna-Faggiani,1947-05-24,16089,high schools,O,31889,185,115,stomach
-290,Eugenia Cipolla,1950-04-12,16132,middle schools,M,115428,147,75,stomach
-291,Sig.ra Rossana Foletti,1994-08-12,16098,bachelor degree,M,111538,196,83,broken bones
-292,Dott. Veronica Salgari,1971-07-13,16139,high schools,O,38001,190,51,backpain
-293,Ernesto Argurio,1942-10-19,16013,middle schools,M,20189,158,79,stomach
-294,Barbara Zecchini-Morucci,2006-01-17,16066,elementary schools,M,72180,196,123,broken bones
-295,Dina Lercari,1952-01-26,16049,middle schools,N/D,74294,154,49,hearth disease
-296,Rocco Randazzo,1997-11-08,16056,high schools,F,118615,161,102,backpain
-297,Ugolino Bonanno,1962-06-25,16085,high schools,M,98942,196,76,hearth disease
-298,Eva Aporti,1986-12-20,16054,middle schools,M,22494,173,124,flu
-299,Sig.ra Valeria Trapani,1935-03-20,16160,elementary schools,M,18665,189,63,broken bones
-300,Coluccio Armani,1997-11-18,16033,high schools,M,27407,143,132,broken bones
-301,Dott. Maria Bottaro,1944-11-09,16054,master degree,F,21263,150,66,hearth disease
-302,Liberto Cannizzaro,1943-05-14,16023,middle schools,O,61348,179,51,flu
-303,Dott. Manuel Innocenti,1981-11-02,16110,elementary schools,M,83504,141,110,stomach
-304,Daniele Carli-Boldù,1961-03-23,16167,master degree,O,47840,188,141,hearth disease
-305,Gelsomina Gravina,1981-04-20,16167,master degree,O,67256,171,79,stomach
-306,Luciano Savorgnan,1949-11-13,16156,middle schools,O,103211,189,87,stomach
-307,Sig. Domenico Iannuzzi,2005-02-23,16025,middle schools,N/D,38331,200,61,broken bones
-308,Silvio Cuzzocrea,1955-10-09,16107,middle schools,F,104080,151,145,backpain
-309,Gabriele Rapisardi,1993-05-05,16069,high schools,F,16016,159,126,headache
-310,Sig. Fabio Nievo,2004-01-06,16012,middle schools,M,82414,172,128,hearth disease
-311,Sig. Coluccio Paltrinieri,1959-05-12,16101,elementary schools,F,91665,155,57,broken bones
-312,Luciano Palombi,1999-05-09,16029,middle schools,M,34313,142,129,headache
-313,Valerio Battisti,1931-09-06,16114,high schools,F,101595,166,127,stomach
-314,Jacopo Scarfoglio-Sokolov,1956-01-09,16117,elementary schools,F,90130,200,104,flu
-315,Costantino Perini,2003-08-03,16100,master degree,O,77798,169,137,flu
-316,Toni Trillini,1962-03-02,16067,middle schools,N/D,115889,142,81,backpain
-317,Pierluigi Sorrentino,1991-07-21,16156,middle schools,M,40881,145,67,headache
-318,Irma Puglisi-Anichini,1980-03-21,16157,middle schools,F,50397,186,118,stomach
-319,Elladio Viviani,2008-08-10,16105,middle schools,M,81174,178,143,flu
-320,Filippo Veltroni,2005-06-21,16167,high schools,O,59297,196,131,flu
-321,Sonia Trevisan,1937-01-12,16118,elementary schools,M,65911,156,45,backpain
-322,Nicoletta Faugno,1957-04-12,16107,middle schools,M,78892,180,69,flu
-323,Venancio Mancini,1971-06-17,16018,bachelor degree,F,111850,160,149,broken bones
-324,Pierpaolo Malenchini,1948-10-10,16020,middle schools,N/D,38310,171,53,stomach
-325,Mauro Branciforte,1980-07-23,16066,middle schools,F,108368,190,91,hearth disease
-326,Liliana Mogherini,1958-03-06,16023,elementary schools,F,83308,165,126,backpain
-327,Dott. Paola Nonis,1949-08-12,16146,high schools,N/D,28254,142,118,hearth disease
-328,Alessandro Piccio,1943-03-25,16077,master degree,M,35544,145,62,hearth disease
-329,Beatrice Malatesta,1945-10-10,16161,elementary schools,N/D,52717,194,81,backpain
-330,Sabatino Bellini-Viviani,1934-09-04,16106,master degree,M,19857,200,129,stomach
-331,Saverio Caruso-Bramante,1958-09-25,16041,middle schools,M,53923,168,126,hearth disease
-332,Sig.ra Marta Biagiotti,1991-07-05,16091,high schools,M,101201,195,146,backpain
-333,Rossana Praga,1986-06-08,16130,master degree,N/D,53562,152,57,stomach
-334,Dott. Dionigi Nicolini,1994-02-20,16086,master degree,M,60113,183,79,headache
-335,Susanna Paruta,1980-05-11,16065,middle schools,M,50709,143,150,broken bones
-336,Annamaria Bocelli,1959-04-27,16105,master degree,N/D,38770,190,77,flu
-337,Viridiana Tebaldi,1998-09-04,16015,master degree,F,60823,182,99,hearth disease
-338,Pasquale Antonucci,1995-04-12,16070,elementary schools,M,38964,175,107,headache
-339,Oreste Druso-Liverotti,1966-10-11,16160,elementary schools,M,111395,176,48,broken bones
-340,Michelotto Carli,1994-09-15,16014,middle schools,M,92376,152,149,broken bones
-341,Piermaria Caironi,1958-06-23,16164,high schools,N/D,88411,161,73,flu
-342,Costanzo Pizzamano,1933-08-28,16131,high schools,F,39861,162,98,stomach
-343,Dott. Giampaolo Palumbo,1992-11-03,16046,high schools,F,34302,153,94,backpain
-344,Gloria Gottardi-Traversa,1963-06-05,16128,elementary schools,M,18125,152,45,backpain
-345,Matilda Santoro,1992-12-06,16025,high schools,M,25398,182,133,backpain
-346,Nicolò Moschino,1980-06-28,16046,middle schools,F,111476,179,136,broken bones
-347,Antonina Florio,1964-12-25,16159,middle schools,O,36223,155,98,stomach
-348,Tonino Morosini,2004-11-14,16147,middle schools,N/D,62361,193,118,headache
-349,Antonietta Carosone-Ariasso,1960-06-27,16087,middle schools,M,12174,154,132,hearth disease
-350,Sig.ra Bianca Cilibrasi,1949-01-06,16145,high schools,M,44367,146,124,hearth disease
-351,Dott. Amalia Druso,1958-10-26,16031,elementary schools,F,84341,174,54,backpain
-352,Umberto Tacchini,2004-04-20,16082,middle schools,O,14594,166,107,backpain
-353,Dott. Ermenegildo Stucchi,1986-07-09,16080,elementary schools,M,33211,194,90,stomach
-354,Giuliano Ritacca,1948-07-27,16112,middle schools,F,103835,166,131,headache
-355,Beppe Muti-Cendron,2006-07-04,16117,elementary schools,O,35951,167,76,broken bones
-356,Nico Sismondi,1979-09-04,16155,master degree,F,97528,187,69,backpain
-357,Rosina Mondadori,1940-04-14,16136,middle schools,N/D,117396,199,137,broken bones
-358,Rocco Silvestri-Fanucci,2000-08-13,16117,elementary schools,M,41021,175,128,backpain
-359,Dott. Alina Salata,1938-08-16,16011,bachelor degree,F,34524,180,56,backpain
-360,Laura Bellini-Bettoni,1993-09-21,16107,high schools,O,90178,192,95,headache
-361,Gianfrancesco Bottaro,1955-10-02,16056,middle schools,N/D,15143,162,89,flu
-362,Greca Finetti,1973-04-14,16013,high schools,F,115055,169,47,broken bones
-363,Ignazio Gottardi,1986-01-04,16149,high schools,N/D,89026,145,136,headache
-364,Benedetto Mercalli,1997-02-25,16023,elementary schools,F,21031,181,61,hearth disease
-365,Griselda Bruscantini,1960-06-02,16039,middle schools,F,82948,141,113,headache
-366,Geronimo Prada,1990-10-01,16033,middle schools,O,27509,192,95,backpain
-367,Maura Spinola,1990-10-04,16115,middle schools,F,32832,190,81,backpain
-368,Isabella Almagià,1982-03-01,16146,bachelor degree,O,13654,178,150,backpain
-369,Gianna Pignatti-Boccioni,1994-01-22,16073,elementary schools,O,61458,145,69,broken bones
-370,Paloma Cassarà,1994-12-10,16042,middle schools,O,69693,176,116,broken bones
-371,Dott. Flavia Bergoglio,1950-08-28,16122,middle schools,F,79541,195,98,flu
-372,Roman Campano,1983-03-14,16165,elementary schools,O,41403,147,69,headache
-373,Antonietta Monicelli,1946-11-20,16025,high schools,N/D,19020,140,94,stomach
-374,Sig. Enzio Curci,1994-05-03,16156,master degree,M,48963,191,124,flu
-375,Loredana Vitturi,1942-09-03,16062,high schools,O,46457,200,86,flu
-376,Azeglio Parini,1941-10-28,16030,master degree,M,90578,160,129,flu
-377,Dott. Donna Basso,1969-02-17,16093,elementary schools,O,76755,150,83,headache
-378,Eva Garzoni,1930-01-03,16085,bachelor degree,N/D,33149,196,111,stomach
-379,Marta Parini-Tropea,2008-03-22,16012,high schools,O,77344,148,142,backpain
-380,Federico Vecoli-Polani,2004-07-09,16162,high schools,M,27063,168,150,stomach
-381,Ninetta Petrucci-Tolentino,1988-06-20,16016,elementary schools,M,22386,175,75,hearth disease
-382,Marissa Fantozzi-Marconi,1970-07-25,16011,high schools,N/D,84657,197,139,headache
-383,Dott. Sonia Nordio,1965-07-04,16078,elementary schools,F,67497,194,120,headache
-384,Angelica Ariasso,1979-01-25,16121,middle schools,N/D,23514,196,97,flu
-385,Tiziano Seddio-Zaccagnini,1985-09-03,16079,elementary schools,O,107523,144,136,stomach
-386,Gionata Rapisardi,2007-03-03,16133,elementary schools,F,87291,184,91,hearth disease
-387,Romina Manolesso,1978-10-15,16079,high schools,O,79845,183,80,backpain
-388,Pierpaolo Vecoli,1941-06-17,16139,high schools,M,69978,193,148,hearth disease
-389,Amalia Sansoni,1952-12-22,16062,elementary schools,O,20400,154,93,flu
-390,Giulio Comolli-Piazzi,1953-05-15,16099,high schools,N/D,38640,150,89,headache
-391,Fabrizia Balbi,1938-01-05,16062,elementary schools,O,13793,145,94,headache
-392,Olga Molesini,1988-05-22,16166,elementary schools,F,53109,184,95,hearth disease
-393,Nadia Balla,1981-08-20,16127,elementary schools,M,30520,154,125,backpain
-394,Luciano Gonzaga,1973-06-24,16032,master degree,M,89861,173,68,headache
-395,Graziella Scaduto,1981-05-02,16086,bachelor degree,O,14619,196,63,headache
-396,Sergius Cremonesi-Cutuli,1996-08-17,16013,elementary schools,F,69854,173,81,stomach
-397,Ruggero Fallaci-Cabrini,1992-02-14,16097,phd,M,22407,196,133,stomach
-398,Paola Nolcini,1949-08-11,16136,high schools,F,29725,146,67,flu
-399,Sante Mastandrea,1985-04-03,16080,high schools,N/D,55953,193,55,stomach
-400,Alessio Persico,1982-11-12,16079,elementary schools,M,17280,158,102,headache
-401,Sig. Ugolino Campanella,1965-07-22,16161,high schools,M,77375,159,45,flu
-402,Nicoletta Comeriato-Parisi,1947-07-02,16057,middle schools,O,91526,169,114,broken bones
-403,Eleanora Garzoni,1946-05-22,16150,high schools,F,30311,196,51,backpain
-404,Amanda Manunta,1947-11-04,16085,phd,M,42142,200,132,flu
-405,Coriolano Piacentini-Sraffa,1990-02-26,16057,high schools,M,50322,152,127,flu
-406,Lorenzo Benedetti-Leonetti,1990-03-15,16050,middle schools,N/D,48144,196,70,flu
-407,Fredo Biagiotti,2007-12-27,16125,middle schools,N/D,84308,177,68,hearth disease
-408,Adelasia Verri,1976-01-17,16105,elementary schools,M,119827,192,88,headache
-409,Iolanda Parpinel,1957-12-23,16056,middle schools,M,21210,162,73,hearth disease
-410,Ignazio Ferrucci,1964-05-23,16165,middle schools,M,116386,148,68,stomach
-411,Isabella Baglioni,1958-05-17,16045,master degree,M,83734,141,93,hearth disease
-412,Gelsomina Foà,1932-03-18,16092,elementary schools,M,77678,142,85,headache
-413,Dott. Carmelo Celentano,1977-07-23,16166,middle schools,F,53397,165,137,stomach
-414,Dott. Dino Luna,1961-04-25,16026,high schools,N/D,113252,140,84,stomach
-415,Raffaello Eco,1979-07-23,16063,high schools,N/D,100567,180,65,backpain
-416,Gabriella Acerbi,2004-10-22,16140,middle schools,O,48470,180,81,headache
-417,Giada Raimondi,1974-02-01,16099,elementary schools,O,91099,179,123,broken bones
-418,Jolanda Scarponi,1960-09-22,16053,elementary schools,O,119994,172,84,stomach
-419,Carolina Ludovisi,1947-07-17,16012,high schools,M,93328,140,133,backpain
-420,Liberto Broggini,1968-02-16,16105,elementary schools,F,39514,141,143,backpain
-421,Gianfrancesco Farnese,1949-07-28,16044,middle schools,O,64672,196,149,broken bones
-422,Sig. Sergius Matteotti,1953-04-27,16037,high schools,N/D,82655,152,129,broken bones
-423,Renzo Pisano-Vigliotti,1971-12-07,16103,elementary schools,M,44748,153,136,broken bones
-424,Nedda Bonaventura,1987-02-24,16050,middle schools,O,20311,185,77,backpain
-425,Girolamo Comencini,1956-08-16,16022,high schools,F,118430,161,115,headache
-426,Sig. Rocco Ferrara,1960-05-09,16049,high schools,N/D,13495,160,73,broken bones
-427,Daniele Barese,1968-04-14,16138,middle schools,F,110020,185,90,broken bones
-428,Romina Stein,1942-06-14,16159,middle schools,M,37811,156,90,flu
-429,Greca Gabbana,1985-08-11,16067,elementary schools,N/D,62969,164,128,broken bones
-430,Irma Togliatti-Esposito,1979-10-21,16152,high schools,M,86767,195,129,headache
-431,Ivan Aporti-Zanzi,1932-11-13,16124,high schools,O,64343,179,110,headache
-432,Angelo Falcone,1946-11-14,16157,elementary schools,N/D,62682,169,70,stomach
-433,Adriana Soderini,1991-02-22,16072,master degree,N/D,115859,172,61,headache
-434,Marco Sgalambro,1972-08-09,16130,elementary schools,N/D,57216,186,137,headache
-435,Maria Moneta,1974-06-05,16105,elementary schools,N/D,15489,169,122,broken bones
-436,Dott. Delfino Fagotto,1993-02-01,16073,elementary schools,F,118920,154,59,headache
-437,Rossana Petrucci,1958-02-13,16072,middle schools,O,91713,152,84,broken bones
-438,Gioele Saraceno,1989-10-12,16128,high schools,M,94868,141,75,flu
-439,Bernardo Vanvitelli-Bocelli,1997-09-23,16153,elementary schools,F,38824,172,142,stomach
-440,Sig.ra Pina Pizzo,1980-06-14,16162,middle schools,N/D,52586,150,83,hearth disease
-441,Francesca Scotti,2003-07-27,16032,high schools,M,37214,183,80,broken bones
-442,Dott. Martino Agnesi,1985-01-26,16066,middle schools,N/D,106733,165,138,broken bones
-443,Dolores Conti,1987-07-02,16110,master degree,O,47191,182,58,hearth disease
-444,Sig.ra Raffaella Scandone,2004-12-24,16099,middle schools,F,96896,168,55,broken bones
-445,Dott. Martina Cardano,1998-01-16,16080,elementary schools,M,99077,199,140,broken bones
-446,Carolina Vergerio,1976-09-25,16107,high schools,O,59532,176,53,stomach
-447,Ramona Barcella,1932-02-10,16061,elementary schools,F,29970,190,77,hearth disease
-448,Galasso Forza,1979-06-12,16149,middle schools,M,96595,177,69,headache
-449,Lina Finetti,1942-03-26,16078,elementary schools,M,78958,141,52,hearth disease
-450,Alessandro Campano,2001-05-27,16057,high schools,N/D,19804,155,103,backpain
-451,Carla Ungaretti,1956-08-02,16078,middle schools,M,87464,143,121,backpain
-452,Antonietta Verdone,1985-06-28,16011,master degree,O,60698,182,54,backpain
-453,Sig. Roman Moneta,1972-05-09,16050,middle schools,M,40677,179,84,hearth disease
-454,Fiamma Maffei,2005-04-01,16126,elementary schools,M,42762,196,61,headache
-455,Geronimo Maggioli,1973-11-10,16162,middle schools,N/D,59652,186,125,stomach
-456,Gino Soranzo,1966-02-16,16059,elementary schools,O,34371,142,128,broken bones
-457,Goffredo Ritacca,2004-01-06,16109,elementary schools,M,14856,148,51,broken bones
-458,Mario Lussu,1985-01-27,16123,elementary schools,N/D,73225,178,73,flu
-459,Sig. Dante Lollobrigida,1978-08-16,16068,high schools,O,61557,170,84,hearth disease
-460,Corrado Bosurgi,1945-04-09,16144,middle schools,O,118714,199,66,flu
-461,Riccardo Tornatore-Battaglia,1940-03-05,16039,middle schools,M,16275,147,84,stomach
-462,Michelotto Leonardi,2004-03-20,16068,elementary schools,O,48885,191,119,flu
-463,Paride Draghi-Eco,1973-06-08,16145,middle schools,O,105214,181,54,hearth disease
-464,Fabio Barese,1930-04-02,16014,high schools,M,116866,168,85,flu
-465,Maria Pometta,2006-04-28,16090,middle schools,N/D,101088,155,69,flu
-466,Nina Venditti,1954-02-08,16050,high schools,O,43320,152,52,hearth disease
-467,Lilla Renzi,1985-03-15,16050,middle schools,M,54492,190,61,backpain
-468,Giuliano Guarana,1951-11-09,16154,middle schools,N/D,93416,169,54,backpain
-469,Dott. Aria Mengolo,1988-03-24,16080,middle schools,N/D,82292,164,89,headache
-470,Sig.ra Nadia Errani,1940-07-01,16107,middle schools,M,22802,170,128,hearth disease
-471,Azeglio Piovani,1959-04-17,16074,master degree,N/D,54471,163,46,stomach
-472,Gemma Almagià,1955-12-22,16055,high schools,O,40769,173,100,broken bones
-473,Lazzaro Doglioni,1977-12-08,16036,high schools,N/D,104800,153,50,hearth disease
-474,Giacobbe Giacconi,1989-03-10,16100,middle schools,O,80323,149,49,stomach
-475,Dott. Panfilo Boldù,1999-01-12,16109,bachelor degree,O,28609,168,68,broken bones
-476,Lucia Tamburini-Raurica,1936-01-20,16166,high schools,F,118395,158,47,flu
-477,Pierpaolo Foletti-Comboni,1938-07-21,16080,middle schools,F,45788,168,114,backpain
-478,Marissa Tosto,1995-02-10,16046,elementary schools,M,67854,148,72,broken bones
-479,Azeglio Villadicani-Einaudi,1973-03-02,16103,middle schools,F,93162,166,131,broken bones
-480,Graziella Romiti,1995-08-06,16074,high schools,O,14009,177,106,hearth disease
-481,Dott. Luca Bernini,1986-06-14,16041,high schools,M,94087,181,97,broken bones
-482,Michela Rienzo,1958-12-11,16136,elementary schools,F,59678,171,117,headache
-483,Dario Chiesa,1969-02-17,16064,elementary schools,N/D,68583,176,49,headache
-484,Dott. Raffaella Carriera,1983-08-27,16045,middle schools,N/D,86537,195,105,headache
-485,Lamberto Luria,2002-09-02,16096,high schools,O,72708,170,99,hearth disease
-486,Diana Belletini,2001-06-13,16019,high schools,N/D,103772,182,64,flu
-487,Giovanni Turci,1991-03-10,16064,middle schools,M,43524,191,137,broken bones
-488,Virginia Corbo,1983-11-22,16090,elementary schools,O,89512,172,116,headache
-489,Mattia Borrani,1955-11-04,16026,middle schools,F,66632,187,117,stomach
-490,Silvio Sbarbaro,1986-11-02,16094,middle schools,M,86110,158,129,stomach
-491,Aria Piovani,1960-01-15,16161,elementary schools,M,98862,174,81,hearth disease
-492,Marissa Zabarella-Garozzo,1981-09-17,16151,elementary schools,M,110772,170,107,headache
-493,Giovanna Morrocco,1962-05-02,16034,middle schools,N/D,12325,143,122,backpain
-494,Sig.ra Tina Fracci,1988-09-23,16110,master degree,F,69078,180,76,backpain
-495,Valentina Casarin,1939-06-18,16049,high schools,F,111776,187,45,broken bones
-496,Antonietta Caetani,1930-05-07,16151,high schools,O,75718,158,106,stomach
-497,Paolo Fieramosca-Guarneri,1959-04-09,16012,high schools,M,20720,153,120,headache
-498,Marisa Trentin,1934-04-13,16045,middle schools,O,79794,147,129,stomach
-499,Massimo Maderna-Merisi,1993-12-12,16078,high schools,M,14698,175,147,flu
-500,Hugo Duodo,2006-12-20,16037,middle schools,F,57031,165,94,stomach
-501,Serena Faranda,1989-09-11,16134,elementary schools,N/D,90921,145,134,hearth disease
-502,Sig. Rocco Zeffirelli,2005-09-09,16089,high schools,M,99698,183,98,backpain
-503,Donna Guidotti-Pavarotti,2006-01-14,16101,elementary schools,O,20843,155,61,broken bones
-504,Raffaele Boccaccio,1979-02-22,16092,middle schools,N/D,81355,180,64,flu
-505,Raffaella Raimondi,2004-11-18,16059,high schools,M,98714,169,84,stomach
-506,Dott. Valentina Viola,1947-11-25,16082,master degree,M,98914,200,127,flu
-507,Gioffre Samele,1938-06-04,16034,middle schools,F,49213,170,85,headache
-508,Lisa Ajello,1953-04-16,16018,master degree,F,98172,171,104,headache
-509,Rossana Contrafatto,1977-11-16,16088,elementary schools,M,33171,151,124,broken bones
-510,Victoria Tomasetti,1991-12-21,16159,elementary schools,F,32122,184,128,hearth disease
-511,Torquato Villadicani,1997-06-26,16047,middle schools,N/D,66983,190,133,stomach
-512,Gianni Salvini,1931-03-01,16123,middle schools,O,97418,187,134,headache
-513,Giacinto Salandra,1946-03-15,16162,high schools,F,104106,196,113,hearth disease
-514,Sig.ra Flora Righi,1936-08-16,16056,elementary schools,M,37179,142,97,backpain
-515,Fulvio Callegari,1973-04-15,16073,bachelor degree,N/D,61038,166,124,backpain
-516,Sig.ra Nicoletta Taliercio,1968-01-16,16029,elementary schools,F,25897,195,110,hearth disease
-517,Maria Bombieri,1974-04-05,16100,high schools,M,48137,154,88,broken bones
-518,Sebastiano Mengolo,1983-05-10,16146,high schools,F,91991,200,88,hearth disease
-519,Lodovico Micca,2003-02-13,16049,middle schools,N/D,71864,147,95,backpain
-520,Mauro Adinolfi-Lombardo,1999-05-09,16035,elementary schools,O,87194,171,126,broken bones
-521,Donatello Bresciani,1957-10-10,16014,elementary schools,O,24070,150,114,headache
-522,Galasso Leopardi,1960-09-05,16115,master degree,F,56871,145,76,stomach
-523,Greca Casagrande,1996-08-13,16110,middle schools,N/D,55719,141,102,flu
-524,Silvio Necci-Morabito,1990-01-27,16106,master degree,N/D,19535,142,73,stomach
-525,Luigi Chindamo,1975-07-15,16147,middle schools,O,85985,181,68,broken bones
-526,Adriano Goldstein,1938-10-04,16051,master degree,N/D,21894,175,150,headache
-527,Dott. Orazio Castellitto,2008-11-16,16131,elementary schools,O,43759,177,146,headache
-528,Fiorino Modiano,1947-03-15,16034,phd,O,109365,146,79,headache
-529,Sig.ra Annamaria Durante,1968-10-22,16130,elementary schools,F,56270,173,141,headache
-530,Mauro Mozart,1987-12-03,16135,elementary schools,F,102764,170,96,stomach
-531,Dott. Antonella Casadei,1960-01-03,16134,elementary schools,N/D,50553,180,78,backpain
-532,Angelo Prada,1957-11-07,16147,middle schools,M,94522,171,66,hearth disease
-533,Dott. Coluccio Campanella,1961-12-18,16092,elementary schools,N/D,22138,169,46,stomach
-534,Salvi Bertoni-Tosto,1940-01-01,16060,high schools,O,108315,158,124,headache
-535,Leopoldo Rienzo,1963-06-23,16134,high schools,N/D,14354,184,110,hearth disease
-536,Michelotto Stoppani,1962-12-09,16037,high schools,N/D,77159,165,63,stomach
-537,Gastone Morpurgo,1988-02-06,16074,high schools,M,44396,190,54,backpain
-538,Gianni Roth,1931-01-10,16036,elementary schools,F,46934,172,130,headache
-539,Costanzo Santorio,2005-03-02,16093,elementary schools,O,119977,161,126,flu
-540,Natalia Storladi,1945-02-23,16077,high schools,M,52387,183,52,broken bones
-541,Sergius Spinelli,1947-06-05,16074,middle schools,O,77742,186,141,hearth disease
-542,Laura Toselli-Meucci,1977-10-05,16088,master degree,F,17501,148,83,broken bones
-543,Silvestro Ruggeri,1991-10-04,16050,elementary schools,O,91915,186,105,backpain
-544,Iolanda Zacco,1961-12-19,16072,high schools,N/D,110608,147,112,headache
-545,Sig. Benedetto Sgarbi,1960-01-26,16028,elementary schools,F,43839,158,137,backpain
-546,Calcedonio Zampa-Fantoni,1991-03-21,16119,elementary schools,O,115422,140,96,backpain
-547,Gianni Pacelli,2007-12-05,16012,high schools,F,118973,194,80,stomach
-548,Paolo Donati,1951-08-23,16107,elementary schools,O,88565,141,79,hearth disease
-549,Annalisa Spadafora-Simeoni,1944-12-28,16093,middle schools,O,45827,198,79,hearth disease
-550,Adelasia Vitturi-Camicione,1955-10-15,16025,high schools,F,65166,146,102,headache
-551,Dott. Giulia Toscanini,1981-10-14,16074,high schools,M,86400,193,89,headache
-552,Cassandra Brancaccio-Porzio,1965-11-21,16084,middle schools,O,71642,196,64,headache
-553,Alina Cammarata,1961-06-18,16027,elementary schools,N/D,38995,195,47,headache
-554,Martina Majewski,1931-04-16,16129,master degree,O,22358,172,144,stomach
-555,Camilla Cortese,1991-01-17,16115,middle schools,M,54085,147,115,broken bones
-556,Monica Tremonti,1933-06-03,16138,high schools,M,61940,142,85,backpain
-557,Guarino Fornaciari,2007-12-22,16043,high schools,N/D,119823,171,132,broken bones
-558,Dott. Atenulf Zacco,1971-12-27,16087,master degree,N/D,62560,157,84,flu
-559,Carla Giannone,1958-08-22,16036,middle schools,O,74051,188,94,hearth disease
-560,Micheletto Caccioppoli,1964-07-06,16134,elementary schools,N/D,79880,169,135,headache
-561,Gabriele Errani,1981-05-04,16162,middle schools,F,114539,143,137,flu
-562,Adriana Sollima-Taliani,1977-02-22,16074,middle schools,O,98941,184,70,stomach
-563,Sig. Luciano Interminelli,1988-03-14,16133,high schools,N/D,75678,178,102,broken bones
-564,Costantino Vittadello,1980-04-20,16021,master degree,F,49626,165,122,headache
-565,Dott. Maria Samele,1967-05-01,16076,middle schools,F,60233,145,112,backpain
-566,Sylvia Foconi,2003-09-15,16074,high schools,F,93139,144,118,flu
-567,Gloria Bernetti-Lopresti,2004-05-23,16101,middle schools,F,18970,195,51,backpain
-568,Massimo Malaparte-Giunti,1945-05-17,16109,high schools,O,100148,144,147,stomach
-569,Oreste Carfagna,1972-07-02,16129,high schools,M,23691,186,96,stomach
-570,Dott. Gabriele Cociarelli,1934-11-24,16055,middle schools,M,105633,197,71,hearth disease
-571,Susanna Comolli,1931-04-04,16069,middle schools,F,116635,184,142,stomach
-572,Orazio Fallaci-Vezzali,1973-12-22,16059,master degree,M,42477,176,99,broken bones
-573,Umberto Morandini-Nugnes,1961-08-22,16130,high schools,F,50125,152,125,flu
-574,Carla Costalonga,1965-04-01,16027,high schools,O,39808,165,82,broken bones
-575,Sylvia Battaglia,1963-05-28,16157,high schools,M,109317,161,129,stomach
-576,Sig. Alphons Collodi,2001-03-04,16034,high schools,N/D,59245,161,131,broken bones
-577,Dante Mascagni,1973-04-24,16011,bachelor degree,M,69513,144,59,backpain
-578,Rita Michelangeli,1985-02-27,16061,high schools,M,85758,142,58,backpain
-579,Fabia Sgalambro,1982-03-14,16099,middle schools,N/D,14173,184,150,stomach
-580,Ruggiero Spinola,1930-11-27,16104,high schools,O,61374,162,67,backpain
-581,Dario Platini,1983-06-17,16136,middle schools,M,74268,167,68,headache
-582,Annamaria Borromini,2007-10-09,16106,middle schools,O,116579,185,134,hearth disease
-583,Dott. Flavia Iannotti,1958-12-24,16042,elementary schools,M,40848,186,69,backpain
-584,Severino Magrassi,1969-01-24,16020,middle schools,N/D,51725,193,141,headache
-585,Sig. Ottavio Verdi,2008-09-09,16042,elementary schools,O,48271,179,73,flu
-586,Sig. Alderano Mercadante,1943-02-11,16087,middle schools,N/D,93501,195,78,flu
-587,Osvaldo Petrucci-Curci,1995-10-15,16118,master degree,F,91221,164,46,hearth disease
-588,Gianpaolo Angeli,2001-08-13,16057,bachelor degree,N/D,14335,146,51,headache
-589,Vanessa Caracciolo-Lombardi,1954-10-08,16045,middle schools,N/D,18338,170,120,flu
-590,Lisa Scalfaro,2008-01-12,16072,elementary schools,F,117006,171,103,headache
-591,Dott. Alphons Cimini,2003-04-01,16060,middle schools,M,92043,156,106,broken bones
-592,Sig.ra Martina Jacuzzi,1994-03-04,16114,master degree,M,52339,173,119,hearth disease
-593,Sig. Gabriele Ariasso,1981-12-02,16089,middle schools,M,119688,143,140,broken bones
-594,Sig. Elladio Moneta,2007-02-19,16080,master degree,N/D,81889,164,139,hearth disease
-595,Arnaldo Cristoforetti,1939-05-25,16064,middle schools,F,107155,155,75,flu
-596,Dott. Isa Lettiere,1999-09-04,16022,middle schools,N/D,25150,175,145,stomach
-597,Francesca Capuana-Boccioni,1994-02-22,16141,high schools,N/D,43377,168,100,broken bones
-598,Fabrizia Procacci,1988-09-23,16165,middle schools,F,43012,148,100,headache
-599,Giacomo Druso,1997-05-07,16103,high schools,F,16422,162,57,headache
-600,Fiorino Ciampi,1930-03-02,16090,master degree,M,50486,185,50,broken bones
-601,Emilio Mercati,1996-12-14,16076,middle schools,O,74598,195,88,flu
-602,Ermes Gibilisco,1995-07-19,16068,middle schools,N/D,73353,141,76,hearth disease
-603,Ezio Turati,1983-10-08,16042,middle schools,O,93120,164,65,hearth disease
-604,Sig. Gianfranco Bocca,1970-07-08,16123,master degree,O,90312,183,101,flu
-605,Paulina Sagese,1981-05-03,16122,elementary schools,F,61171,196,124,hearth disease
-606,Luigina Tirabassi,1950-04-01,16052,bachelor degree,F,66036,197,99,stomach
-607,Gloria Pagliaro,1944-10-06,16050,elementary schools,M,83399,191,94,hearth disease
-608,Carla Nicolucci,1997-08-17,16152,middle schools,M,48733,182,75,stomach
-609,Ornella Broggini,1962-09-26,16156,high schools,O,116607,177,79,flu
-610,Gianni Scotto,1984-07-07,16038,high schools,N/D,86381,141,47,stomach
-611,Vittorio Legnante,1938-04-19,16090,master degree,O,115768,157,52,flu
-612,Francesca Modigliani,1948-05-13,16060,middle schools,F,22737,145,64,hearth disease
-613,Dott. Pierina Crisafulli,1969-03-28,16159,high schools,O,19393,174,78,hearth disease
-614,Delfino Cabrini,1993-03-26,16055,high schools,N/D,77168,185,99,broken bones
-615,Sig.ra Paloma Giannetti,1943-01-09,16080,bachelor degree,F,100323,142,125,stomach
-616,Flavio Opizzi,1971-08-24,16069,elementary schools,N/D,78113,174,99,stomach
-617,Edoardo Fusani,1998-01-12,16041,high schools,N/D,14125,180,113,headache
-618,Santino Comeriato,1996-05-03,16036,high schools,N/D,90047,193,45,stomach
-619,Giacinto Lancisi-Antonetti,1986-02-26,16105,high schools,M,112940,166,113,broken bones
-620,Sig. Paride Battisti,1969-07-20,16016,high schools,F,19439,172,58,broken bones
-621,Sylvia Rizzo,1977-12-14,16165,high schools,F,39346,166,147,hearth disease
-622,Paola Rastelli,1952-09-25,16011,bachelor degree,O,14858,170,127,headache
-623,Romolo Tonisto,1947-12-20,16116,middle schools,N/D,43454,181,60,headache
-624,Virgilio Segrè,1984-12-17,16138,middle schools,F,95171,170,68,headache
-625,Sig. Valerio Satta,1958-05-21,16030,high schools,M,83196,174,89,flu
-626,Silvia Salvemini-Pininfarina,1948-11-23,16085,master degree,M,33438,184,92,broken bones
-627,Paoletta Sorrentino,1960-10-11,16057,high schools,F,56798,184,66,hearth disease
-628,Lucio Germano,1971-05-23,16051,high schools,F,16207,173,78,flu
-629,Alessandra Valmarana,1997-06-16,16136,high schools,F,39390,174,145,flu
-630,Pietro Goldoni,1942-06-09,16067,elementary schools,F,79996,141,141,flu
-631,Agostino Travaglio,1946-04-20,16113,high schools,M,32839,178,85,broken bones
-632,Mirco Tognazzi,1940-11-01,16102,phd,O,113781,155,79,headache
-633,Amanda Lancisi,1995-09-09,16105,middle schools,F,118196,177,111,backpain
-634,Enzio Udinesi,1953-02-11,16160,high schools,N/D,40357,148,144,headache
-635,Ivo Righi,1983-02-21,16115,master degree,F,36019,176,89,broken bones
-636,Domenico Pertile,1944-01-26,16038,high schools,N/D,92801,184,75,headache
-637,Loredana Vitturi,1946-12-28,16136,high schools,F,45196,187,50,backpain
-638,Nino Mondadori,1980-07-23,16105,elementary schools,O,49388,149,96,stomach
-639,Luigi Guinizzelli,2004-12-13,16027,middle schools,F,77284,165,82,hearth disease
-640,Nina Zacco,1965-05-10,16035,elementary schools,O,44085,200,54,hearth disease
-641,Anita Cavalcanti,1935-02-13,16127,high schools,O,110399,198,101,flu
-642,Nicola Basso,2001-04-21,16116,high schools,O,93724,148,84,hearth disease
-643,Vanessa Pulci-Antonetti,1945-11-14,16119,high schools,O,60796,181,67,broken bones
-644,Calcedonio Fischetti-Foscari,2001-11-02,16069,high schools,M,50230,144,134,stomach
-645,Gustavo Borroni,2004-11-19,16082,bachelor degree,F,81142,179,95,flu
-646,Dina Scaduto,1931-02-27,16098,middle schools,O,81318,156,84,broken bones
-647,Ermenegildo Pastine,1934-04-15,16118,middle schools,M,89729,165,98,hearth disease
-648,Isabella Tamburini,1943-12-23,16082,high schools,F,38776,166,137,headache
-649,Laura Catalano,2006-10-27,16022,bachelor degree,O,65703,186,98,headache
-650,Francesco Cicala-Montanari,1948-03-08,16159,high schools,M,118585,198,72,stomach
-651,Sophia Zecchini-Maglio,1958-07-14,16160,middle schools,F,95713,147,90,stomach
-652,Sig. Giulio Fattori,1974-06-27,16038,middle schools,M,111393,163,71,broken bones
-653,Biagio Bruno,1976-08-26,16158,elementary schools,M,82824,144,100,backpain
-654,Guglielmo Morrocco-Liguori,1937-09-13,16165,bachelor degree,F,37835,197,49,flu
-655,Ottavio Zaguri-Morellato,1948-05-26,16085,middle schools,M,42384,145,54,flu
-656,Dott. Letizia Montanelli,1984-01-16,16134,high schools,F,23157,176,66,broken bones
-657,Greca Monduzzi,1991-04-07,16029,bachelor degree,O,30908,178,58,headache
-658,Tiziano Marrone,1937-04-08,16148,elementary schools,M,106787,189,78,flu
-659,Licia Dibiasi,1937-11-27,16139,high schools,O,32444,175,79,backpain
-660,Sig.ra Adriana Treves,1930-07-20,16158,middle schools,F,116754,179,130,flu
-661,Dott. Cesare Corradi,1948-07-19,16088,high schools,F,93995,168,125,stomach
-662,Rosina Medici-Civaschi,1968-04-28,16025,elementary schools,M,55712,140,125,headache
-663,Jacopo Scalera,1995-10-16,16159,high schools,N/D,74161,198,96,stomach
-664,Vittorio Palumbo-Bellucci,1952-07-27,16141,middle schools,O,91533,154,50,flu
-665,Dott. Arsenio Salieri,1961-09-24,16120,high schools,F,97844,188,130,stomach
-666,Rita Goldoni,1972-05-21,16127,elementary schools,N/D,12687,178,60,broken bones
-667,Alessandra Ruggeri,1959-01-06,16051,high schools,O,115307,147,74,headache
-668,Gilberto Gussoni,1933-08-10,16105,elementary schools,N/D,97000,147,141,broken bones
-669,Milena Moresi,1941-03-15,16066,high schools,M,84693,198,64,backpain
-670,Sebastiano Mercadante,1953-04-27,16144,middle schools,F,109860,193,108,backpain
-671,Ottone Odescalchi,1947-03-11,16034,high schools,M,60454,142,95,headache
-672,Caterina Lopresti,1963-12-02,16086,elementary schools,N/D,69029,152,102,backpain
-673,Romina Trobbiani,1972-03-04,16131,elementary schools,N/D,71423,180,90,headache
-674,Vincenza Muratori,1950-01-14,16035,middle schools,N/D,119977,157,82,headache
-675,Stefano Caironi,2008-07-25,16044,elementary schools,O,29307,140,127,broken bones
-676,Fabio Passalacqua,1941-10-27,16165,elementary schools,M,114057,175,145,stomach
-677,Calogero Casaleggio,1941-01-28,16110,elementary schools,O,33323,170,61,stomach
-678,Antonino Tosi,1969-03-22,16140,middle schools,N/D,88966,153,107,broken bones
-679,Vanessa Luria,1932-06-25,16123,middle schools,N/D,114228,196,92,hearth disease
-680,Arnulfo Opizzi-Tommaseo,1987-08-13,16036,high schools,N/D,111998,140,93,flu
-681,Liliana Pellegrini,1931-04-03,16081,elementary schools,O,52394,191,93,stomach
-682,Benedetto Morandini-Cutuli,1989-04-17,16137,elementary schools,M,41195,181,144,broken bones
-683,Achille Micca-Gargallo,1999-11-14,16043,elementary schools,M,60089,173,66,headache
-684,Dott. Adelmo Scamarcio,1994-04-25,16035,middle schools,F,22919,150,84,backpain
-685,Aurora Montessori,1945-06-28,16022,middle schools,F,42915,186,56,headache
-686,Sylvia Argento,1959-10-12,16155,middle schools,F,49764,191,58,hearth disease
-687,Niccolò Rensi,2003-01-19,16062,middle schools,F,44426,158,85,flu
-688,Monica Boito,1933-03-07,16144,high schools,O,60096,187,119,stomach
-689,Dott. Agostino Segrè,1992-06-01,16055,elementary schools,O,84831,142,48,backpain
-690,Sante Padovano,1941-06-25,16161,high schools,N/D,14916,146,130,flu
-691,Romana Campano,1988-04-21,16148,high schools,M,31375,147,45,broken bones
-692,Dott. Gianna Pedersoli,1984-03-18,16166,high schools,M,37244,142,140,broken bones
-693,Michelotto Capecchi-Ciampi,1951-03-15,16052,master degree,N/D,44187,195,74,flu
-694,Lina Bevilacqua,1952-05-27,16047,middle schools,N/D,47952,196,125,headache
-695,Dott. Mirko Canova,1945-09-14,16071,middle schools,F,23291,174,80,headache
-696,Lilla Errani-Ruggieri,1990-12-11,16062,middle schools,O,52109,144,71,headache
-697,Martina Simeoni,1992-08-10,16153,bachelor degree,M,118527,183,136,headache
-698,Michele Pedroni,1933-09-07,16151,bachelor degree,F,40087,192,80,headache
-699,Filippa Lanfranchi-Lombardo,2002-04-04,16142,middle schools,O,91571,195,71,hearth disease
-700,Sonia Vercelloni,1966-07-14,16022,elementary schools,N/D,95541,158,79,backpain
-701,Antonina Muti,1940-03-10,16096,high schools,O,19523,200,129,headache
-702,Loredana Tron,1994-03-25,16041,elementary schools,M,85595,159,58,hearth disease
-703,Marcantonio Fornaciari,1951-11-06,16068,middle schools,N/D,55317,145,80,headache
-704,Edoardo Soffici,1977-04-19,16133,elementary schools,M,80111,156,78,flu
-705,Marina Cusano-Fieramosca,1966-07-20,16098,high schools,M,90756,175,75,stomach
-706,Sig.ra Gemma Fioravanti,1955-10-12,16143,middle schools,M,100735,176,63,stomach
-707,Gioffre Tornatore,1932-08-04,16114,elementary schools,M,31698,144,132,broken bones
-708,Marisa Petrocelli,1957-03-07,16142,high schools,M,42802,153,95,stomach
-709,Dina Ferragamo,1995-04-17,16054,high schools,O,111670,173,68,backpain
-710,Victoria Mazzi-Monduzzi,1974-02-25,16108,middle schools,O,63724,162,139,broken bones
-711,Luciano Bignardi,1963-06-20,16061,elementary schools,O,100061,186,74,headache
-712,Giovanna Lanfranchi,1934-03-14,16040,elementary schools,F,119750,140,75,backpain
-713,Pierina Bernini,1994-04-23,16057,elementary schools,M,12294,189,87,stomach
-714,Sig. Antonello Nadi,1930-03-14,16021,middle schools,M,58129,184,109,stomach
-715,Antonietta Alighieri-Fagotto,1933-01-19,16027,middle schools,M,18215,179,133,hearth disease
-716,Dott. Michelotto Contrafatto,1968-08-06,16122,elementary schools,O,85334,147,115,stomach
-717,Carmelo Depero,1951-04-18,16029,middle schools,M,56270,187,144,backpain
-718,Lidia Bondumier,1995-10-10,16065,elementary schools,N/D,96370,173,83,backpain
-719,Piergiuseppe Donarelli,1950-09-12,16122,elementary schools,F,79223,149,113,headache
-720,Olga Tamborini,1935-08-08,16095,elementary schools,M,68008,155,72,hearth disease
-721,Ubaldo Zacchia,1985-03-03,16076,elementary schools,N/D,74979,190,140,hearth disease
-722,Umberto Tarantini,1939-03-27,16080,elementary schools,M,27131,188,137,stomach
-723,Alphons Onisto,1973-07-12,16040,high schools,N/D,83441,146,118,hearth disease
-724,Monica Parini,2007-05-06,16119,middle schools,N/D,72782,155,145,stomach
-725,Sig. Luciano Pucci,1956-01-22,16118,high schools,F,18934,162,129,hearth disease
-726,Stefania Brancaccio,1948-01-05,16096,middle schools,M,83719,197,86,hearth disease
-727,Adele Vespucci,1935-05-21,16052,middle schools,F,13100,144,66,broken bones
-728,Achille Ziani,1953-02-08,16074,elementary schools,N/D,30308,195,68,backpain
-729,Claudia Bulzoni,1991-01-21,16157,master degree,M,92795,158,100,flu
-730,Roberta Guarneri,2001-07-19,16118,high schools,N/D,74771,160,64,backpain
-731,Tatiana Grassi,1985-07-21,16137,high schools,M,72986,155,134,flu
-732,Giada Scarponi,1959-11-17,16153,bachelor degree,M,23029,159,123,backpain
-733,Giacomo Gagliardi-Cimini,1946-06-05,16065,elementary schools,M,42115,196,75,hearth disease
-734,Dott. Jolanda Giovine,1947-10-22,16158,elementary schools,M,104084,155,73,headache
-735,Priscilla Bondumier,1935-04-09,16127,bachelor degree,F,91585,184,104,backpain
-736,Sig.ra Flavia Albertini,1965-08-26,16043,elementary schools,M,88330,176,96,hearth disease
-737,Paloma Orengo,1931-01-07,16021,elementary schools,O,30594,142,128,flu
-738,Matteo Mozart-Salvini,1931-12-13,16059,high schools,M,42250,163,149,flu
-739,Victoria Iadanza,1987-01-01,16134,elementary schools,F,64799,188,135,broken bones
-740,Veronica Porcellato,1970-09-24,16039,master degree,M,57760,196,97,flu
-741,Sig.ra Romana Finetti,1940-08-28,16116,elementary schools,F,64397,170,101,hearth disease
-742,Carla Marsili-Balotelli,1976-07-17,16022,master degree,N/D,23134,199,55,broken bones
-743,Cecilia Cagnotto,1948-09-09,16150,phd,O,94783,148,100,hearth disease
-744,Torquato Pininfarina,1952-05-10,16029,elementary schools,F,31598,146,140,backpain
-745,Patrizio Tacchini,1996-01-20,16058,high schools,F,112786,162,58,stomach
-746,Giulia Antonelli,1954-03-21,16145,high schools,N/D,31067,144,86,headache
-747,Licia Maglio,1977-10-19,16059,high schools,M,63272,166,140,stomach
-748,Alessandro Chinnici,1947-01-06,16047,high schools,O,64678,145,66,flu
-749,Sandra Comolli,1980-05-11,16160,bachelor degree,N/D,117501,162,136,broken bones
-750,Micheletto Giannone-Gullotta,1966-12-11,16166,middle schools,O,85155,174,125,broken bones
-751,Corrado Barese-Gatto,1977-05-25,16082,high schools,M,18184,192,128,broken bones
-752,Giorgia Falloppio-Franscini,1987-01-25,16025,high schools,M,46930,163,54,hearth disease
-753,Mattia Sgarbi,1942-12-18,16030,middle schools,O,89687,146,56,hearth disease
-754,Germana Traversa,1980-02-24,16030,middle schools,O,78548,189,76,flu
-755,Giorgio Tozzi,1992-09-09,16142,middle schools,O,34011,142,127,stomach
-756,Milena Trevisani-Siffredi,1951-02-15,16108,high schools,O,94560,149,144,hearth disease
-757,Dott. Gilberto Pietrangeli,1939-02-12,16107,middle schools,O,63315,199,72,hearth disease
-758,Bianca Sobrero,1930-05-23,16140,middle schools,O,58965,177,79,headache
-759,Sig.ra Ninetta Guinizzelli,1947-07-28,16023,middle schools,O,19580,153,85,headache
-760,Maria Zaguri,1996-08-21,16114,middle schools,M,98301,167,120,headache
-761,Antonello Giannotti,1972-04-20,16067,high schools,O,101111,146,83,backpain
-762,Stefani Venturi,2005-06-03,16051,middle schools,O,104231,181,150,headache
-763,Simone Lopresti-Persico,1942-04-05,16166,high schools,M,16028,166,110,backpain
-764,Sig.ra Bianca Quasimodo,1954-02-15,16141,master degree,N/D,49992,158,134,stomach
-765,Ninetta Tirabassi,1933-10-12,16116,elementary schools,F,102534,190,55,stomach
-766,Paola Buonauro-Balla,1986-09-08,16147,elementary schools,F,40754,166,91,flu
-767,Dott. Gelsomina Infantino,1956-02-13,16010,elementary schools,O,75371,171,135,stomach
-768,Flavia Malenchini,1964-10-20,16075,middle schools,M,77175,156,118,stomach
-769,Antonella Pasolini,2001-07-10,16065,elementary schools,F,44486,181,123,stomach
-770,Osvaldo Valier-Cicilia,1951-01-25,16076,middle schools,O,34758,183,74,hearth disease
-771,Priscilla Salvini,1931-01-24,16026,high schools,O,68344,191,108,stomach
-772,Germana Musatti,1977-01-10,16027,middle schools,N/D,18919,172,66,backpain
-773,Gemma Paruta,1961-08-25,16068,elementary schools,N/D,45841,150,95,stomach
-774,Matilda Juvara,1983-02-05,16077,middle schools,M,109670,156,106,flu
-775,Donato Gulotta,1995-10-24,16143,elementary schools,O,64477,147,67,backpain
-776,Fulvio Cavanna,1982-10-16,16095,high schools,O,19019,193,67,stomach
-777,Giuseppe Puglisi,1966-09-24,16016,master degree,F,30977,167,129,stomach
-778,Alberto Ciampi,1989-04-19,16157,middle schools,O,76254,141,75,backpain
-779,Annamaria Scotto,1964-05-24,16016,high schools,M,74253,183,86,broken bones
-780,Uberto Foscari-Montanariello,1954-08-25,16111,middle schools,F,29884,172,55,backpain
-781,Ettore Bosurgi-Celentano,1980-01-24,16012,elementary schools,M,12703,155,86,backpain
-782,Alessio Bassi,1984-12-24,16144,middle schools,N/D,32252,142,133,flu
-783,Lisa Juvara-Renzi,1936-08-27,16051,high schools,F,89769,154,61,hearth disease
-784,Tina Sabbatini-Romiti,1966-02-23,16038,high schools,F,96043,190,147,headache
-785,Diana Cabrini,1936-09-01,16100,elementary schools,F,26028,147,148,headache
-786,Rosalia Nibali-Mazzi,2000-01-22,16084,phd,M,79902,156,50,broken bones
-787,Arnaldo Tuzzolino,1952-03-13,16166,master degree,N/D,100273,197,95,headache
-788,Napoleone Mezzetta,2000-04-17,16079,elementary schools,N/D,83567,184,53,headache
-789,Lucio Canali,1937-06-13,16038,high schools,F,46095,189,113,headache
-790,Dott. Tonia Faggiani,1958-10-18,16021,high schools,F,112919,193,52,broken bones
-791,Sig.ra Mercedes Nievo,1968-05-14,16019,middle schools,F,51547,167,78,broken bones
-792,Sig. Fedele Finzi,1981-12-27,16043,high schools,M,58132,151,88,backpain
-793,Dott. Valeria Satriani,1994-07-19,16164,middle schools,O,107869,158,142,headache
-794,Ranieri Taccola,1973-07-06,16132,middle schools,F,83348,156,49,backpain
-795,Tonia Lamborghini-Cerutti,1972-06-03,16022,middle schools,F,37200,186,57,broken bones
-796,Chiara Baglioni,1968-03-19,16153,middle schools,F,51877,149,55,hearth disease
-797,Romolo Toldo-Armellini,1996-09-25,16068,high schools,F,19969,163,73,stomach
-798,Dott. Sante Busoni,1942-02-08,16031,bachelor degree,O,76175,190,121,flu
-799,Livia Bonino-Marconi,2004-10-01,16023,high schools,M,107272,158,75,broken bones
-800,Etta Sagredo,2006-05-11,16081,elementary schools,O,19331,145,78,hearth disease
-801,Rosaria Nievo,1996-08-11,16050,middle schools,N/D,13680,195,114,headache
-802,Elena Manzoni,1963-06-24,16103,elementary schools,O,15218,192,62,backpain
-803,Ivo Marsili,1975-05-19,16106,middle schools,M,42087,141,149,stomach
-804,Dina Marzorati,1994-03-24,16141,middle schools,N/D,45145,167,59,headache
-805,Luigina Endrizzi,1975-04-28,16098,bachelor degree,M,35934,144,120,broken bones
-806,Dott. Simonetta Chindamo,1958-11-04,16064,middle schools,M,41209,140,141,broken bones
-807,Piergiorgio Filippini,1936-07-05,16015,bachelor degree,M,44448,151,112,headache
-808,Renzo Grisoni,1975-07-01,16165,bachelor degree,N/D,45509,142,49,backpain
-809,Maria Marenzio,1939-02-15,16058,high schools,N/D,72090,156,49,broken bones
-810,Silvestro Cignaroli,1995-09-04,16052,phd,M,107612,162,72,headache
-811,Ugo Pezzali,2002-01-12,16136,elementary schools,F,115844,154,138,backpain
-812,Sig.ra Eugenia Marcacci,1964-02-24,16122,phd,O,31240,186,114,flu
-813,Irma Loredan,1968-04-19,16105,high schools,O,112878,182,119,stomach
-814,Amalia Innocenti-Gaito,1996-10-07,16095,master degree,F,16350,191,146,flu
-815,Matilda Correr,1946-11-14,16074,bachelor degree,O,45448,196,51,flu
-816,Olga Agazzi,1994-06-22,16074,high schools,N/D,109660,150,106,backpain
-817,Jolanda Pertile,1934-09-04,16043,elementary schools,N/D,112999,173,84,backpain
-818,Giovanna Alboni,1982-08-13,16062,middle schools,N/D,73660,200,118,broken bones
-819,Gastone Abba-Pizzetti,1995-05-03,16053,middle schools,O,58069,146,57,hearth disease
-820,Gianna Cadorna,1982-02-21,16148,elementary schools,F,97689,193,48,broken bones
-821,Giampaolo Longhena,1968-03-11,16066,high schools,O,102219,181,74,flu
-822,Tina Taliercio,1971-06-13,16026,elementary schools,N/D,62393,152,113,broken bones
-823,Mattia Santorio,1946-06-06,16047,elementary schools,M,57441,154,81,hearth disease
-824,Laura Brancaccio,1998-07-18,16030,elementary schools,N/D,107189,188,149,stomach
-825,Sig.ra Imelda Faugno,2000-05-23,16093,high schools,M,62239,151,132,backpain
-826,Priscilla Fracci,1939-06-04,16045,elementary schools,F,81772,195,139,broken bones
-827,Sandra Montesano,1980-12-10,16116,middle schools,N/D,103041,195,48,hearth disease
-828,Fernanda Forza-Muratori,1960-04-20,16061,elementary schools,F,74798,176,90,hearth disease
-829,Ruggero Babato,1951-02-17,16164,elementary schools,M,34750,165,66,stomach
-830,Ansaldo Barzini,1990-10-13,16112,elementary schools,N/D,101197,187,68,backpain
-831,Sig. Federico Bernini,1966-11-25,16023,high schools,N/D,116038,146,61,broken bones
-832,Dott. Dino Cammarata,1989-02-12,16134,elementary schools,O,68502,152,124,headache
-833,Antonia Tuzzolino,1972-11-08,16149,middle schools,F,50302,189,139,stomach
-834,Galasso Mezzetta,1940-07-10,16135,elementary schools,O,92232,189,50,broken bones
-835,Ansaldo Zamengo,2006-04-04,16067,elementary schools,M,104918,199,78,stomach
-836,Piergiuseppe Monduzzi,2004-10-13,16075,elementary schools,F,119750,182,67,flu
-837,Valentina Mennea,2004-07-28,16061,middle schools,N/D,36194,197,59,headache
-838,Delfino Marenzio,1951-12-20,16060,elementary schools,F,63919,200,57,headache
-839,Nadia Comisso,1963-01-07,16061,middle schools,N/D,64344,150,71,hearth disease
-840,Bianca Aloisio,1963-08-15,16130,high schools,O,25050,177,126,headache
-841,Piersanti Perini,1960-04-05,16153,middle schools,N/D,93236,200,135,headache
-842,Luchino Manacorda,1985-01-28,16021,high schools,M,112823,168,45,backpain
-843,Sig.ra Monica Balbo,1986-10-15,16069,elementary schools,N/D,56663,185,87,flu
-844,Monica Colletti-Venier,1999-05-05,16060,elementary schools,N/D,38835,182,130,backpain
-845,Maurizio Cipolla,1931-10-08,16068,bachelor degree,O,21683,187,104,backpain
-846,Massimo Tognazzi,1964-09-17,16167,high schools,O,31578,177,125,headache
-847,Dott. Adelasia Fusani,1992-02-17,16014,middle schools,M,44777,192,49,backpain
-848,Raffaellino Bragaglia,1946-08-22,16073,high schools,N/D,69720,147,146,stomach
-849,Milena Pignatti-Mimun,2007-02-13,16040,middle schools,F,117406,185,87,broken bones
-850,Fiorino Petrassi,1936-12-09,16052,bachelor degree,M,78343,184,114,backpain
-851,Dolores Roncalli,1998-08-18,16152,master degree,O,47978,184,134,hearth disease
-852,Hugo Ferrazzi,1974-12-04,16149,elementary schools,M,17521,141,77,hearth disease
-853,Graziella Cassarà,2006-06-16,16039,master degree,M,21267,174,73,stomach
-854,Ornella Rocca,2000-10-07,16163,middle schools,O,57621,140,91,headache
-855,Isabella Chigi,1981-10-02,16167,middle schools,O,41160,153,114,hearth disease
-856,Antonello Camanni,1975-04-15,16076,high schools,O,42084,167,50,stomach
-857,Eugenia Ortolani,1984-08-03,16129,elementary schools,M,36700,173,98,headache
-858,Sig. Ricciotti Castelli,1930-06-21,16167,middle schools,O,75365,148,148,hearth disease
-859,Ugo Pugliese,1989-01-23,16076,middle schools,N/D,66588,142,100,backpain
-860,Bianca Modugno,2003-05-19,16072,middle schools,M,112356,185,134,stomach
-861,Melina Bettin,1944-08-11,16043,high schools,O,43625,195,147,headache
-862,Dott. Damiano Giradello,1962-12-12,16157,elementary schools,O,92393,142,68,backpain
-863,Griselda Cugia,1956-01-28,16099,high schools,M,32387,167,89,backpain
-864,Vittoria Borghese,1995-01-18,16159,high schools,M,20508,167,111,hearth disease
-865,Umberto Carpaccio,1968-05-04,16033,middle schools,M,88554,156,122,hearth disease
-866,Augusto Novaro-Fagiani,1968-08-06,16157,high schools,F,110641,197,83,hearth disease
-867,Osvaldo Chiaramonte,1943-06-05,16119,high schools,O,13916,154,137,hearth disease
-868,Etta Padovano,1953-12-02,16069,middle schools,O,45389,166,92,broken bones
-869,Dott. Ippazio Ferrante,1966-04-08,16100,high schools,M,39605,150,113,backpain
-870,Lorenzo Gullotta,1969-05-18,16165,elementary schools,F,57862,189,70,hearth disease
-871,Federigo Zoppetto,1959-11-17,16146,middle schools,F,42913,196,85,hearth disease
-872,Amico Nitto,1997-08-18,16156,elementary schools,F,107069,200,95,broken bones
-873,Paoletta Federici,2006-02-16,16110,middle schools,O,41662,177,118,backpain
-874,Fiamma Barillaro,1950-11-16,16016,middle schools,O,107901,170,55,flu
-875,Rossana Porzio,1987-01-07,16017,high schools,O,49704,141,101,headache
-876,Loretta Manunta,2008-12-06,16082,elementary schools,O,57779,157,78,broken bones
-877,Griselda Pugliese,1939-03-14,16143,elementary schools,N/D,48593,191,146,backpain
-878,Francesca Milanesi,2004-12-01,16165,middle schools,M,32667,182,114,broken bones
-879,Paloma Casellati,1936-08-10,16132,middle schools,F,91532,191,64,headache
-880,Ludovica Mennea,1971-04-13,16066,high schools,M,21351,152,48,headache
-881,Amico Maggioli,2000-09-01,16114,high schools,O,67422,168,49,backpain
-882,Lidia Golino-Jovinelli,1949-05-05,16117,elementary schools,N/D,110920,148,103,broken bones
-883,Telemaco Pagnotto-Curiel,1968-06-13,16036,middle schools,N/D,99397,157,76,broken bones
-884,Ornella Bernini,1941-07-09,16019,middle schools,O,85546,193,123,stomach
-885,Enzio Murri,1942-05-16,16148,elementary schools,O,69709,146,107,broken bones
-886,Agnolo Tafuri,1985-09-27,16036,elementary schools,M,80806,163,102,backpain
-887,Geronimo Pedersoli,1942-05-16,16088,elementary schools,N/D,88873,191,50,hearth disease
-888,Geronimo Antelami,1990-08-15,16091,elementary schools,M,95982,150,86,broken bones
-889,Dott. Fiamma Cicilia,1970-07-27,16049,elementary schools,F,87705,153,53,backpain
-890,Ida Santi-Bellocchio,1941-04-18,16051,elementary schools,O,65126,186,104,hearth disease
-891,Leonardo Saraceno,1947-05-02,16076,middle schools,F,91678,158,111,flu
-892,Renata Mastroianni,1958-05-06,16115,high schools,F,36197,145,77,stomach
-893,Rosa Brugnaro,1991-09-14,16095,high schools,M,65475,198,57,broken bones
-894,Tina Sandi,1986-03-24,16067,high schools,O,42151,152,51,headache
-895,Torquato Impastato-Pizzamano,2008-11-14,16047,middle schools,F,26416,143,133,hearth disease
-896,Fabrizio Spadafora,1986-07-18,16166,elementary schools,O,86362,158,53,hearth disease
-897,Benvenuto Civaschi-Franceschi,1971-09-01,16022,master degree,F,28740,190,53,headache
-898,Barbara Scarlatti,1996-03-16,16037,master degree,N/D,13070,177,120,backpain
-899,Stella Donini,2006-10-18,16128,elementary schools,N/D,47933,194,98,stomach
-900,Sig. Ezio Soderini,2004-07-19,16019,middle schools,M,100965,151,119,flu
-901,Nina Casadei,1992-08-25,16036,elementary schools,O,78606,158,82,hearth disease
-902,Pompeo Lombardi-Caruso,1985-10-25,16035,elementary schools,O,79521,172,72,hearth disease
-903,Renata Moccia,1973-10-11,16065,high schools,F,66635,200,59,flu
-904,Mariano Tencalla,1977-07-28,16117,master degree,M,98761,199,88,hearth disease
-905,Letizia Bajamonti,1981-08-14,16149,middle schools,N/D,90154,187,150,hearth disease
-906,Alina Longhena,1961-02-07,16085,elementary schools,O,61117,171,67,stomach
-907,Rodolfo Randazzo,1980-08-13,16167,elementary schools,F,86989,188,76,flu
-908,Amanda Visintini-Zampa,1978-08-20,16046,high schools,M,51548,190,49,stomach
-909,Elisa Migliaccio,1930-09-17,16017,elementary schools,N/D,60214,157,100,headache
-910,Severino Cendron,1939-07-22,16131,elementary schools,M,64763,170,138,flu
-911,Ludovico Durante,1944-01-01,16126,middle schools,O,69373,148,63,backpain
-912,Alfio Boito,1996-01-28,16011,high schools,F,35849,183,72,stomach
-913,Luca Visconti,1947-10-13,16163,elementary schools,F,81147,161,90,hearth disease
-914,Paola Corradi,1969-05-20,16053,phd,N/D,38828,188,89,headache
-915,Dott. Dionigi Ricciardi,1994-01-08,16042,elementary schools,F,83961,165,91,broken bones
-916,Lidia Lussu,2001-12-10,16050,middle schools,F,82113,169,111,stomach
-917,Franco Norbiato,1964-05-16,16052,middle schools,N/D,28949,146,75,headache
-918,Francesca Valmarana,1947-06-25,16161,master degree,F,117912,163,117,broken bones
-919,Dott. Vincenzo Passalacqua,1944-10-01,16137,elementary schools,F,108463,196,48,flu
-920,Ernesto Trillini,1949-07-17,16010,middle schools,M,102398,163,72,backpain
-921,Nedda Ritacca-Impastato,1984-03-13,16116,high schools,O,20934,200,80,flu
-922,Ubaldo Murri,1983-07-15,16163,elementary schools,M,61858,168,48,broken bones
-923,Bettina Ceri-Brunelleschi,1970-12-24,16058,middle schools,O,29627,152,121,headache
-924,Martina Carullo,1989-08-26,16024,middle schools,N/D,21772,194,139,flu
-925,Dario Ferrabosco,2004-04-16,16082,elementary schools,F,114805,171,110,flu
-926,Camillo Collodi,1993-06-28,16037,elementary schools,M,78582,172,124,headache
-927,Ronaldo Gussoni,1994-05-13,16022,high schools,O,36270,146,94,hearth disease
-928,Irma Verdone,2005-04-22,16145,elementary schools,O,32426,149,98,hearth disease
-929,Lara Vasari,2002-01-16,16154,middle schools,O,100759,185,66,headache
-930,Lolita Papafava-Palazzo,1949-07-15,16116,middle schools,N/D,16137,184,67,stomach
-931,Gaspare Vasari,1977-02-13,16061,middle schools,N/D,38211,179,116,hearth disease
-932,Adriana Gentileschi,1940-03-17,16089,high schools,F,19718,152,84,stomach
-933,Nicoletta Giannini-Alboni,1968-07-19,16123,master degree,O,88402,167,97,backpain
-934,Arsenio Tanzini,1934-12-11,16163,elementary schools,N/D,60507,155,64,backpain
-935,Sante Tomei,1936-04-27,16115,middle schools,M,78606,146,61,backpain
-936,Isa Chinnici,1959-08-22,16048,elementary schools,O,23468,149,129,flu
-937,Aurora Scalera,1952-07-09,16082,high schools,M,111778,161,90,headache
-938,Sig. Giacinto Volta,1984-11-07,16022,elementary schools,M,80727,197,144,hearth disease
-939,Beatrice Bellocchio-Argan,1970-07-23,16150,elementary schools,M,17028,199,150,stomach
-940,Gian Caccioppoli,1967-06-08,16075,elementary schools,M,49639,165,60,backpain
-941,Dott. Leopoldo Pellegrini,1939-02-08,16151,middle schools,M,80741,145,79,backpain
-942,Giacinto Cannizzaro,1972-09-22,16103,elementary schools,F,50597,151,84,backpain
-943,Piero Fornaciari,2003-09-27,16146,phd,F,79420,177,103,flu
-944,Guido Rubbia,2006-06-21,16030,high schools,N/D,15566,176,134,broken bones
-945,Matteo Cheda,1950-09-24,16053,high schools,F,111831,155,103,hearth disease
-946,Giosuè Sauro,1932-09-28,16119,high schools,O,87657,198,56,stomach
-947,Silvio Modigliani,1954-04-05,16038,high schools,M,69373,167,124,flu
-948,Biagio Gemito-Scotti,1956-11-22,16158,elementary schools,O,19988,193,90,headache
-949,Rosina Bellucci,1960-11-20,16013,elementary schools,O,26685,160,81,headache
-950,Bartolomeo Respighi,1954-05-23,16046,high schools,F,46654,187,90,broken bones
-951,Giulio Pace,1968-08-28,16074,middle schools,O,48991,193,130,stomach
-952,Greca Renier,1948-06-18,16152,high schools,N/D,21452,198,112,backpain
-953,Dott. Ciro Bassi,1981-09-13,16128,elementary schools,M,115046,197,84,hearth disease
-954,Elmo Desio,1983-03-19,16053,middle schools,O,25210,155,56,broken bones
-955,Luciana Iannucci,1983-05-15,16101,high schools,N/D,109668,194,121,stomach
-956,Viridiana Luxardo,2004-08-05,16021,high schools,F,53274,180,91,backpain
-957,Sig.ra Filippa Rismondo,1952-07-27,16073,elementary schools,O,70089,145,111,broken bones
-958,Pierpaolo Panicucci,1964-09-12,16070,master degree,N/D,50716,183,82,flu
-959,Eleanora Pulci-Paruta,1941-08-11,16013,elementary schools,O,48339,156,63,hearth disease
-960,Adelmo Greggio,1990-06-27,16059,high schools,N/D,98551,145,71,flu
-961,Dott. Gioffre Trentin,1999-11-10,16061,middle schools,O,90256,176,147,broken bones
-962,Baccio Pistoletto,1983-04-01,16062,middle schools,M,61109,151,53,headache
-963,Amalia Gussoni-Giammusso,1999-12-06,16056,elementary schools,O,27164,197,127,stomach
-964,Girolamo Argenti-Fantoni,1972-05-09,16040,middle schools,M,68724,189,148,stomach
-965,Dott. Isa Legnante,2006-01-09,16129,middle schools,O,92302,154,139,flu
-966,Gian Casarin,1994-06-28,16112,middle schools,M,41690,177,86,broken bones
-967,Patrizia Tasso,1978-01-04,16147,elementary schools,F,34580,195,133,backpain
-968,Allegra Toldo,1931-03-19,16031,bachelor degree,F,115673,158,118,flu
-969,Ninetta Staglieno,1992-06-03,16105,elementary schools,M,22006,183,93,stomach
-970,Ornella Lupo,2008-07-05,16068,middle schools,N/D,14785,175,67,stomach
-971,Imelda Carpaccio,1994-02-21,16028,middle schools,O,78487,169,59,backpain
-972,Valentina Cardano,1939-02-22,16163,high schools,M,67684,194,48,stomach
-973,Giorgio Trombetta,1943-12-06,16058,middle schools,M,74987,184,117,broken bones
-974,Antonina Bernetti-Piovani,1949-01-09,16014,elementary schools,M,92829,196,66,broken bones
-975,Achille Montanari-Lancisi,1975-05-09,16112,elementary schools,N/D,70545,181,87,broken bones
-976,Dott. Sylvia Gigli,1930-05-02,16016,middle schools,N/D,99195,198,85,hearth disease
-977,Sante Tartaglia-Cainero,1936-06-12,16138,middle schools,O,43479,140,65,flu
-978,Giuliana Natta,1969-11-03,16069,elementary schools,M,106367,196,120,backpain
-979,Orazio Tozzi,1970-01-17,16033,middle schools,O,22011,152,48,flu
-980,Tiziana Camiscione-Moretti,2001-11-12,16079,elementary schools,O,35963,198,138,hearth disease
-981,Panfilo Scarfoglio,1985-07-23,16080,elementary schools,O,56969,171,52,broken bones
-982,Martina Traversa,1990-05-16,16048,elementary schools,N/D,40451,171,117,stomach
-983,Franco Franceschi-Fracci,1995-07-04,16056,high schools,F,43527,155,84,broken bones
-984,Giulio Pacillo-Zabarella,1931-02-17,16076,high schools,M,89278,186,147,backpain
-985,Adamo Tornatore,1980-08-04,16112,elementary schools,O,52689,195,87,stomach
-986,Marta Bettoni-Bombieri,1984-03-18,16048,high schools,N/D,69450,160,117,stomach
-987,Beatrice Ginese,2002-07-25,16151,middle schools,F,29841,146,131,headache
-988,Renzo Crispi-Letta,1946-09-05,16042,master degree,M,23129,154,147,flu
-989,Romana Valmarana,1939-11-19,16146,elementary schools,F,98204,178,50,hearth disease
-990,Ugo Sraffa,1976-07-18,16015,middle schools,M,40417,160,67,headache
-991,Rembrandt Pisacane,1963-12-17,16064,high schools,M,20199,156,90,stomach
-992,Lilla Luciani,1990-05-25,16037,high schools,O,29664,183,123,broken bones
-993,Giulio Pavanello,1941-02-15,16056,elementary schools,N/D,50974,188,47,backpain
-994,Gianmarco Tamborini-Iannotti,1988-07-21,16045,elementary schools,M,51895,168,131,flu
-995,Gianpietro Fermi,1965-04-09,16048,high schools,F,97226,170,52,flu
-996,Annamaria Fischetti,1947-01-18,16016,master degree,F,47308,152,124,flu
-997,Saverio Mercati,1972-06-03,16078,middle schools,O,14348,157,96,hearth disease
-998,Victoria Venturi,1930-11-01,16104,elementary schools,F,35212,176,91,backpain
-999,Amleto Iannotti,1935-03-12,16114,high schools,M,96319,176,77,flu
+id,name,birthday,zip-code,education,gender,salary,favorite-party,religion
+0,Lara Vecellio,1936-12-22,16073,elementary schools,M,22506,Italia Viva,Confucianesimo
+1,Fabrizia Tarantino-Pininfarina,1982-05-12,16076,middle schools,F,34388,Sinistra Italiana,Ateo
+2,Patrizia Detti,1988-01-27,16063,elementary schools,F,104944,Forza Italia,Ateo
+3,Claudio Broschi-Rismondo,1934-04-24,16147,high schools,N/D,35581,NoiModerati,Cristianesimo
+4,Adelmo Tafuri,1961-05-10,16142,elementary schools,F,78579,EuropaVerde,Islam
+5,Pasquale Petrassi,1951-08-20,16090,high schools,M,117570,EuropaVerde,Cristianesimo
+6,Massimo Errani-Lopresti,1932-04-22,16044,middle schools,N/D,31669,NoiModerati,Islam
+7,Raffaello Marangoni,1935-01-18,16035,bachelor degree,M,16072,EuropaVerde,Induismo
+8,Ugolino Odescalchi-Bramante,2004-12-08,16162,master degree,N/D,26371,Movimento Animalista,Buddhismo
+9,Rosa Argentero,2001-03-06,16014,elementary schools,M,42475,Italia Viva,Shintoismo
+10,Federico Trobbiani,1998-12-17,16109,bachelor degree,F,96791,NoiModerati,Induismo
+11,Giorgia Ortolani,1990-01-26,16055,master degree,M,57003,Azione,Islam
+12,Eugenia Fanucci,2001-06-15,16135,middle schools,M,75974,Partito Democratico,Confucianesimo
+13,Filippo Giulietti,1991-05-07,16069,elementary schools,O,75311,Nuovo PSI,Induismo
+14,Achille Zaccardo-Dallara,1973-09-08,16160,master degree,F,78595,EuropaVerde,Shintoismo
+15,Paoletta Missoni,1931-11-16,16135,middle schools,N/D,42970,Partito Democratico,Shintoismo
+16,Dott. Nedda Bruno,2002-05-24,16083,high schools,O,99042,Movimento Animalista,Islam
+17,Sig. Flavio Verga,2001-06-19,16080,high schools,M,63332,Partito Democratico,Cristianesimo
+18,Augusto Aldobrandi,1969-03-28,16068,high schools,F,114308,Radicali Italiani,Confucianesimo
+19,Sig. Gustavo Govoni,1975-06-11,16038,high schools,M,72551,Centro Democratico,Induismo
+20,Lilla Luciani,1995-11-10,16132,high schools,N/D,113828,Movimento Animalista,Ateo
+21,Nino Casale-Trobbiani,1945-04-05,16086,high schools,N/D,86090,PiuEuropa,Buddhismo
+22,Mariano Tirabassi,2001-06-17,16118,elementary schools,F,77673,Azione,Confucianesimo
+23,Benito Pareto,1953-02-06,16106,elementary schools,M,67118,Sinistra Italiana,Induismo
+24,Elvira Ferrante-Mercalli,1978-02-14,16143,master degree,N/D,106169,Movimento Animalista,Induismo
+25,Sig.ra Milena Morlacchi,2005-02-18,16133,high schools,M,29641,Centro Democratico,Shintoismo
+26,Sophia Maderno,1938-10-07,16084,elementary schools,M,30453,Verdi,Confucianesimo
+27,Sig. Orlando Zarlino,1973-08-05,16033,elementary schools,M,23909,Partito Democratico,Confucianesimo
+28,Clelia Eco,1965-06-18,16025,middle schools,M,73677,Italia Viva,Induismo
+29,Dott. Vittorio Grassi,1985-05-24,16073,high schools,N/D,55556,PiuEuropa,Ateo
+30,Umberto Rensi,1965-06-02,16129,high schools,M,85899,Azione,Shintoismo
+31,Piersanti Napolitano,1955-10-21,16072,elementary schools,F,99749,Radicali Italiani,Confucianesimo
+32,Sig. Ugo Moresi,1965-10-19,16042,elementary schools,O,59575,Democrazia solidale,Induismo
+33,Gelsomina Moccia,1969-04-06,16072,high schools,N/D,48707,Centro Democratico,Ateo
+34,Sig. Nino Durante,1934-09-10,16136,elementary schools,O,68504,Radicali Italiani,Buddhismo
+35,Adriana Moretti,1953-06-07,16063,bachelor degree,O,62015,Coraggio Italia,Buddhismo
+36,Francesco Salgari,1968-12-09,16038,elementary schools,M,63156,Forza Italia,Shintoismo
+37,Morena Sauro,1939-01-24,16083,elementary schools,M,105130,Movimento 5 Stelle,Ateo
+38,Donatello Cagnotto,1953-02-09,16135,elementary schools,N/D,41043,Azione,Shintoismo
+39,Ermenegildo Farnese,1967-12-08,16124,middle schools,O,101109,Coraggio Italia,Induismo
+40,Giovanni Nosiglia,1961-02-06,16100,elementary schools,N/D,83934,Italia Viva,Buddhismo
+41,Fiamma Franzese-Pacelli,1937-05-23,16161,elementary schools,F,86574,Democrazia solidale,Islam
+42,Dott. Griselda Beffa,1938-05-07,16094,high schools,O,24310,Coraggio Italia,Islam
+43,Annunziata Mondadori-Peruzzi,1946-02-09,16153,middle schools,F,45397,Coraggio Italia,Confucianesimo
+44,Roberta Borsellino,1961-10-24,16115,bachelor degree,F,40995,Fratelli di Italia,Buddhismo
+45,Romolo Franceschi-Bocelli,1936-06-17,16125,bachelor degree,M,95328,NoiModerati,Ateo
+46,Vincenzo Tornatore-Montecchi,1949-12-16,16038,high schools,M,81630,PiuEuropa,Induismo
+47,Oreste Tozzo-Sonnino,1974-09-15,16102,middle schools,F,85134,Movimento 5 Stelle,Islam
+48,Dott. Piergiuseppe Salata,1931-08-13,16124,elementary schools,F,118758,Nuovo PSI,Cristianesimo
+49,Gaetano Rastelli,1967-02-25,16105,elementary schools,N/D,97206,Centro Democratico,Cristianesimo
+50,Dante Rosiello,1963-05-15,16075,middle schools,N/D,55405,Italia Viva,Buddhismo
+51,Gino Moretti,1981-04-26,16159,high schools,M,35732,Unione di centro,Confucianesimo
+52,Dott. Eliana Ungaretti,1961-06-13,16096,master degree,F,91216,Partito Democratico,Islam
+53,Donato Marino,1964-02-02,16055,high schools,F,60420,PiuEuropa,Buddhismo
+54,Arnulfo Polizzi,1949-11-01,16019,middle schools,N/D,46365,Partito Democratico,Induismo
+55,Claudio Ferretti,1995-11-13,16123,high schools,F,34363,Italia Viva,Confucianesimo
+56,Pierangelo Balbi,1968-04-03,16013,bachelor degree,M,82853,Radicali Italiani,Induismo
+57,Giacobbe Sgarbi,1954-07-06,16029,elementary schools,N/D,69978,Movimento 5 Stelle,Confucianesimo
+58,Pellegrino Giannotti,1980-08-14,16028,bachelor degree,F,114001,PiuEuropa,Confucianesimo
+59,Ruggiero Finzi,1934-04-12,16130,elementary schools,O,117877,Unione di centro,Islam
+60,Michele Corbo-Cerutti,1967-01-01,16041,elementary schools,M,58934,Coraggio Italia,Cristianesimo
+61,Gino Borgia,1990-03-20,16016,elementary schools,N/D,22687,Lega Nord,Ateo
+62,Lazzaro Federico-Andreozzi,1979-08-01,16153,elementary schools,M,33853,EuropaVerde,Cristianesimo
+63,Durante Pirandello,1935-12-28,16013,elementary schools,F,80248,Sinistra Italiana,Islam
+64,Fernanda Majorana,1987-06-13,16036,middle schools,N/D,102978,NoiModerati,Buddhismo
+65,Teresa Lettiere,1996-06-28,16108,high schools,O,99343,Verdi,Cristianesimo
+66,Silvestro Bellini,1981-08-05,16012,high schools,N/D,39616,Forza Italia,Cristianesimo
+67,Olga Federico-Goldoni,1968-04-22,16097,bachelor degree,F,74456,Democrazia solidale,Shintoismo
+68,Micheletto Porzio,1955-12-12,16152,middle schools,M,112280,Forza Italia,Islam
+69,Concetta Boccioni,1957-03-02,16105,master degree,M,13592,Partito Democratico,Islam
+70,Piero Ostinelli,1956-03-19,16120,master degree,M,63261,Partito Democratico,Ateo
+71,Sonia Costalonga,1933-02-22,16146,middle schools,O,97633,Partito Democratico,Islam
+72,Sig.ra Giada Santoro,1960-02-15,16141,elementary schools,O,59337,Radicali Italiani,Islam
+73,Salvatore Visintini,1958-08-28,16143,elementary schools,O,61218,Movimento Animalista,Confucianesimo
+74,Giampiero Martucci,1980-09-12,16067,elementary schools,O,57696,Forza Italia,Ateo
+75,Ramona Bassi,2001-05-10,16101,bachelor degree,O,19014,Movimento Animalista,Cristianesimo
+76,Gianluigi Guicciardini,1948-05-01,16161,high schools,N/D,74356,PiuEuropa,Induismo
+77,Sig. Venancio Basso,1951-06-28,16132,middle schools,N/D,89702,Centro Democratico,Confucianesimo
+78,Milo Parisi,2003-07-10,16076,bachelor degree,N/D,109296,Centristi per l'Europa,Induismo
+79,Dott. Loretta Gonzaga,1970-09-27,16081,middle schools,F,103023,Centristi per l'Europa,Shintoismo
+80,Gastone Petrocelli-Naccari,1940-09-21,16135,middle schools,M,85264,Italia Viva,Shintoismo
+81,Angelina Papafava,1969-08-27,16067,master degree,N/D,20459,Forza Italia,Induismo
+82,Dott. Valentina Scialpi,1972-01-08,16127,high schools,F,63945,Unione di centro,Islam
+83,Giulia Comeriato-Troisi,1931-10-16,16052,elementary schools,M,14422,Movimento Animalista,Islam
+84,Silvio Valguarnera-Pausini,1940-05-11,16059,elementary schools,M,27279,Fratelli di Italia,Shintoismo
+85,Nanni Pucci,1990-01-28,16024,elementary schools,F,98933,Centro Democratico,Shintoismo
+86,Stefania Gagliardi,1958-08-04,16102,middle schools,N/D,86840,Partito Comunista dei Lavoratori,Cristianesimo
+87,Manuel Ferrante-Meucci,1991-11-21,16146,high schools,O,46065,Fratelli di Italia,Induismo
+88,Dott. Saverio Pinamonte,1987-11-22,16125,high schools,N/D,17872,Centro Democratico,Cristianesimo
+89,Pellegrino Pizziol,1931-05-22,16108,high schools,F,77256,Forza Italia,Buddhismo
+90,Ilaria Savorgnan,1991-03-03,16129,high schools,M,90629,Movimento Animalista,Shintoismo
+91,Francesco Gramsci,1951-02-28,16085,elementary schools,N/D,37473,Movimento 5 Stelle,Induismo
+92,Ilaria Cendron,1995-06-28,16139,elementary schools,M,113188,Italia Viva,Ateo
+93,Dott. Alberto Udinese,1940-12-21,16161,bachelor degree,N/D,98899,EuropaVerde,Buddhismo
+94,Michelotto Cesaroni,1986-05-14,16137,elementary schools,F,62032,Coraggio Italia,Confucianesimo
+95,Dott. Vanessa Rusticucci,1957-06-21,16044,elementary schools,M,40718,Lega Nord,Cristianesimo
+96,Mattia Pozzecco,1940-12-18,16152,high schools,M,114683,Movimento Animalista,Confucianesimo
+97,Armando Solari-Brambilla,1990-04-09,16038,middle schools,O,38428,Lega Nord,Buddhismo
+98,Giuliano Fioravanti,1942-01-16,16148,phd,M,59648,Movimento Animalista,Induismo
+99,Lidia Tognazzi,1974-12-14,16148,middle schools,M,98942,EuropaVerde,Buddhismo
+100,Benito Visconti-Calarco,1947-06-03,16069,middle schools,O,70746,Sinistra Italiana,Shintoismo
+101,Pasqual Cherubini,1961-07-23,16152,high schools,F,20252,Sinistra Italiana,Cristianesimo
+102,Baccio Procacci,1984-08-23,16162,elementary schools,F,76814,Unione di centro,Islam
+103,Piergiuseppe Orlando-Barberini,1998-12-04,16032,master degree,F,105342,Democrazia solidale,Buddhismo
+104,Giulia Bernini,1957-03-01,16014,middle schools,O,81010,Lega Nord,Ateo
+105,Bianca Renier,1990-03-04,16091,high schools,N/D,40358,Italia Viva,Buddhismo
+106,Luisa Pizzamano,1951-08-16,16079,high schools,N/D,43181,EuropaVerde,Induismo
+107,Sebastiano Ajello,1960-11-07,16150,middle schools,O,101692,EuropaVerde,Induismo
+108,Dott. Rosa Polani,1988-12-08,16167,high schools,O,23315,Lega Nord,Confucianesimo
+109,Agnolo Camicione-Samele,1961-02-28,16074,middle schools,F,118261,Centristi per l'Europa,Confucianesimo
+110,Raffaellino Fogazzaro,1963-11-18,16022,bachelor degree,F,61016,Forza Italia,Islam
+111,Sig.ra Ramona Zito,1945-07-14,16130,elementary schools,M,85603,Centro Democratico,Cristianesimo
+112,Raffaella Trentini-Accardo,1945-03-08,16023,middle schools,F,14814,Movimento 5 Stelle,Islam
+113,Ilaria Troisi,1983-03-03,16019,elementary schools,M,66008,Centro Democratico,Islam
+114,Giuliano Michelangeli,2005-05-02,16133,middle schools,O,112340,EuropaVerde,Induismo
+115,Tatiana Tresoldi,1965-10-20,16093,high schools,N/D,29994,NoiModerati,Islam
+116,Pierpaolo Tarchetti,1975-05-06,16127,middle schools,O,16603,Lega Nord,Confucianesimo
+117,Sig.ra Paulina Bazzi,2001-10-23,16016,elementary schools,M,31386,Partito Democratico,Buddhismo
+118,Bartolomeo Maderna,1949-10-17,16144,middle schools,F,61640,Verdi,Buddhismo
+119,Carmelo Pavarotti,1938-10-26,16043,master degree,O,61305,Radicali Italiani,Ateo
+120,Sig.ra Serena Pinamonte,1999-04-09,16078,elementary schools,O,59049,Centristi per l'Europa,Shintoismo
+121,Alessio Trillini,1961-06-05,16143,master degree,F,14234,NoiModerati,Cristianesimo
+122,Rossana Fornaciari-Luria,1970-05-24,16088,middle schools,F,55885,Unione di centro,Shintoismo
+123,Alderano Pontecorvo,2002-06-23,16056,middle schools,O,55532,NoiModerati,Ateo
+124,Sig.ra Giulia Zaguri,2001-02-01,16151,elementary schools,F,118700,Centro Democratico,Cristianesimo
+125,Dott. Gianfrancesco Paoletti,1986-05-19,16095,master degree,M,33065,NoiModerati,Induismo
+126,Diana Falcone,1963-10-06,16112,high schools,O,113718,Sinistra Italiana,Induismo
+127,Pierpaolo Ferrazzi,1971-11-28,16056,elementary schools,N/D,79446,Azione,Islam
+128,Dott. Raimondo Novaro,1997-03-14,16035,middle schools,F,13141,Democrazia solidale,Induismo
+129,Pietro Martucci,1941-10-08,16162,elementary schools,F,41186,Democrazia solidale,Islam
+130,Lara Tagliafierro,1980-12-19,16147,middle schools,N/D,100292,EuropaVerde,Buddhismo
+131,Nina Piacentini,1973-07-04,16155,high schools,N/D,53627,Lega Nord,Islam
+132,Pierina Caetani,1951-05-17,16157,middle schools,F,100306,PiuEuropa,Cristianesimo
+133,Flavia Finotto-Carducci,1963-06-07,16089,high schools,F,103168,Centro Democratico,Ateo
+134,Giampiero Finetti,1968-05-15,16120,high schools,N/D,25286,Radicali Italiani,Confucianesimo
+135,Livio Cafarchia-Padovano,2004-05-20,16122,elementary schools,M,16769,Coraggio Italia,Buddhismo
+136,Milena Travaglio-Zetticci,1983-06-11,16153,middle schools,O,55342,Partito Comunista dei Lavoratori,Confucianesimo
+137,Lidia Sollima-Cignaroli,1994-03-06,16156,middle schools,M,49383,Centristi per l'Europa,Cristianesimo
+138,Greca Omma-Moschino,1936-07-19,16126,elementary schools,F,21443,Partito Comunista dei Lavoratori,Buddhismo
+139,Silvio Renzi,1968-02-16,16030,middle schools,M,62919,Movimento Animalista,Shintoismo
+140,Anita Ossola,1935-12-11,16109,high schools,F,116333,NoiModerati,Confucianesimo
+141,Daria Monicelli,1989-07-26,16069,middle schools,O,58264,Sinistra Italiana,Induismo
+142,Federico Telesio,1958-03-20,16017,elementary schools,F,90881,EuropaVerde,Cristianesimo
+143,Pasqual Pirelli,1996-08-28,16022,middle schools,N/D,63493,Nuovo PSI,Ateo
+144,Sig.ra Letizia Baggio,1980-04-23,16023,phd,O,56649,Partito Democratico,Ateo
+145,Sophia Veneziano,1952-02-26,16038,middle schools,M,20047,Movimento 5 Stelle,Buddhismo
+146,Michele Scalera,1996-06-20,16125,elementary schools,N/D,108971,Verdi,Cristianesimo
+147,Dott. Lamberto Bova,1983-04-26,16094,elementary schools,N/D,111484,Coraggio Italia,Ateo
+148,Dott. Danilo Nitti,1988-11-16,16025,high schools,O,83300,Lega Nord,Shintoismo
+149,Sig. Domenico Bonaventura,1985-04-22,16164,middle schools,F,56494,Movimento Animalista,Islam
+150,Milena Fantoni,1945-02-01,16078,elementary schools,N/D,45919,Radicali Italiani,Ateo
+151,Dott. Concetta Gonzaga,1953-03-19,16019,elementary schools,F,39986,Partito Democratico,Ateo
+152,Dott. Adelasia Casini,1977-12-19,16152,elementary schools,N/D,94902,Radicali Italiani,Ateo
+153,Bettina Capuana,1969-06-14,16143,middle schools,F,26870,Nuovo PSI,Induismo
+154,Cipriano Sabatini-Ferretti,1981-09-23,16018,middle schools,N/D,118433,Partito Comunista dei Lavoratori,Induismo
+155,Dott. Laura Pinamonte,1981-06-20,16042,high schools,F,81818,Unione di centro,Confucianesimo
+156,Sole Gentileschi-Pacelli,1960-12-06,16038,elementary schools,M,87340,Democrazia solidale,Buddhismo
+157,Fernanda Bixio,1938-02-14,16157,high schools,F,61367,Centristi per l'Europa,Ateo
+158,Sig. Laureano Zampa,1968-11-11,16145,high schools,M,81708,Italia Viva,Shintoismo
+159,Ermanno Salvini,1941-12-19,16045,middle schools,M,65840,Partito Democratico,Confucianesimo
+160,Gianmarco Piane-Mondadori,1984-02-23,16077,master degree,F,49290,Nuovo PSI,Cristianesimo
+161,Durante Cilibrasi-Sollima,1943-03-19,16036,middle schools,F,79519,NoiModerati,Confucianesimo
+162,Priscilla Viviani,1982-12-21,16098,elementary schools,N/D,27056,Partito Democratico,Cristianesimo
+163,Lolita Chittolini,1947-09-25,16102,high schools,O,99629,Italia Viva,Induismo
+164,Paloma Procacci,1930-10-22,16117,master degree,M,99174,EuropaVerde,Induismo
+165,Luciano Manacorda,1961-05-24,16134,phd,N/D,43503,Radicali Italiani,Shintoismo
+166,Dott. Fortunata Tamburello,1959-03-26,16126,middle schools,N/D,112046,Partito Democratico,Ateo
+167,Marco Argurio,1972-08-06,16136,middle schools,O,47483,Centro Democratico,Islam
+168,Melania Scarpa,2000-07-04,16035,middle schools,N/D,105942,Unione di centro,Shintoismo
+169,Camilla Satriani,1998-08-04,16061,middle schools,F,52416,Italia Viva,Buddhismo
+170,Luchino Foa,1969-07-17,16020,elementary schools,N/D,84388,Azione,Confucianesimo
+171,Clelia Goldstein,1936-08-17,16155,elementary schools,N/D,36334,Lega Nord,Ateo
+172,Carla Pacillo,1985-06-10,16053,high schools,O,101918,Italia Viva,Confucianesimo
+173,Panfilo Castioni,1940-07-01,16065,elementary schools,M,19532,Verdi,Cristianesimo
+174,Margherita Cadorna,1939-02-05,16159,elementary schools,N/D,66550,Radicali Italiani,Shintoismo
+175,Antonietta Leopardi,1938-08-07,16073,high schools,F,112948,Azione,Buddhismo
+176,Dott. Ornella Valentino,2004-11-12,16111,middle schools,N/D,76487,Lega Nord,Shintoismo
+177,Liberto Pace,1967-09-11,16087,elementary schools,O,28307,Centristi per l'Europa,Buddhismo
+178,Eraldo Franzese,1953-05-01,16074,middle schools,O,58498,NoiModerati,Buddhismo
+179,Gelsomina Iacovelli,1943-07-07,16051,middle schools,M,48219,Lega Nord,Induismo
+180,Clelia Littizzetto,1944-05-27,16073,elementary schools,M,92683,PiuEuropa,Ateo
+181,Michelotto Cavanna,1975-07-09,16056,elementary schools,N/D,84469,Nuovo PSI,Islam
+182,Annetta Gualandi,2003-05-10,16150,elementary schools,N/D,119352,Azione,Islam
+183,Dott. Torquato Travaglio,1980-11-16,16064,middle schools,F,85025,Sinistra Italiana,Cristianesimo
+184,Sig. Gianpaolo Redi,1990-08-07,16092,high schools,O,22220,Fratelli di Italia,Ateo
+185,Marina Bellocchio,1990-07-18,16136,middle schools,M,98292,Centristi per l'Europa,Buddhismo
+186,Mirko Vivaldi,1934-02-20,16048,high schools,F,98693,Fratelli di Italia,Induismo
+187,Amanda Cignaroli-Chinnici,1930-04-16,16064,elementary schools,M,62330,Centro Democratico,Induismo
+188,Gianluca Boccherini-Boiardo,1934-01-04,16159,phd,N/D,60051,NoiModerati,Confucianesimo
+189,Gaetano Randazzo,1951-05-26,16124,master degree,O,24519,PiuEuropa,Confucianesimo
+190,Micheletto Dossetti,1982-07-09,16115,master degree,M,71097,NoiModerati,Confucianesimo
+191,Luciana Impastato-Giannotti,1930-12-26,16080,middle schools,M,46022,Democrazia solidale,Confucianesimo
+192,Daniele Camicione,1964-08-06,16013,elementary schools,F,32018,Coraggio Italia,Confucianesimo
+193,Ranieri Mogherini,1982-12-23,16083,high schools,N/D,52873,Coraggio Italia,Islam
+194,Martino Ortolani,1953-10-19,16074,middle schools,M,41150,EuropaVerde,Buddhismo
+195,Dott. Baccio Guglielmi,1959-05-08,16140,high schools,N/D,22474,PiuEuropa,Shintoismo
+196,Sig. Dario Cianciolo,1933-07-20,16045,middle schools,M,75614,Forza Italia,Confucianesimo
+197,Saverio Gori,1968-09-11,16122,elementary schools,O,54299,PiuEuropa,Shintoismo
+198,Patrizio Scandone-Zanichelli,1945-01-02,16131,elementary schools,M,87128,Centro Democratico,Induismo
+199,Ottone Ossola,1965-03-08,16114,high schools,N/D,17897,Radicali Italiani,Islam
+200,Ermes Foletti,1940-07-25,16058,middle schools,N/D,37712,Sinistra Italiana,Confucianesimo
+201,Nicola Bersani-Vespucci,1945-03-07,16027,master degree,O,21991,Nuovo PSI,Buddhismo
+202,Coriolano Vismara-Bellocchio,1949-08-20,16117,elementary schools,F,100781,NoiModerati,Cristianesimo
+203,Antonina Rapisardi,1983-10-27,16039,elementary schools,M,93251,EuropaVerde,Ateo
+204,Antonino Nordio-Stradivari,1953-08-11,16030,elementary schools,O,25385,EuropaVerde,Cristianesimo
+205,Silvia Luna,1962-09-03,16072,middle schools,O,92328,Movimento Animalista,Induismo
+206,Paolo Baresi,1953-07-08,16123,middle schools,O,107181,Partito Comunista dei Lavoratori,Buddhismo
+207,Torquato Cimini-Bergoglio,1971-08-14,16082,middle schools,O,62141,Partito Comunista dei Lavoratori,Confucianesimo
+208,Nedda Parri,1952-01-15,16048,high schools,N/D,107075,Fratelli di Italia,Cristianesimo
+209,Melissa Gioberti,1936-06-21,16094,high schools,O,94660,Movimento 5 Stelle,Islam
+210,Girolamo Mondadori,1965-01-11,16012,phd,N/D,115583,Movimento Animalista,Shintoismo
+211,Sig. Antonino Faggiani,1930-08-12,16067,middle schools,O,93441,Nuovo PSI,Cristianesimo
+212,Lodovico Nolcini,1941-05-24,16077,master degree,O,86853,PiuEuropa,Induismo
+213,Gianfrancesco Guinizzelli,1989-08-22,16124,master degree,O,90771,Partito Democratico,Ateo
+214,Lucrezia Ferrari,2003-12-25,16028,elementary schools,O,107458,Coraggio Italia,Buddhismo
+215,Ninetta Spinola,1966-07-20,16043,phd,F,62490,Forza Italia,Induismo
+216,Sig.ra Elisa Dulbecco,1991-12-12,16080,elementary schools,M,57337,Centristi per l'Europa,Induismo
+217,Ludovica Donatoni,1961-12-14,16015,middle schools,O,47303,Nuovo PSI,Induismo
+218,Michela Bembo,1997-01-01,16166,middle schools,N/D,75093,Centro Democratico,Buddhismo
+219,Sole Bellucci,1943-12-05,16080,middle schools,F,56445,Centristi per l'Europa,Confucianesimo
+220,Oreste Barsanti,2001-12-05,16113,elementary schools,M,27667,Unione di centro,Buddhismo
+221,Diana Borromini,1996-12-11,16139,high schools,F,70410,Fratelli di Italia,Ateo
+222,Lucio Bova-Fogazzaro,1945-10-16,16055,high schools,O,17116,Verdi,Induismo
+223,Stella Musatti,1964-03-08,16167,high schools,O,98333,Radicali Italiani,Confucianesimo
+224,Ansaldo Togliatti,1985-01-03,16129,middle schools,F,101296,Partito Democratico,Buddhismo
+225,Vincenza Catenazzi,1979-08-27,16050,high schools,F,40362,Forza Italia,Shintoismo
+226,Valentina Lucciano-Pigafetta,1971-09-26,16022,elementary schools,F,78063,PiuEuropa,Confucianesimo
+227,Gianni Carducci,1942-11-24,16084,middle schools,F,20854,Sinistra Italiana,Shintoismo
+228,Sig.ra Serena Pucci,1958-01-25,16079,high schools,O,62307,Unione di centro,Induismo
+229,Gemma Comeriato-Toldo,1987-06-02,16156,elementary schools,O,77938,Centristi per l'Europa,Shintoismo
+230,Giacomo Mondaini-Farinelli,1952-03-08,16160,elementary schools,N/D,42512,Centristi per l'Europa,Shintoismo
+231,Sebastiano Onisto,1949-03-11,16166,middle schools,O,63392,Partito Comunista dei Lavoratori,Confucianesimo
+232,Veronica Pellegrini,1941-10-18,16039,high schools,M,106284,Unione di centro,Ateo
+233,Gianluca Pincherle,1967-06-10,16164,elementary schools,M,17583,NoiModerati,Induismo
+234,Filippa Cattaneo,1993-01-13,16020,elementary schools,O,22569,Partito Democratico,Induismo
+235,Amalia Cugia-Gasperi,1947-05-18,16077,elementary schools,M,72425,Fratelli di Italia,Islam
+236,Rita Borroni-Monte,1958-09-07,16076,master degree,F,29864,Unione di centro,Induismo
+237,Ilaria Detti-Gozzi,1941-06-25,16167,bachelor degree,O,109918,Movimento Animalista,Confucianesimo
+238,Toni Moretti-Angiolello,1952-12-12,16047,elementary schools,F,38677,PiuEuropa,Confucianesimo
+239,Raffaella Montalcini,2001-03-25,16158,high schools,F,105629,Movimento Animalista,Buddhismo
+240,Claudia Franzese,1951-08-22,16028,high schools,M,32004,PiuEuropa,Ateo
+241,Gaspare Manunta,1973-10-22,16010,master degree,M,80507,Movimento 5 Stelle,Ateo
+242,Loredana Foscari,1985-12-17,16150,middle schools,F,82813,EuropaVerde,Induismo
+243,Elmo Canil,1939-11-07,16128,elementary schools,F,112890,Partito Comunista dei Lavoratori,Ateo
+244,Monica Papetti-Micca,1987-09-06,16040,high schools,O,98079,Forza Italia,Confucianesimo
+245,Ippazio Cossiga,1945-10-01,16124,high schools,M,87678,Verdi,Confucianesimo
+246,Dott. Jacopo Crisafulli,1980-11-15,16064,elementary schools,F,21922,Nuovo PSI,Cristianesimo
+247,Dott. Serena Tosi,1975-11-01,16150,elementary schools,M,64656,Movimento Animalista,Islam
+248,Osvaldo Bettin,1986-05-27,16108,middle schools,F,34589,Democrazia solidale,Islam
+249,Sig. Goffredo Randazzo,1952-03-20,16018,middle schools,M,53513,Azione,Induismo
+250,Giada Ramazzotti,1947-10-16,16088,high schools,N/D,100279,Azione,Confucianesimo
+251,Gastone Doglioni,2005-01-14,16136,elementary schools,M,46843,Lega Nord,Induismo
+252,Dott. Maria Pisani,2004-09-13,16018,bachelor degree,O,26607,Azione,Buddhismo
+253,Valentina Duse,1976-12-07,16045,master degree,N/D,108616,Unione di centro,Buddhismo
+254,Guarino Tedesco-Giannotti,2000-02-21,16122,middle schools,N/D,117614,Democrazia solidale,Ateo
+255,Michelotto Pometta-Pugliese,1958-08-02,16071,elementary schools,F,60673,Forza Italia,Confucianesimo
+256,Ciro Borromini,1933-11-20,16106,bachelor degree,O,91923,NoiModerati,Confucianesimo
+257,Licia Castiglione,1959-09-12,16125,elementary schools,M,113430,Partito Democratico,Cristianesimo
+258,Sig. Temistocle Foa,1982-03-13,16121,middle schools,M,66740,Democrazia solidale,Confucianesimo
+259,Ludovico Esposito,1984-04-14,16146,middle schools,O,68022,Lega Nord,Buddhismo
+260,Sig.ra Paola Visconti,1958-11-20,16072,elementary schools,O,65025,Unione di centro,Ateo
+261,Ludovica Gargallo-Galuppi,1993-04-28,16025,middle schools,F,59937,Italia Viva,Confucianesimo
+262,Milo Lamborghini,1989-08-23,16151,high schools,F,25981,Partito Comunista dei Lavoratori,Buddhismo
+263,Federico Gigli,1953-02-20,16114,master degree,N/D,68800,Fratelli di Italia,Confucianesimo
+264,Ubaldo Bersani,1936-10-13,16070,high schools,F,79017,Centro Democratico,Shintoismo
+265,Eraldo Pacelli,1987-04-04,16057,elementary schools,F,116202,Lega Nord,Confucianesimo
+266,Dott. Mercedes Leoncavallo,2000-10-04,16062,middle schools,F,114699,Azione,Cristianesimo
+267,Renata Pirandello,1990-08-03,16078,elementary schools,N/D,89173,Unione di centro,Buddhismo
+268,Mariano Musatti,1984-01-21,16130,phd,N/D,91295,PiuEuropa,Ateo
+269,Aurora Carriera,2006-03-12,16090,elementary schools,M,37672,Centro Democratico,Cristianesimo
+270,Maria Pedrazzini,1953-12-16,16145,middle schools,M,54040,Unione di centro,Induismo
+271,Antonia Borroni,1980-02-16,16035,high schools,M,100634,Movimento Animalista,Buddhismo
+272,Amalia Chigi,1944-12-10,16045,elementary schools,M,34648,Democrazia solidale,Induismo
+273,Sig.ra Amanda Gozzano,1934-12-08,16092,elementary schools,M,107678,Movimento Animalista,Islam
+274,Lidia Oliboni,1941-08-26,16101,middle schools,O,67265,Centro Democratico,Shintoismo
+275,Dolores Ferraris,1978-01-24,16136,high schools,O,27186,Movimento Animalista,Confucianesimo
+276,Romina Rensi,1971-05-11,16068,master degree,F,42877,Fratelli di Italia,Confucianesimo
+277,Etta Romiti,1941-02-04,16123,high schools,N/D,114954,Democrazia solidale,Shintoismo
+278,Ornella Saragat,1998-03-06,16042,elementary schools,F,65770,Movimento 5 Stelle,Cristianesimo
+279,Dott. Gianfranco Mozart,1956-12-08,16112,master degree,O,65029,EuropaVerde,Ateo
+280,Serena Armani-Matteotti,1936-04-04,16110,high schools,M,36697,Democrazia solidale,Shintoismo
+281,Mercedes Ferretti-Tebaldi,1957-02-09,16112,elementary schools,O,95552,Nuovo PSI,Ateo
+282,Gioachino Zetticci,1965-10-26,16016,middle schools,N/D,81205,NoiModerati,Confucianesimo
+283,Paloma Rastelli,1936-05-18,16050,elementary schools,N/D,98346,Lega Nord,Islam
+284,Alberto Tamburini-Dovara,1979-12-21,16043,master degree,M,97899,Coraggio Italia,Induismo
+285,Jolanda Roncalli,2000-08-09,16122,high schools,M,118356,EuropaVerde,Islam
+286,Sergius Toselli,1981-10-06,16035,middle schools,M,35093,NoiModerati,Cristianesimo
+287,Fernanda Mogherini,1980-01-24,16013,elementary schools,M,76756,EuropaVerde,Confucianesimo
+288,Alessandra Nicoletti,1976-08-25,16051,high schools,N/D,70937,Sinistra Italiana,Shintoismo
+289,Pierpaolo Tuzzolino,1971-11-06,16152,high schools,M,107478,Lega Nord,Islam
+290,Sole Battisti,1994-10-23,16053,elementary schools,M,116443,Azione,Cristianesimo
+291,Gino Schiaparelli,1985-08-12,16040,middle schools,F,51013,Nuovo PSI,Islam
+292,Fortunata Antonelli,2003-06-25,16090,middle schools,N/D,17610,PiuEuropa,Shintoismo
+293,Priscilla Montesano,1954-11-08,16123,elementary schools,M,25136,Forza Italia,Buddhismo
+294,Fulvio Rossetti,1987-01-23,16088,high schools,N/D,89342,Unione di centro,Induismo
+295,Dott. Valeria Palmisano,1967-03-03,16132,high schools,M,119013,Centro Democratico,Shintoismo
+296,Valeria Sraffa,2003-04-27,16102,middle schools,F,60241,Centristi per l'Europa,Shintoismo
+297,Evangelista Cicala,1975-01-23,16107,middle schools,M,110576,Centro Democratico,Buddhismo
+298,Marina Basso,1957-12-09,16104,elementary schools,O,102833,Centro Democratico,Buddhismo
+299,Donatella Bellini,1995-01-20,16040,elementary schools,N/D,35573,Radicali Italiani,Induismo
+300,Serena Fantoni-Pugliese,1984-12-11,16037,elementary schools,O,85099,Radicali Italiani,Ateo
+301,Guarino Calvo,1990-03-22,16016,high schools,N/D,68104,Centristi per l'Europa,Islam
+302,Dott. Vincentio Luzi,1974-11-25,16039,bachelor degree,O,13764,Italia Viva,Ateo
+303,Serena Saraceno,2002-11-08,16143,elementary schools,N/D,112516,Unione di centro,Induismo
+304,Marcella Bajardi,1996-04-02,16084,middle schools,N/D,93908,Verdi,Islam
+305,Tiziana Gualtieri,1974-12-19,16113,elementary schools,F,41255,Italia Viva,Induismo
+306,Melania Tommaseo,2002-05-23,16138,elementary schools,M,27160,Partito Democratico,Buddhismo
+307,Dott. Luca Barracco,1936-03-24,16163,high schools,F,101790,PiuEuropa,Ateo
+308,Sante Moretti,1930-02-12,16072,elementary schools,O,93207,Forza Italia,Shintoismo
+309,Giuliano Proietti,1941-05-11,16066,middle schools,M,59453,Fratelli di Italia,Ateo
+310,Luisa Nugnes,1960-12-02,16098,middle schools,M,81125,Azione,Induismo
+311,Erika Malacarne,1941-10-28,16066,elementary schools,F,86070,Centristi per l'Europa,Induismo
+312,Sig.ra Graziella Canetta,2005-02-11,16048,master degree,M,56219,Azione,Buddhismo
+313,Flora Abatantuono,1930-05-20,16129,high schools,M,109757,Partito Comunista dei Lavoratori,Induismo
+314,Aria Cesarotti,1963-11-22,16018,middle schools,F,47526,Fratelli di Italia,Ateo
+315,Augusto Montalcini-Babati,1985-06-08,16166,middle schools,F,66743,Italia Viva,Ateo
+316,Dott. Aria Rossetti,1998-04-24,16101,middle schools,F,55574,Movimento 5 Stelle,Confucianesimo
+317,Maura Orlando-Renzi,1999-05-14,16074,high schools,M,56953,Movimento Animalista,Confucianesimo
+318,Piergiuseppe Antonacci-Cutrufo,1962-08-08,16015,high schools,N/D,79325,Centristi per l'Europa,Confucianesimo
+319,Lisa Franceschi,1997-02-21,16102,middle schools,M,79148,PiuEuropa,Ateo
+320,Osvaldo Sanudo,1952-03-01,16096,middle schools,N/D,36356,Coraggio Italia,Induismo
+321,Griselda Lombardi,1980-10-21,16135,elementary schools,N/D,101783,NoiModerati,Buddhismo
+322,Lisa Zaguri,1945-09-17,16025,elementary schools,F,94545,Democrazia solidale,Cristianesimo
+323,Eleanora Argenti,1965-11-17,16096,elementary schools,O,18731,Forza Italia,Buddhismo
+324,Dott. Lolita Ajello,1936-06-20,16099,elementary schools,F,79349,PiuEuropa,Islam
+325,Gianluigi Monte-Matteotti,1979-10-09,16128,middle schools,O,54470,Lega Nord,Shintoismo
+326,Piero Ferrucci,1935-01-07,16100,high schools,O,111649,Coraggio Italia,Ateo
+327,Dott. Agostino Calvo,1996-03-24,16039,high schools,N/D,59699,Democrazia solidale,Induismo
+328,Cristina Angiolello,1956-08-16,16163,middle schools,M,20407,Radicali Italiani,Induismo
+329,Alessio Maglio,1959-04-11,16084,bachelor degree,F,35935,Italia Viva,Induismo
+330,Serena Palazzo-Bonomo,1981-10-06,16134,master degree,O,66635,Movimento Animalista,Shintoismo
+331,Sig.ra Ramona Bataglia,1943-01-04,16073,bachelor degree,O,18855,Partito Democratico,Shintoismo
+332,Virginia Boitani-Antonini,1940-03-22,16086,elementary schools,F,33456,Sinistra Italiana,Confucianesimo
+333,Massimo Iannuzzi,1940-09-02,16065,high schools,M,28392,Centro Democratico,Shintoismo
+334,Antonella Zola,1980-12-12,16020,master degree,N/D,105169,Verdi,Confucianesimo
+335,Griselda Filippelli,1960-10-14,16110,high schools,N/D,77326,Partito Comunista dei Lavoratori,Confucianesimo
+336,Tatiana Maffei,1984-08-27,16026,high schools,F,46445,Movimento 5 Stelle,Cristianesimo
+337,Paoletta Modugno,1954-02-11,16062,high schools,N/D,98174,Forza Italia,Cristianesimo
+338,Giancarlo Impastato,1949-12-02,16097,elementary schools,M,44562,PiuEuropa,Induismo
+339,Raffaele Iannelli,1942-02-20,16146,middle schools,O,63855,Coraggio Italia,Ateo
+340,Mariano Fallaci,1997-10-16,16167,master degree,O,88661,Movimento 5 Stelle,Buddhismo
+341,Mattia Giovine-Scarlatti,1931-10-25,16015,middle schools,O,57410,Azione,Ateo
+342,Ida Collodi,1960-07-03,16037,master degree,F,99884,Radicali Italiani,Buddhismo
+343,Sig. Mattia Notarbartolo,1962-10-03,16157,master degree,F,105129,Nuovo PSI,Confucianesimo
+344,Bruno Gargallo,1997-08-09,16030,middle schools,F,65391,Verdi,Confucianesimo
+345,Sig. Beppe Juvara,1996-09-15,16029,elementary schools,N/D,38065,Centristi per l'Europa,Shintoismo
+346,Gianpietro Castiglione-Paruta,1962-12-16,16167,high schools,M,30098,PiuEuropa,Confucianesimo
+347,Enzo Boaga,1941-08-15,16138,high schools,N/D,100008,Lega Nord,Cristianesimo
+348,Telemaco Montanelli-Modugno,1966-11-07,16113,high schools,M,31775,Italia Viva,Confucianesimo
+349,Antonello Fantozzi,2006-12-06,16025,elementary schools,N/D,40769,Lega Nord,Cristianesimo
+350,Paloma Esposito,1995-08-18,16088,middle schools,O,103415,Democrazia solidale,Shintoismo
+351,Gaspare Nugnes,1956-06-24,16087,elementary schools,F,80453,Partito Comunista dei Lavoratori,Confucianesimo
+352,Donatello Grifeo,1991-02-20,16112,high schools,M,21177,PiuEuropa,Buddhismo
+353,Ramona Tamborini,1957-11-04,16051,high schools,F,18715,Verdi,Ateo
+354,Lucrezia Cianciolo,1981-05-06,16024,elementary schools,M,34719,Fratelli di Italia,Ateo
+355,Sig. Gianni Duse,2005-06-20,16164,elementary schools,N/D,119819,Movimento Animalista,Buddhismo
+356,Melania Lettiere,1964-07-28,16109,elementary schools,N/D,78552,Partito Democratico,Induismo
+357,Gino Monti,1966-02-25,16033,middle schools,O,23231,Nuovo PSI,Shintoismo
+358,Flavia Luna,1943-07-01,16158,middle schools,F,25167,PiuEuropa,Ateo
+359,Rodolfo Carocci,1986-09-13,16164,elementary schools,M,97885,Italia Viva,Islam
+360,Guglielmo Romano,1989-01-18,16157,middle schools,F,25401,Coraggio Italia,Buddhismo
+361,Nicoletta Guarato,1934-08-15,16080,elementary schools,M,43155,Centro Democratico,Islam
+362,Benito Leblanc,2006-11-02,16014,elementary schools,M,22739,PiuEuropa,Buddhismo
+363,Donatella Bernardini,1939-05-18,16120,elementary schools,N/D,102891,Movimento 5 Stelle,Induismo
+364,Michele Ginese,1956-09-18,16155,high schools,M,117699,Sinistra Italiana,Induismo
+365,Francesco Panzera-Prati,1991-12-12,16111,master degree,N/D,59194,Democrazia solidale,Ateo
+366,Ida Cagnotto-Trapanese,1962-08-07,16020,middle schools,F,42579,Fratelli di Italia,Buddhismo
+367,Graziella Torricelli-Marrone,1957-09-23,16062,high schools,M,66461,Fratelli di Italia,Induismo
+368,Alderano Scalfaro,2003-09-10,16101,middle schools,M,42473,Forza Italia,Confucianesimo
+369,Nadia Florio,1994-04-27,16123,master degree,M,113909,PiuEuropa,Ateo
+370,Giacobbe Cadorna,1985-01-01,16118,middle schools,N/D,96754,Centro Democratico,Islam
+371,Carolina Barbarigo,1947-08-10,16132,elementary schools,N/D,58624,Movimento 5 Stelle,Ateo
+372,Sig.ra Flavia Garobbio,1986-09-25,16064,master degree,F,86567,Democrazia solidale,Cristianesimo
+373,Donato Gianetti,1956-02-13,16041,middle schools,O,22633,Lega Nord,Islam
+374,Bianca Montessori,1979-10-14,16043,middle schools,M,33268,Lega Nord,Cristianesimo
+375,Federigo Pertini,1946-07-18,16019,bachelor degree,M,77496,Centristi per l'Europa,Buddhismo
+376,Pierpaolo Malaparte,1955-08-04,16104,elementary schools,O,33952,Coraggio Italia,Confucianesimo
+377,Lando Cibin,1960-03-13,16044,elementary schools,M,104773,Partito Democratico,Ateo
+378,Sig.ra Vittoria Ortese,1963-07-23,16038,middle schools,O,18227,Unione di centro,Shintoismo
+379,Sig.ra Serafina Santi,1962-05-18,16155,middle schools,N/D,115515,Verdi,Induismo
+380,Sophia Cossiga-Ficino,1943-02-05,16141,middle schools,N/D,79446,Democrazia solidale,Induismo
+381,Morena Mazzini-Marenzio,1954-09-01,16048,high schools,F,78554,Unione di centro,Cristianesimo
+382,Dott. Rosa Molesini,1993-01-15,16106,high schools,N/D,119725,Democrazia solidale,Induismo
+383,Raimondo Peano,1930-02-16,16029,elementary schools,N/D,29094,Coraggio Italia,Confucianesimo
+384,Bettina Pasqua,2000-11-10,16093,elementary schools,M,92048,Lega Nord,Shintoismo
+385,Bernardo Zanichelli,1952-09-13,16100,high schools,M,37857,Forza Italia,Ateo
+386,Nicola Luxardo,1976-05-17,16126,high schools,O,35350,Forza Italia,Buddhismo
+387,Antonio Cantimori,1956-12-11,16041,middle schools,F,36771,Centristi per l'Europa,Cristianesimo
+388,Valeria Basso-Visconti,1982-02-27,16066,middle schools,M,116551,Centro Democratico,Confucianesimo
+389,Amadeo Tosi,1986-06-19,16017,high schools,M,65620,Forza Italia,Ateo
+390,Melissa Juvara-Omma,1963-01-09,16136,high schools,M,72519,Italia Viva,Buddhismo
+391,Piermaria Pennetta,1986-01-18,16024,middle schools,M,90419,EuropaVerde,Cristianesimo
+392,Dott. Ezio Gianetti,1979-02-06,16046,elementary schools,M,67901,Nuovo PSI,Cristianesimo
+393,Fedele Chinnici,1943-07-11,16130,elementary schools,F,117402,Unione di centro,Shintoismo
+394,Dott. Romolo Gozzi,1992-11-26,16015,elementary schools,F,119568,Centro Democratico,Islam
+395,Sig. Puccio Roero,1934-12-22,16027,high schools,F,94761,Unione di centro,Ateo
+396,Sig.ra Teresa Scaduto,1990-02-26,16112,high schools,M,39096,Sinistra Italiana,Ateo
+397,Annamaria Tassoni-Mercantini,1996-10-25,16038,high schools,N/D,117641,Partito Democratico,Cristianesimo
+398,Nadia Fittipaldi,1972-10-14,16067,middle schools,N/D,94272,Verdi,Shintoismo
+399,Giulia Marenzio,1941-11-18,16144,high schools,F,94324,Movimento 5 Stelle,Islam
+400,Rossana Paganini,1965-10-02,16152,elementary schools,N/D,60506,Unione di centro,Cristianesimo
+401,Sylvia Turci,1959-03-03,16079,high schools,F,83462,Verdi,Islam
+402,Gioachino Cavalcanti-Scarfoglio,1959-02-14,16156,high schools,M,28988,Italia Viva,Ateo
+403,Dott. Griselda Casagrande,1939-01-10,16106,middle schools,O,87518,Movimento 5 Stelle,Shintoismo
+404,Raffaella Comencini,1993-10-10,16097,middle schools,F,68670,Partito Comunista dei Lavoratori,Induismo
+405,Raffaella Correr,1992-11-17,16048,high schools,O,90495,Azione,Induismo
+406,Ennio Ciani-Verri,1962-09-17,16153,high schools,O,87133,Radicali Italiani,Ateo
+407,Panfilo Mantegna-Angiolello,1997-09-15,16145,master degree,M,78846,Italia Viva,Confucianesimo
+408,Stella Guidone,1943-11-14,16165,middle schools,N/D,47967,Forza Italia,Induismo
+409,Puccio Riccati,1989-09-17,16013,middle schools,O,59647,Democrazia solidale,Induismo
+410,Isa Nicoletti,1937-03-17,16147,middle schools,M,119033,Movimento Animalista,Shintoismo
+411,Ruggiero Torlonia,1940-05-27,16051,middle schools,M,109232,Lega Nord,Ateo
+412,Sig.ra Rosina Giannotti,1974-04-19,16015,high schools,O,71185,Radicali Italiani,Cristianesimo
+413,Concetta Pigafetta-Tiepolo,1965-11-03,16071,middle schools,O,113196,Partito Democratico,Ateo
+414,Giorgia Cusano,1934-01-04,16129,middle schools,M,31379,Coraggio Italia,Cristianesimo
+415,Sig.ra Chiara Giammusso,1967-03-19,16029,middle schools,O,41391,Fratelli di Italia,Ateo
+416,Dott. Goffredo Malaparte,1972-10-09,16061,middle schools,F,16667,Democrazia solidale,Induismo
+417,Flora Malaparte,1957-06-09,16100,high schools,N/D,59818,NoiModerati,Cristianesimo
+418,Romeo Leonardi,1969-01-20,16146,elementary schools,O,85073,Verdi,Induismo
+419,Luciana Falcone,1993-04-27,16121,elementary schools,O,17707,Partito Democratico,Islam
+420,Michela Zito,1970-09-23,16068,high schools,O,109236,Fratelli di Italia,Confucianesimo
+421,Sig. Lodovico Abatantuono,1978-08-22,16125,elementary schools,F,45276,Movimento 5 Stelle,Confucianesimo
+422,Pier Travaglia,1945-11-18,16164,elementary schools,F,95605,Movimento 5 Stelle,Buddhismo
+423,Ferdinando Ostinelli,1935-09-12,16033,middle schools,O,69719,Radicali Italiani,Induismo
+424,Nadia Taccola,1943-05-09,16097,middle schools,N/D,45864,Nuovo PSI,Induismo
+425,Sig.ra Annunziata Jovinelli,1939-05-21,16110,high schools,M,47915,Democrazia solidale,Islam
+426,Marissa Ciampi,1983-12-17,16041,high schools,M,104732,Partito Democratico,Confucianesimo
+427,Milena Bellucci,1997-01-08,16154,high schools,F,90406,Movimento 5 Stelle,Ateo
+428,Diana Zacco,1931-12-21,16039,middle schools,O,61498,Nuovo PSI,Ateo
+429,Vanessa Solimena,1940-02-18,16108,elementary schools,F,119540,EuropaVerde,Buddhismo
+430,Fabio Angeli,1938-01-09,16138,master degree,M,63361,Partito Democratico,Buddhismo
+431,Stefania Bergoglio-Bocelli,2003-11-17,16126,high schools,N/D,30239,Centristi per l'Europa,Cristianesimo
+432,Emma Natta-Paganini,1993-02-23,16118,elementary schools,N/D,57288,EuropaVerde,Shintoismo
+433,Serena Giannini-Scaduto,1936-12-28,16123,high schools,F,86239,Partito Democratico,Islam
+434,Graziano Totino,2000-06-12,16084,high schools,M,116527,NoiModerati,Cristianesimo
+435,Corrado Fabrizi,1970-10-03,16063,elementary schools,M,113909,Movimento Animalista,Induismo
+436,Liberto Trupiano,1977-12-11,16047,high schools,O,57672,Sinistra Italiana,Ateo
+437,Pina Antonelli,1948-07-13,16029,middle schools,O,82014,Italia Viva,Buddhismo
+438,Ricciotti Peranda,1979-04-28,16113,elementary schools,N/D,18549,Partito Comunista dei Lavoratori,Cristianesimo
+439,Barbara Lippomano,1974-03-23,16059,middle schools,O,23506,PiuEuropa,Induismo
+440,Nico Paoletti,1959-10-21,16155,middle schools,O,112549,NoiModerati,Induismo
+441,Simone Acerbi-Babbo,1964-11-02,16032,elementary schools,N/D,51337,Italia Viva,Buddhismo
+442,Sergius Florio,1948-05-12,16048,elementary schools,O,100948,Partito Comunista dei Lavoratori,Islam
+443,Barbara Ioppi,1965-10-08,16082,middle schools,O,78686,Partito Democratico,Buddhismo
+444,Dott. Renzo Verdi,1937-12-08,16146,elementary schools,O,33888,Unione di centro,Shintoismo
+445,Biagio Gualtieri-Mazzini,1939-10-22,16055,middle schools,F,102114,PiuEuropa,Induismo
+446,Fiorino Napolitano,1945-04-28,16084,bachelor degree,M,64194,Sinistra Italiana,Islam
+447,Paulina Pulci,1932-01-28,16021,bachelor degree,N/D,106992,Lega Nord,Confucianesimo
+448,Annalisa Ariosto,1992-12-27,16031,elementary schools,N/D,36367,Radicali Italiani,Confucianesimo
+449,Gloria Filogamo-Borromeo,1978-05-19,16020,middle schools,M,42143,PiuEuropa,Buddhismo
+450,Lucrezia Inzaghi,1940-10-24,16113,high schools,F,88910,Lega Nord,Induismo
+451,Erika Innocenti,1946-09-10,16065,middle schools,O,79243,Unione di centro,Ateo
+452,Federica Foà-Morricone,1932-10-11,16101,middle schools,F,14976,Centro Democratico,Induismo
+453,Fernanda Schiavo-Zoppetto,1971-06-24,16072,high schools,F,35733,Verdi,Confucianesimo
+454,Telemaco Giannotti,1988-05-28,16108,middle schools,F,73588,Partito Democratico,Buddhismo
+455,Camilla Casellati,2001-08-27,16079,elementary schools,M,14545,Fratelli di Italia,Islam
+456,Dott. Vanessa Colletti,1963-03-09,16140,elementary schools,O,78590,Unione di centro,Islam
+457,Dott. Simonetta Benedetti,2006-06-01,16106,master degree,M,102308,Coraggio Italia,Ateo
+458,Graziella Innocenti,1952-05-23,16103,master degree,M,108695,Italia Viva,Islam
+459,Marcantonio Tolentino,1941-09-03,16034,middle schools,F,112548,EuropaVerde,Confucianesimo
+460,Romina Vidoni,1967-08-25,16120,elementary schools,F,94170,Lega Nord,Islam
+461,Ornella Basso-Cignaroli,1938-08-15,16100,high schools,F,53340,Italia Viva,Ateo
+462,Clelia Savorgnan,2003-07-14,16117,high schools,M,116506,Unione di centro,Ateo
+463,Gelsomina Scalfaro,1962-06-17,16080,middle schools,F,70807,NoiModerati,Buddhismo
+464,Orazio Ostinelli,1951-12-17,16083,middle schools,F,24789,Azione,Ateo
+465,Adelasia Esposito,1978-07-08,16096,elementary schools,N/D,33064,PiuEuropa,Islam
+466,Angelo Gabba,1978-01-01,16097,high schools,N/D,55269,Radicali Italiani,Ateo
+467,Delfino Mastroianni-Crisafulli,1943-03-22,16045,middle schools,O,45012,Forza Italia,Ateo
+468,Carmelo Turchetta,1933-09-06,16114,elementary schools,N/D,103496,Sinistra Italiana,Ateo
+469,Morena Duodo,1998-07-13,16041,middle schools,O,112669,Democrazia solidale,Shintoismo
+470,Sig.ra Lauretta Ariosto,1957-01-22,16102,middle schools,N/D,96539,Azione,Shintoismo
+471,Rosaria Gelli,1986-11-21,16142,elementary schools,M,116294,Forza Italia,Buddhismo
+472,Amico Satriani-Boccioni,2004-06-16,16042,middle schools,O,87194,Radicali Italiani,Confucianesimo
+473,Silvestro Battaglia-Gremese,1963-09-11,16092,middle schools,M,80828,EuropaVerde,Induismo
+474,Gioele Borromini,1978-02-04,16096,elementary schools,O,79954,Radicali Italiani,Cristianesimo
+475,Giuliano Tebaldi,1935-04-19,16087,middle schools,N/D,106560,Sinistra Italiana,Islam
+476,Dott. Lidia Perozzo,1986-05-07,16140,elementary schools,M,41391,Centristi per l'Europa,Confucianesimo
+477,Michelangelo Babbo,1957-09-26,16043,elementary schools,O,64507,Fratelli di Italia,Shintoismo
+478,Pina Garozzo,2004-05-11,16118,elementary schools,O,65546,Sinistra Italiana,Buddhismo
+479,Sandra Musatti,1964-10-27,16115,middle schools,M,26100,Centristi per l'Europa,Buddhismo
+480,Micheletto Bernardi,1940-10-23,16044,high schools,N/D,73299,Centro Democratico,Induismo
+481,Sig. Uberto Columbo,1981-02-27,16076,elementary schools,F,95117,Coraggio Italia,Cristianesimo
+482,Nina Trupiano,1979-09-15,16146,elementary schools,O,76204,Radicali Italiani,Confucianesimo
+483,Giacomo Bragadin,1946-06-14,16114,middle schools,O,83987,Partito Comunista dei Lavoratori,Ateo
+484,Luigina Antonini-Govoni,1981-02-08,16099,elementary schools,M,77600,Centristi per l'Europa,Buddhismo
+485,Dott. Luciana Catenazzi,1969-07-23,16103,middle schools,F,77183,Partito Comunista dei Lavoratori,Islam
+486,Ninetta Giammusso,1953-05-23,16058,middle schools,F,20888,Movimento 5 Stelle,Shintoismo
+487,Ilaria Gonzaga,1939-08-05,16043,middle schools,M,114153,Forza Italia,Buddhismo
+488,Sig. Carlo Piacentini,1972-12-27,16084,middle schools,N/D,75989,Democrazia solidale,Induismo
+489,Lara Barozzi,1986-09-17,16096,middle schools,M,84668,Lega Nord,Ateo
+490,Dott. Margherita Ravaglioli,1978-12-27,16084,middle schools,M,24943,Radicali Italiani,Islam
+491,Aldo Camiscione,1938-06-10,16072,elementary schools,O,93876,Verdi,Islam
+492,Cassandra Gangemi,1955-09-04,16110,high schools,F,91755,Italia Viva,Shintoismo
+493,Ezio Gentileschi,1977-09-09,16055,elementary schools,M,37085,Italia Viva,Ateo
+494,Sonia Nonis,1930-02-23,16068,middle schools,F,18062,Verdi,Ateo
+495,Giuliana Pignatti,1971-07-05,16083,middle schools,N/D,43889,Coraggio Italia,Shintoismo
+496,Sig. Massimo Cabibbo,1936-02-28,16032,middle schools,N/D,104056,Movimento 5 Stelle,Confucianesimo
+497,Angelina Petrocelli-Totino,1973-02-27,16117,bachelor degree,F,118322,Forza Italia,Islam
+498,Flora Disdero,1978-07-06,16143,bachelor degree,N/D,43772,Verdi,Ateo
+499,Coluccio Sermonti-Burcardo,1949-01-27,16094,phd,O,64668,Forza Italia,Buddhismo
+500,Lorenzo Boaga-Brancaccio,1986-11-08,16164,high schools,O,25142,PiuEuropa,Confucianesimo
+501,Olga Fermi-Vento,1943-12-28,16080,middle schools,M,94465,Coraggio Italia,Islam
+502,Sig.ra Olga Esposito,1963-10-20,16036,high schools,O,23361,Coraggio Italia,Confucianesimo
+503,Roberto Ginesio-Canevascini,1960-10-12,16125,bachelor degree,M,47303,Verdi,Islam
+504,Melissa Antonioni-Schiaparelli,1937-05-28,16076,elementary schools,O,35716,Centro Democratico,Islam
+505,Renata Luria,1984-09-27,16012,master degree,O,103125,Coraggio Italia,Buddhismo
+506,Veronica Rienzo,1987-03-10,16088,elementary schools,M,57648,Unione di centro,Ateo
+507,Ludovico Castioni,1970-05-16,16095,middle schools,O,91615,Movimento 5 Stelle,Cristianesimo
+508,Pierina Pignatti,1933-11-15,16117,elementary schools,F,17433,NoiModerati,Induismo
+509,Ferdinando Pacomio,1991-05-18,16121,middle schools,N/D,31422,Centro Democratico,Ateo
+510,Tonia Piane,1969-06-22,16026,middle schools,O,30355,Verdi,Buddhismo
+511,Fiamma Peruzzi,2003-06-02,16136,master degree,O,109979,Fratelli di Italia,Ateo
+512,Patrizia Cimarosa,1969-02-10,16093,middle schools,N/D,58128,Democrazia solidale,Confucianesimo
+513,Dott. Valerio Ceri,1991-01-25,16101,elementary schools,M,14479,Partito Democratico,Induismo
+514,Marisa Iannotti,1977-11-07,16055,middle schools,M,78126,Lega Nord,Ateo
+515,Donato Muratori,1990-05-01,16053,middle schools,N/D,72964,Fratelli di Italia,Induismo
+516,Ermanno Casalodi-Casini,1939-07-02,16044,middle schools,N/D,24817,Centristi per l'Europa,Islam
+517,Mercedes Falloppio-Ferretti,1978-12-07,16074,middle schools,N/D,24965,Movimento 5 Stelle,Shintoismo
+518,Donatella Piccio-Gaggini,1974-09-16,16136,high schools,O,83971,Lega Nord,Induismo
+519,Pomponio Celentano,1934-05-10,16126,high schools,M,113799,PiuEuropa,Ateo
+520,Roman Cabibbo,1971-12-11,16088,elementary schools,N/D,77591,Coraggio Italia,Shintoismo
+521,Virginia Giannelli,1970-04-22,16072,middle schools,F,67659,Partito Democratico,Buddhismo
+522,Annunziata Biagiotti,1964-09-09,16020,elementary schools,M,35184,PiuEuropa,Cristianesimo
+523,Camilla Biagiotti,1998-01-13,16091,high schools,N/D,47431,PiuEuropa,Ateo
+524,Matilda Condoleo,1967-02-19,16028,elementary schools,O,41308,Partito Comunista dei Lavoratori,Islam
+525,Napoleone Liverotti-Schiavo,1965-06-11,16045,elementary schools,F,87923,Verdi,Ateo
+526,Elisa Trezzini,1987-03-14,16060,high schools,O,79214,Radicali Italiani,Cristianesimo
+527,Nedda Leoncavallo,1935-12-27,16091,high schools,N/D,14699,Forza Italia,Cristianesimo
+528,Valeria Cavalcanti,1994-11-17,16125,elementary schools,M,41662,Democrazia solidale,Confucianesimo
+529,Giorgio Tonisto,1942-01-07,16011,high schools,N/D,115602,Movimento 5 Stelle,Buddhismo
+530,Giuseppina Casaleggio,1998-08-09,16095,elementary schools,M,76209,Radicali Italiani,Induismo
+531,Dante Morpurgo,1992-07-10,16083,middle schools,M,51665,Movimento 5 Stelle,Confucianesimo
+532,Benito Monti,1965-06-18,16018,middle schools,N/D,84633,Nuovo PSI,Shintoismo
+533,Gianna Perini,2000-12-18,16074,middle schools,F,64931,Centristi per l'Europa,Buddhismo
+534,Eva Alfonsi-Beccaria,1952-01-08,16136,elementary schools,F,26220,Radicali Italiani,Ateo
+535,Sig.ra Caterina Finzi,1978-04-05,16018,elementary schools,F,101680,Forza Italia,Islam
+536,Orlando Casadei,1989-10-24,16096,high schools,O,17398,Fratelli di Italia,Ateo
+537,Giuliana Fuseli,1953-07-08,16165,elementary schools,O,101371,Forza Italia,Cristianesimo
+538,Achille Viola,2006-05-18,16100,elementary schools,F,108925,Sinistra Italiana,Buddhismo
+539,Donatella Lussu,2004-03-02,16041,middle schools,O,41576,Democrazia solidale,Buddhismo
+540,Alderano Monicelli,1964-04-08,16031,middle schools,M,23569,Democrazia solidale,Shintoismo
+541,Flavia Leone,1992-02-28,16085,middle schools,F,91230,Centristi per l'Europa,Shintoismo
+542,Zaira Nitti,1939-07-12,16038,middle schools,O,14324,Forza Italia,Confucianesimo
+543,Donna Scamarcio-Fallaci,1959-07-06,16125,middle schools,F,112203,Sinistra Italiana,Islam
+544,Amadeo Balotelli,1958-07-14,16041,elementary schools,N/D,40264,Radicali Italiani,Cristianesimo
+545,Rossana Bettoni,1944-05-14,16086,middle schools,F,37814,EuropaVerde,Ateo
+546,Melania Trentini,1934-02-26,16161,phd,M,38534,Partito Democratico,Buddhismo
+547,Loredana Giusti,1998-09-27,16029,middle schools,M,23385,Nuovo PSI,Buddhismo
+548,Enzio Botticelli,1961-02-22,16021,elementary schools,F,20403,Sinistra Italiana,Cristianesimo
+549,Amedeo Bernardi,1930-04-21,16010,middle schools,F,71390,Italia Viva,Confucianesimo
+550,Raimondo Respighi-Bazzi,1999-09-25,16162,elementary schools,F,45381,Partito Comunista dei Lavoratori,Induismo
+551,Mirko Petrassi,1969-07-18,16150,high schools,M,83337,Coraggio Italia,Ateo
+552,Olga Tosto,1989-01-22,16121,elementary schools,O,38029,Italia Viva,Cristianesimo
+553,Dott. Tatiana Natta,1946-03-25,16070,high schools,O,113754,Movimento Animalista,Induismo
+554,Milo Zanazzo,1945-05-11,16100,elementary schools,F,81059,Azione,Buddhismo
+555,Liberto Missoni,1936-11-02,16127,elementary schools,N/D,44564,Partito Comunista dei Lavoratori,Cristianesimo
+556,Dott. Tonia Sagnelli,1982-04-12,16159,middle schools,M,48793,Sinistra Italiana,Buddhismo
+557,Antonino Turchi-Alboni,1958-03-15,16043,elementary schools,M,106339,NoiModerati,Buddhismo
+558,Dott. Gian Nordio,1976-04-16,16113,middle schools,F,49471,Movimento 5 Stelle,Buddhismo
+559,Benito Cattaneo,2004-07-06,16146,middle schools,M,69243,Partito Democratico,Buddhismo
+560,Giampaolo Foa,1935-02-10,16040,middle schools,M,60144,Verdi,Ateo
+561,Ermenegildo Saracino,1936-03-27,16049,middle schools,O,14183,Italia Viva,Ateo
+562,Pierina Bettin-Ruffini,1934-09-15,16116,high schools,M,16020,Partito Democratico,Islam
+563,Fiorenzo Giannuzzi,1949-03-01,16164,elementary schools,O,98636,NoiModerati,Shintoismo
+564,Dott. Simone Nolcini,1950-10-12,16141,high schools,N/D,69109,Movimento 5 Stelle,Buddhismo
+565,Stella Morrocco,1943-12-05,16121,master degree,O,26398,Verdi,Islam
+566,Tullio Storladi,1951-12-28,16132,high schools,M,30721,Nuovo PSI,Cristianesimo
+567,Giovanna Comolli-Verga,1985-02-22,16012,elementary schools,O,107055,Lega Nord,Islam
+568,Vanessa Lattuada,1987-03-12,16139,middle schools,N/D,19392,Centristi per l'Europa,Islam
+569,Sabatino Guarato,1990-10-17,16033,high schools,N/D,112909,PiuEuropa,Islam
+570,Coriolano Borromini,1937-08-12,16159,elementary schools,O,21930,Nuovo PSI,Cristianesimo
+571,Saverio Udinese,1947-12-01,16103,middle schools,F,88874,Centristi per l'Europa,Confucianesimo
+572,Giulia Cusano,1964-02-19,16120,elementary schools,F,33707,Italia Viva,Induismo
+573,Barbara Campise,2004-12-22,16159,bachelor degree,O,52980,Nuovo PSI,Induismo
+574,Gian Castelli,1938-01-20,16148,middle schools,F,16204,Unione di centro,Islam
+575,Antonella Carpaccio,1949-07-27,16081,high schools,N/D,13249,Movimento 5 Stelle,Shintoismo
+576,Rossana Sabatini,2005-04-17,16039,middle schools,O,86626,NoiModerati,Induismo
+577,Sig. Pietro Ricci,1981-11-11,16133,high schools,N/D,103117,Democrazia solidale,Ateo
+578,Michela Saracino,1970-02-24,16081,elementary schools,F,62141,Sinistra Italiana,Ateo
+579,Gianluca Ruggieri,1964-05-18,16073,phd,N/D,72678,Verdi,Buddhismo
+580,Corrado Casarin-Pometta,1942-05-21,16059,bachelor degree,O,25367,Partito Comunista dei Lavoratori,Confucianesimo
+581,Sole Turati,1933-01-04,16151,elementary schools,O,115573,Movimento Animalista,Shintoismo
+582,Enrico Interminei,1976-09-03,16026,elementary schools,N/D,105804,Radicali Italiani,Buddhismo
+583,Piersanti Vergerio,1983-01-04,16166,middle schools,O,65474,Nuovo PSI,Ateo
+584,Martina Barracco,1996-10-05,16097,middle schools,N/D,25910,Nuovo PSI,Induismo
+585,Sig. Gioacchino Ungaretti,1981-03-05,16157,master degree,N/D,96076,Fratelli di Italia,Shintoismo
+586,Sig.ra Camilla Orengo,1967-02-17,16137,elementary schools,N/D,81742,Fratelli di Italia,Induismo
+587,Laura Vento,1986-10-25,16155,high schools,M,17216,Fratelli di Italia,Ateo
+588,Pietro Cappelli,1992-04-21,16116,high schools,N/D,62192,Centristi per l'Europa,Confucianesimo
+589,Dott. Orlando Cavanna,1999-12-22,16136,bachelor degree,M,89444,Fratelli di Italia,Cristianesimo
+590,Germana Persico,1988-12-28,16074,elementary schools,M,45439,Azione,Confucianesimo
+591,Ranieri Canova,1994-03-04,16132,middle schools,F,87381,Verdi,Induismo
+592,Luca Pertile,1991-09-26,16167,elementary schools,N/D,94642,Lega Nord,Ateo
+593,Sig.ra Maria Tutino,1974-10-02,16154,bachelor degree,N/D,39529,Verdi,Ateo
+594,Amedeo Bombieri,1951-05-19,16092,middle schools,F,78919,Fratelli di Italia,Induismo
+595,Dott. Luciano Ruffini,2004-12-21,16085,middle schools,O,13413,Movimento 5 Stelle,Shintoismo
+596,Olga Anichini,1946-10-18,16165,master degree,F,91984,Movimento Animalista,Confucianesimo
+597,Nina Gabbana,1948-11-21,16153,elementary schools,N/D,18430,Centristi per l'Europa,Induismo
+598,Sig. Giulio Travaglia,1938-07-12,16122,elementary schools,F,102414,Verdi,Ateo
+599,Armando Vigorelli,1976-09-05,16059,elementary schools,O,64140,Radicali Italiani,Ateo
+600,Patrizia Tognazzi,1993-01-17,16039,elementary schools,N/D,16601,Movimento 5 Stelle,Shintoismo
+601,Livia Lollobrigida,1930-03-02,16061,high schools,O,40107,Lega Nord,Shintoismo
+602,Bartolomeo Franceschi,1975-03-10,16047,elementary schools,F,28571,Sinistra Italiana,Islam
+603,Gioffre Leonetti,1979-02-26,16121,middle schools,O,48550,Unione di centro,Buddhismo
+604,Fredo Altera-Moresi,1972-11-26,16157,elementary schools,O,104238,PiuEuropa,Induismo
+605,Costanzo Morrocco,1991-10-02,16042,middle schools,N/D,12024,Italia Viva,Shintoismo
+606,Gioacchino Alboni,1943-03-04,16027,high schools,F,30623,Unione di centro,Cristianesimo
+607,Maria Fischetti,1932-12-24,16055,middle schools,N/D,36992,Forza Italia,Shintoismo
+608,Greco Veneziano,1982-01-06,16060,middle schools,M,17976,EuropaVerde,Shintoismo
+609,Dott. Romana Faugno,1970-03-11,16075,high schools,F,89757,Partito Comunista dei Lavoratori,Confucianesimo
+610,Annunziata Travaglia,1938-10-07,16104,high schools,F,89885,Fratelli di Italia,Islam
+611,Puccio Branciforte,1968-05-12,16096,elementary schools,O,96946,Movimento Animalista,Ateo
+612,Concetta Pacomio,1959-10-20,16105,elementary schools,O,46449,Partito Democratico,Islam
+613,Edoardo Gori,1981-07-06,16113,elementary schools,F,112975,Azione,Islam
+614,Roberto Renier,1946-09-06,16102,middle schools,N/D,109138,Movimento 5 Stelle,Shintoismo
+615,Sig. Salvatore Caboto,2004-12-24,16037,middle schools,M,88474,Movimento Animalista,Buddhismo
+616,Dott. Pier Germano,1972-11-05,16051,middle schools,F,26562,Lega Nord,Islam
+617,Gelsomina Cimarosa,1974-07-27,16068,bachelor degree,O,88090,Fratelli di Italia,Induismo
+618,Roberta Colletti,1942-06-14,16048,middle schools,M,20836,Movimento 5 Stelle,Confucianesimo
+619,Concetta Vendetti,1958-01-15,16049,middle schools,O,111785,EuropaVerde,Shintoismo
+620,Sebastiano Pometta,1950-10-25,16129,middle schools,O,110107,Lega Nord,Islam
+621,Susanna Ginese,1962-01-26,16154,phd,M,34238,Centristi per l'Europa,Induismo
+622,Adriana Puglisi,1967-03-04,16010,high schools,N/D,45782,Centro Democratico,Cristianesimo
+623,Sergius Tirabassi-Petralli,2005-01-02,16046,high schools,F,106271,Partito Comunista dei Lavoratori,Ateo
+624,Sig. Biagio Versace,1948-05-08,16151,master degree,N/D,69843,Partito Democratico,Buddhismo
+625,Ugolino Sismondi-Alfieri,1940-10-25,16023,bachelor degree,N/D,113012,Forza Italia,Buddhismo
+626,Adriana Trillini,1970-02-13,16078,elementary schools,O,72589,Verdi,Cristianesimo
+627,Raffaele Bergoglio,2003-09-12,16146,high schools,N/D,75716,Azione,Islam
+628,Gelsomina Zabarella,1976-05-15,16026,middle schools,O,33160,Democrazia solidale,Induismo
+629,Dott. Renata Rubbia,1982-08-13,16113,middle schools,O,70525,Sinistra Italiana,Cristianesimo
+630,Elvira Tencalla,1966-09-11,16066,elementary schools,O,24378,EuropaVerde,Islam
+631,Viridiana Paolucci,1948-05-19,16073,middle schools,N/D,85804,Azione,Cristianesimo
+632,Sig. Benedetto Peranda,1931-11-21,16074,high schools,O,94879,Azione,Buddhismo
+633,Federica Sagredo,1984-01-08,16120,high schools,N/D,78569,Verdi,Buddhismo
+634,Sig. Marco Gregori,1983-05-02,16094,middle schools,F,62400,Centristi per l'Europa,Islam
+635,Sig.ra Allegra Avogadro,1934-04-27,16082,master degree,O,51408,Forza Italia,Islam
+636,Sig.ra Antonella Pagliaro,2000-12-21,16102,high schools,F,105571,EuropaVerde,Confucianesimo
+637,Sig.ra Irma Lucarelli,2000-01-17,16094,bachelor degree,M,95162,Unione di centro,Cristianesimo
+638,Vittorio Zacchia,1937-11-25,16073,phd,M,21888,Azione,Buddhismo
+639,Luisa Rosiello,1978-05-15,16099,high schools,O,82582,Nuovo PSI,Induismo
+640,Stefania Sauro,1961-05-01,16114,middle schools,O,45754,Movimento 5 Stelle,Cristianesimo
+641,Venancio Galtarossa,1982-08-08,16132,middle schools,O,106033,Unione di centro,Cristianesimo
+642,Corrado Proietti,1994-06-03,16026,middle schools,N/D,39588,Coraggio Italia,Shintoismo
+643,Ivan Versace-Leonardi,1960-08-23,16145,master degree,M,28702,NoiModerati,Shintoismo
+644,Stella Branciforte-Badoglio,1953-09-06,16071,elementary schools,M,81144,EuropaVerde,Confucianesimo
+645,Adriana Sansoni-Antonucci,1988-09-17,16034,elementary schools,N/D,20569,Fratelli di Italia,Islam
+646,Alessia Iacovelli,1989-11-08,16034,bachelor degree,F,88421,Partito Democratico,Buddhismo
+647,Angelina Caccioppoli,1972-11-14,16140,master degree,O,60186,Partito Democratico,Shintoismo
+648,Costantino Sanudo-Marsili,1972-05-20,16060,middle schools,O,73562,PiuEuropa,Shintoismo
+649,Dott. Salvi Trombetta,1978-07-15,16039,middle schools,F,85398,Forza Italia,Cristianesimo
+650,Alberto Montalcini,1985-05-24,16047,high schools,O,68237,Unione di centro,Ateo
+651,Gabriele Manzoni,1964-01-18,16065,elementary schools,F,104973,Forza Italia,Ateo
+652,Adriana Pisani,2004-10-13,16041,elementary schools,M,17959,NoiModerati,Induismo
+653,Leone Rosmini-Basso,1941-12-08,16124,elementary schools,M,107586,Azione,Ateo
+654,Angelica Pontecorvo-Fornaciari,1932-06-14,16013,phd,N/D,40312,Movimento Animalista,Cristianesimo
+655,Mariana Giacometti,2000-01-18,16026,elementary schools,F,40731,Unione di centro,Ateo
+656,Marco Necci,1994-06-19,16015,elementary schools,F,98758,Partito Democratico,Buddhismo
+657,Pina Gramsci,2001-01-02,16057,middle schools,N/D,95626,Fratelli di Italia,Confucianesimo
+658,Chiara Zanzi-Bossi,1962-07-04,16147,high schools,O,75080,Sinistra Italiana,Cristianesimo
+659,Giancarlo Gabba,1992-04-22,16102,high schools,M,62491,Partito Democratico,Cristianesimo
+660,Antonietta Marenzio,2005-10-16,16154,middle schools,M,118438,Radicali Italiani,Confucianesimo
+661,Giorgio Desio,1970-04-20,16160,middle schools,O,69696,Forza Italia,Buddhismo
+662,Loredana Vasari-Leblanc,1961-09-20,16082,elementary schools,O,35596,Centro Democratico,Cristianesimo
+663,Ottone Leoncavallo,1990-04-05,16065,elementary schools,M,83746,Coraggio Italia,Islam
+664,Carmelo Marino,1957-06-25,16147,middle schools,F,108420,Italia Viva,Induismo
+665,Ornella Ruberto,1958-01-18,16141,elementary schools,O,101447,Partito Comunista dei Lavoratori,Ateo
+666,Simonetta Mazzacurati,1948-11-06,16041,phd,M,16087,Azione,Shintoismo
+667,Patrizio Piccio,1988-09-26,16084,middle schools,F,75962,Azione,Cristianesimo
+668,Costantino Sonnino,1958-06-27,16023,elementary schools,N/D,30727,Centro Democratico,Islam
+669,Sabatino Castiglione,1935-11-02,16146,high schools,O,51737,Sinistra Italiana,Induismo
+670,Fabrizia Giacconi,1998-08-02,16119,middle schools,N/D,34662,Forza Italia,Shintoismo
+671,Maria Papetti,1942-06-22,16104,middle schools,F,110891,Partito Democratico,Buddhismo
+672,Gianluca Gottardi,1990-06-02,16038,master degree,O,56681,Partito Comunista dei Lavoratori,Shintoismo
+673,Manuel Michelangeli,1985-02-17,16082,phd,M,23847,Azione,Islam
+674,Rosaria Mancini-Lollobrigida,1951-08-09,16038,elementary schools,M,15834,Centristi per l'Europa,Confucianesimo
+675,Uberto Campano,1979-06-14,16067,middle schools,M,29118,Coraggio Italia,Islam
+676,Danilo Gentili-Emanuelli,1984-03-13,16122,elementary schools,F,34399,Democrazia solidale,Induismo
+677,Nino Baroffio,1992-08-11,16027,phd,F,77376,Movimento Animalista,Islam
+678,Melania Caruso,1944-12-03,16020,high schools,N/D,13892,Forza Italia,Shintoismo
+679,Ornella Bondumier-Fermi,1999-01-09,16100,bachelor degree,M,53770,PiuEuropa,Islam
+680,Fortunata Ferrante,1987-08-08,16129,high schools,N/D,73070,Unione di centro,Shintoismo
+681,Cassandra Chiaramonte,1979-09-24,16166,middle schools,M,60502,Democrazia solidale,Confucianesimo
+682,Giulio Pezzali,2001-06-12,16064,high schools,M,23208,Partito Comunista dei Lavoratori,Induismo
+683,Antonello Vigorelli,1954-03-07,16046,middle schools,F,35477,Radicali Italiani,Cristianesimo
+684,Concetta Nugnes,1958-04-08,16036,high schools,O,76914,Azione,Shintoismo
+685,Dott. Ornella Pellico,1994-11-27,16114,elementary schools,M,115895,Azione,Confucianesimo
+686,Sig. Pierpaolo Piccinni,2006-04-05,16111,high schools,F,106813,Centro Democratico,Shintoismo
+687,Eleanora Beffa,1960-01-11,16078,high schools,M,115766,Unione di centro,Induismo
+688,Anita Giannini,1946-05-27,16107,middle schools,M,85221,Partito Democratico,Islam
+689,Napoleone Tropea,1936-01-23,16103,master degree,M,95088,Radicali Italiani,Cristianesimo
+690,Nino Asprucci,1996-01-14,16108,high schools,F,47553,Movimento Animalista,Induismo
+691,Cassandra Marcacci,1972-07-22,16066,elementary schools,M,57891,Azione,Confucianesimo
+692,Sig. Ivo Toscanini,1961-04-03,16044,middle schools,N/D,114979,Azione,Islam
+693,Sig.ra Sonia Giannetti,1952-07-04,16074,elementary schools,M,102544,Lega Nord,Cristianesimo
+694,Camillo Ligorio,1963-11-12,16048,elementary schools,F,51643,Verdi,Cristianesimo
+695,Anita Vigliotti,1974-12-07,16027,high schools,N/D,86779,Movimento 5 Stelle,Islam
+696,Arsenio Rastelli,2002-04-27,16082,middle schools,M,31472,Fratelli di Italia,Cristianesimo
+697,Dott. Griselda Pisani,1936-12-22,16127,high schools,M,23973,Nuovo PSI,Shintoismo
+698,Emilio Branciforte,1943-09-25,16147,elementary schools,M,32718,Verdi,Shintoismo
+699,Amleto Treves,1964-04-07,16165,middle schools,F,24140,Radicali Italiani,Buddhismo
+700,Pomponio Scamarcio,1967-05-10,16071,elementary schools,O,81317,Nuovo PSI,Buddhismo
+701,Giuseppina Majewski,1941-02-09,16132,high schools,M,12797,Centristi per l'Europa,Islam
+702,Dott. Benito Nitto,1982-04-18,16127,high schools,M,38673,Italia Viva,Confucianesimo
+703,Chiara Papetti,1989-09-11,16031,middle schools,N/D,36699,NoiModerati,Islam
+704,Berenice Marzorati,1961-02-18,16057,middle schools,F,85887,Partito Comunista dei Lavoratori,Confucianesimo
+705,Alfio Migliaccio,1956-04-27,16117,middle schools,N/D,111377,Partito Democratico,Islam
+706,Dott. Amalia Gadda,1959-01-02,16157,high schools,N/D,22368,Nuovo PSI,Confucianesimo
+707,Vito Biagi,1996-11-01,16082,middle schools,N/D,90578,Movimento Animalista,Buddhismo
+708,Gastone Camanni-Federico,1940-01-04,16029,middle schools,O,27213,Radicali Italiani,Buddhismo
+709,Isabella Puglisi,1943-03-17,16163,middle schools,F,101365,Nuovo PSI,Islam
+710,Fabia Rusticucci,1942-06-14,16022,elementary schools,M,116073,Partito Comunista dei Lavoratori,Confucianesimo
+711,Lucia Agostinelli,1934-07-07,16158,high schools,O,95115,Unione di centro,Induismo
+712,Serafina Pinamonte,1998-06-28,16083,high schools,M,61469,Italia Viva,Confucianesimo
+713,Gianni Calarco-Opizzi,1954-06-17,16028,middle schools,O,76052,Unione di centro,Cristianesimo
+714,Roberto Vasari,1992-11-17,16167,elementary schools,F,103570,Forza Italia,Confucianesimo
+715,Luigina Montanelli,1979-06-09,16031,middle schools,M,114057,Nuovo PSI,Ateo
+716,Sig.ra Germana Vecoli,1966-01-05,16150,bachelor degree,N/D,92317,EuropaVerde,Buddhismo
+717,Lolita Leone,1958-07-05,16161,elementary schools,N/D,109645,Partito Democratico,Ateo
+718,Sig.ra Marisa Trupiano,1998-03-17,16070,high schools,N/D,16322,Forza Italia,Cristianesimo
+719,Marcello Tebaldi,1983-03-22,16034,elementary schools,M,22885,Lega Nord,Islam
+720,Fortunata Antonelli,1961-01-09,16057,high schools,F,80313,Movimento 5 Stelle,Confucianesimo
+721,Giacinto Asmundo,2006-03-05,16058,high schools,F,94179,Forza Italia,Induismo
+722,Ornella Vecoli,1938-06-24,16137,bachelor degree,O,91899,Lega Nord,Islam
+723,Arsenio Galiazzo,1944-06-16,16143,elementary schools,N/D,64972,Azione,Ateo
+724,Nicoletta Bompiani,1951-06-10,16134,phd,M,99336,Coraggio Italia,Buddhismo
+725,Dolores Cristoforetti-Nievo,1939-12-09,16106,high schools,F,20662,EuropaVerde,Ateo
+726,Evangelista Parmitano,1989-05-11,16059,high schools,F,108615,Forza Italia,Cristianesimo
+727,Dott. Eraldo Manolesso,2005-07-02,16120,bachelor degree,O,25099,Forza Italia,Cristianesimo
+728,Dott. Elladio Salvini,1989-12-03,16167,bachelor degree,N/D,28473,Movimento Animalista,Buddhismo
+729,Matilda Lucciano-Battelli,1988-09-23,16010,elementary schools,F,47247,Italia Viva,Induismo
+730,Dott. Rosario Taliani,1939-07-06,16164,high schools,O,86247,Fratelli di Italia,Shintoismo
+731,Sig.ra Elvira Pisacane,1963-04-19,16161,elementary schools,M,69842,PiuEuropa,Cristianesimo
+732,Romolo Lamborghini,1976-03-18,16157,middle schools,F,78953,Partito Democratico,Induismo
+733,Leonardo Luxardo-Mimun,1998-11-20,16159,master degree,M,87392,Movimento Animalista,Buddhismo
+734,Umberto Ferraris,1935-02-10,16055,elementary schools,N/D,15223,Sinistra Italiana,Confucianesimo
+735,Giuliano Sordi,1969-01-01,16072,middle schools,M,73413,Centristi per l'Europa,Ateo
+736,Fabia Busoni,1932-11-13,16143,elementary schools,O,34280,Verdi,Ateo
+737,Romolo Lollobrigida,1952-10-26,16079,middle schools,N/D,112902,Lega Nord,Shintoismo
+738,Arnaldo Maccanelli,1990-12-07,16107,middle schools,F,119988,Forza Italia,Cristianesimo
+739,Virgilio Guinizzelli,1935-11-03,16144,elementary schools,M,31263,NoiModerati,Confucianesimo
+740,Gianluigi Micheletti,1954-12-06,16025,middle schools,O,43754,Nuovo PSI,Ateo
+741,Michela Sforza,1978-10-10,16078,middle schools,N/D,113927,Centro Democratico,Shintoismo
+742,Oreste Molesini,1998-11-18,16078,middle schools,O,80416,Centro Democratico,Shintoismo
+743,Pompeo Boccioni,1998-05-23,16059,bachelor degree,N/D,35941,Movimento Animalista,Ateo
+744,Isa Montalcini-Surian,1989-12-27,16058,elementary schools,O,32728,Fratelli di Italia,Confucianesimo
+745,Melina Bosurgi,1974-11-26,16063,high schools,M,25095,Movimento 5 Stelle,Buddhismo
+746,Dott. Enrico Ferrata,1938-05-07,16037,middle schools,M,86105,Lega Nord,Confucianesimo
+747,Daniele Mezzetta,1984-11-06,16130,elementary schools,N/D,36131,Unione di centro,Ateo
+748,Dott. Francesco Cammarata,1991-05-10,16039,elementary schools,M,35581,Fratelli di Italia,Induismo
+749,Pina Antonetti,1986-10-21,16101,middle schools,M,88943,Coraggio Italia,Islam
+750,Danilo Longhena,1987-07-19,16011,high schools,O,106264,Movimento Animalista,Induismo
+751,Roberta Zichichi-Cammarata,1992-10-19,16037,master degree,M,53010,Fratelli di Italia,Ateo
+752,Sig.ra Annunziata Boezio,1935-09-14,16106,master degree,N/D,23074,Azione,Ateo
+753,Gianni Giannuzzi,1953-06-22,16127,middle schools,M,44471,Partito Democratico,Islam
+754,Fiamma Desio-Ammaniti,2006-03-03,16092,middle schools,F,78413,Centro Democratico,Buddhismo
+755,Antonia Onisto,1971-06-03,16013,elementary schools,O,88236,Forza Italia,Buddhismo
+756,Michelotto Finotto,1980-07-03,16157,elementary schools,F,37955,PiuEuropa,Cristianesimo
+757,Dott. Giovanni Malacarne,1958-08-02,16072,elementary schools,M,74820,Lega Nord,Ateo
+758,Maurilio Missoni,1987-02-14,16100,bachelor degree,N/D,40483,Coraggio Italia,Buddhismo
+759,Imelda Pizzetti,1943-11-10,16141,high schools,O,66175,Forza Italia,Shintoismo
+760,Nicola Capecchi,1974-11-22,16043,middle schools,F,58743,Movimento 5 Stelle,Shintoismo
+761,Enrico Anichini-Venditti,1987-12-08,16059,master degree,F,69423,Radicali Italiani,Induismo
+762,Lauretta Merisi,1968-10-24,16167,high schools,O,25296,Partito Comunista dei Lavoratori,Confucianesimo
+763,Etta Cociarelli,1945-04-25,16145,high schools,O,105703,Radicali Italiani,Cristianesimo
+764,Rosaria Paganini-Antonacci,1952-07-13,16039,high schools,O,82657,Nuovo PSI,Induismo
+765,Dott. Giulietta Mazzi,1953-04-26,16097,high schools,M,13557,Partito Comunista dei Lavoratori,Ateo
+766,Sig. Danilo Balbi,1957-04-07,16091,elementary schools,M,15873,Democrazia solidale,Islam
+767,Erika Farnese-Tartaglia,2001-12-11,16046,elementary schools,O,78722,Coraggio Italia,Induismo
+768,Marissa Sauro,2001-06-25,16165,middle schools,F,73072,Azione,Islam
+769,Pierina Lussu,1954-02-05,16104,bachelor degree,M,36223,Partito Democratico,Ateo
+770,Amedeo Mimun,1998-02-22,16022,middle schools,O,25806,Democrazia solidale,Shintoismo
+771,Marina Ferrazzi,1955-01-13,16047,elementary schools,O,96067,Centro Democratico,Ateo
+772,Gelsomina Bruno,1975-12-25,16039,middle schools,M,44698,NoiModerati,Islam
+773,Calcedonio Acerbi,1937-07-25,16125,middle schools,O,72236,Lega Nord,Ateo
+774,Adamo Ferrante,1953-11-09,16126,high schools,N/D,113241,Verdi,Buddhismo
+775,Angelo Pertile,1949-05-23,16132,high schools,M,86446,Centro Democratico,Induismo
+776,Dolores Donarelli,1985-12-16,16081,bachelor degree,O,104557,Fratelli di Italia,Shintoismo
+777,Mariano Mengolo,1986-07-14,16045,middle schools,N/D,64572,Sinistra Italiana,Islam
+778,Gianluca Turrini,2000-01-06,16027,bachelor degree,O,14153,Movimento 5 Stelle,Shintoismo
+779,Dott. Cristina Fallaci,1964-01-19,16110,bachelor degree,F,54430,Fratelli di Italia,Induismo
+780,Sig.ra Maura Verri,1948-12-23,16111,master degree,F,29334,Forza Italia,Buddhismo
+781,Sig. Massimiliano Angiolello,1998-01-11,16048,high schools,M,114285,Partito Comunista dei Lavoratori,Cristianesimo
+782,Sig. Roberto Catenazzi,1947-06-05,16121,middle schools,M,92819,NoiModerati,Confucianesimo
+783,Jacopo Zeffirelli-Soderini,1964-11-05,16057,middle schools,F,23539,Democrazia solidale,Confucianesimo
+784,Vincentio Tron-Caboto,1970-02-06,16111,elementary schools,N/D,58601,Italia Viva,Induismo
+785,Sig.ra Luciana Perini,1958-04-04,16103,master degree,F,107272,Democrazia solidale,Cristianesimo
+786,Corrado Camicione,1941-12-13,16047,middle schools,O,109894,Sinistra Italiana,Islam
+787,Elvira Boccioni,2006-04-13,16160,middle schools,M,54167,Nuovo PSI,Shintoismo
+788,Michela Amaldi-Pacomio,1997-05-19,16059,elementary schools,N/D,109043,Unione di centro,Buddhismo
+789,Paloma Fantini,1956-12-08,16029,elementary schools,M,62966,Lega Nord,Cristianesimo
+790,Mirko Mazzanti,2005-01-19,16052,high schools,N/D,13126,Italia Viva,Cristianesimo
+791,Guido Pisani,1967-09-26,16070,middle schools,O,39220,Unione di centro,Buddhismo
+792,Romolo Pertile,1956-04-22,16107,middle schools,N/D,52140,Democrazia solidale,Induismo
+793,Guglielmo Gualtieri,2003-07-01,16133,master degree,M,113567,NoiModerati,Islam
+794,Rita Bajamonti,1996-07-25,16079,master degree,F,57560,Movimento Animalista,Induismo
+795,Orazio Zichichi,1958-03-18,16157,master degree,M,67719,Coraggio Italia,Shintoismo
+796,Clelia Ungaretti,1945-05-11,16077,middle schools,N/D,107221,Movimento Animalista,Cristianesimo
+797,Sig.ra Diana Nitti,1959-02-03,16154,master degree,M,98277,Centro Democratico,Islam
+798,Dott. Silvestro Filangieri,1958-04-18,16111,elementary schools,F,112524,Movimento 5 Stelle,Ateo
+799,Donna Pugliese-Chindamo,1976-01-09,16084,elementary schools,O,106782,PiuEuropa,Shintoismo
+800,Ramona Tomaselli-Paoletti,1939-05-26,16067,middle schools,O,28770,PiuEuropa,Buddhismo
+801,Patrizia Necci,1988-03-08,16138,middle schools,O,59519,NoiModerati,Shintoismo
+802,Telemaco Maderna-Visconti,1941-08-19,16124,phd,M,73503,Forza Italia,Confucianesimo
+803,Sig.ra Fortunata Bottigliero,1992-03-17,16072,middle schools,O,107996,Democrazia solidale,Cristianesimo
+804,Cristina Praga,1985-01-11,16132,elementary schools,M,66494,Radicali Italiani,Cristianesimo
+805,Gianpietro Gonzaga-Casaleggio,1937-03-14,16165,phd,M,69142,PiuEuropa,Buddhismo
+806,Marcantonio Cavanna,1947-10-16,16134,elementary schools,F,37014,Centristi per l'Europa,Ateo
+807,Mariana Coppola,1963-09-26,16078,elementary schools,O,70287,Unione di centro,Cristianesimo
+808,Maria Turci-Battelli,1958-05-13,16056,high schools,M,15065,NoiModerati,Induismo
+809,Maurilio Tiepolo,1933-08-11,16020,elementary schools,O,40017,NoiModerati,Confucianesimo
+810,Rocco Mascagni,1936-09-28,16153,master degree,O,61937,Centro Democratico,Cristianesimo
+811,Amedeo Luxardo,1992-08-09,16039,high schools,N/D,94336,Fratelli di Italia,Buddhismo
+812,Mariana Norbiato,1954-12-15,16151,elementary schools,F,51339,Radicali Italiani,Shintoismo
+813,Renata Rossellini,1957-04-01,16116,middle schools,M,84735,Verdi,Ateo
+814,Filippo Leoncavallo,1983-02-02,16050,middle schools,O,115009,NoiModerati,Cristianesimo
+815,Agnolo Manolesso,1967-07-10,16165,middle schools,F,88575,Partito Comunista dei Lavoratori,Buddhismo
+816,Cesare Callegari,1982-04-20,16014,elementary schools,M,86589,Sinistra Italiana,Induismo
+817,Sig.ra Giuliana Buscetta,1975-06-21,16162,phd,F,46582,Centro Democratico,Induismo
+818,Dott. Antonina Paolini,1946-01-15,16086,middle schools,O,20230,Azione,Ateo
+819,Paloma Petrucci-Durante,1973-03-18,16036,high schools,F,49481,Sinistra Italiana,Ateo
+820,Lucio Valentino,1975-10-15,16066,high schools,N/D,33950,Partito Comunista dei Lavoratori,Ateo
+821,Nicola Romiti,1993-01-05,16031,high schools,O,33698,PiuEuropa,Cristianesimo
+822,Costantino Onio,2006-11-07,16135,master degree,M,19427,PiuEuropa,Ateo
+823,Nadia Paoletti,1942-09-13,16089,middle schools,M,49101,Centristi per l'Europa,Ateo
+824,Sig. Achille Berrè,1989-08-18,16064,master degree,M,49663,Nuovo PSI,Ateo
+825,Guarino Ravaglioli,1954-03-09,16088,elementary schools,O,67822,Azione,Confucianesimo
+826,Angelica Bellucci,2002-09-23,16113,high schools,N/D,36918,Azione,Induismo
+827,Sig.ra Amalia Toscani,1973-10-17,16075,high schools,F,41988,Movimento Animalista,Islam
+828,Riccardo Blasi,1975-06-01,16080,high schools,F,66719,Unione di centro,Islam
+829,Lolita Tosi-Navarria,2002-03-04,16081,high schools,O,81865,Centro Democratico,Cristianesimo
+830,Mirko Silvestri,1962-09-23,16094,elementary schools,M,33832,Italia Viva,Islam
+831,Valentina Chittolini,1978-01-17,16040,middle schools,F,60233,EuropaVerde,Buddhismo
+832,Gianpietro Mocenigo,1952-12-25,16043,elementary schools,F,75663,Forza Italia,Induismo
+833,Nino Bonatti,1935-02-25,16082,high schools,F,42130,Forza Italia,Islam
+834,Gabriele Toselli,1954-10-24,16167,elementary schools,O,119463,Radicali Italiani,Induismo
+835,Gino Saracino,1993-02-25,16053,high schools,O,90194,Fratelli di Italia,Shintoismo
+836,Alberico Barcella-Doglioni,1982-07-15,16133,high schools,O,58809,Fratelli di Italia,Cristianesimo
+837,Dott. Gianna Rizzoli,1976-06-22,16152,middle schools,N/D,101947,Movimento Animalista,Islam
+838,Dionigi Pace-Bergoglio,1992-03-23,16121,elementary schools,F,103442,Radicali Italiani,Induismo
+839,Antonietta Donati,1931-09-14,16079,high schools,M,57721,Sinistra Italiana,Confucianesimo
+840,Sig.ra Aria Tomei,1958-11-03,16098,middle schools,O,118270,NoiModerati,Cristianesimo
+841,Rita Chigi,2002-12-01,16136,elementary schools,M,67184,Coraggio Italia,Islam
+842,Piersanti Marinetti,1975-11-27,16149,middle schools,O,57718,Democrazia solidale,Induismo
+843,Ivo Mogherini,1935-11-21,16045,high schools,O,85408,Coraggio Italia,Cristianesimo
+844,Erika Baggio,1933-07-12,16039,elementary schools,N/D,36806,Verdi,Shintoismo
+845,Giampaolo Carriera-Luria,1940-07-20,16042,high schools,N/D,113339,Coraggio Italia,Buddhismo
+846,Telemaco Ossani,1977-08-20,16046,master degree,F,74045,Sinistra Italiana,Confucianesimo
+847,Federigo Campano,1973-05-12,16125,bachelor degree,F,62379,Verdi,Ateo
+848,Daniele Monteverdi,1931-12-17,16135,middle schools,O,60051,Centristi per l'Europa,Islam
+849,Silvio Ferragamo,1954-01-07,16161,high schools,N/D,81736,Lega Nord,Confucianesimo
+850,Rosario Lucciano,1965-08-03,16052,middle schools,N/D,89868,Verdi,Induismo
+851,Alberico Delle,1967-11-22,16107,high schools,N/D,15941,Movimento Animalista,Cristianesimo
+852,Dott. Biagio Petruzzi,1999-07-18,16066,elementary schools,M,23398,NoiModerati,Islam
+853,Giulia Ferraris,1934-04-11,16096,master degree,M,114928,Italia Viva,Ateo
+854,Sole Ginese,2001-10-07,16132,high schools,N/D,57634,Forza Italia,Ateo
+855,Sig. Galasso Galilei,1956-03-22,16126,middle schools,F,90329,Centro Democratico,Buddhismo
+856,Sig.ra Nicoletta Venditti,1975-08-08,16064,high schools,O,24037,Unione di centro,Ateo
+857,Nino Chiappetta,1948-07-03,16104,high schools,O,15199,Radicali Italiani,Shintoismo
+858,Amalia Bonanno,1989-05-20,16037,high schools,M,68158,NoiModerati,Shintoismo
+859,Vincenza Modigliani,2006-08-12,16147,elementary schools,N/D,46468,Radicali Italiani,Cristianesimo
+860,Giulio Simeoni-Boitani,1983-06-25,16080,high schools,N/D,52940,Radicali Italiani,Islam
+861,Dott. Marco Oscuro,1944-11-01,16078,elementary schools,O,50587,Fratelli di Italia,Ateo
+862,Romina Zaccardo-Gonzaga,1988-07-10,16151,middle schools,M,94053,Unione di centro,Confucianesimo
+863,Gaetano Corcos,1992-05-06,16022,elementary schools,N/D,29458,Lega Nord,Buddhismo
+864,Romeo Ceschi,1952-04-24,16151,elementary schools,N/D,12768,Centro Democratico,Ateo
+865,Umberto Pacelli,2004-02-12,16131,middle schools,O,36897,Sinistra Italiana,Confucianesimo
+866,Sig.ra Tina Pavone,1982-11-19,16100,bachelor degree,N/D,106318,Fratelli di Italia,Islam
+867,Coluccio Marsili,1944-07-27,16015,middle schools,O,40156,Unione di centro,Buddhismo
+868,Galasso Vattimo,1996-07-18,16103,middle schools,O,83927,Democrazia solidale,Buddhismo
+869,Pierangelo Morlacchi,1971-03-05,16098,middle schools,O,98807,Movimento Animalista,Buddhismo
+870,Sig. Gino Proietti,1930-12-10,16054,middle schools,F,114784,Lega Nord,Islam
+871,Gioachino Tebaldi,1962-11-23,16118,elementary schools,O,56133,Nuovo PSI,Ateo
+872,Gianna Sanudo-Tamburini,1995-09-28,16153,middle schools,M,47636,Partito Comunista dei Lavoratori,Induismo
+873,Antonia Majorana-Trentini,1932-12-16,16061,elementary schools,M,115286,Movimento 5 Stelle,Ateo
+874,Elisa Iacobucci,1960-03-11,16010,middle schools,O,104282,Verdi,Ateo
+875,Rolando Tresoldi,1938-01-06,16158,elementary schools,N/D,28417,PiuEuropa,Buddhismo
+876,Gioele Iannucci,1994-05-15,16166,elementary schools,F,87062,Azione,Shintoismo
+877,Michelotto Mogherini,1997-02-10,16033,middle schools,N/D,23907,Radicali Italiani,Ateo
+878,Antonella Totino,1970-01-19,16084,middle schools,N/D,112324,Radicali Italiani,Confucianesimo
+879,Romina Michelangeli,1935-03-05,16036,middle schools,N/D,57211,Radicali Italiani,Cristianesimo
+880,Clelia Bragaglia,2002-12-09,16152,high schools,N/D,55990,NoiModerati,Islam
+881,Leone Zampa,1987-01-16,16093,bachelor degree,O,78525,Nuovo PSI,Shintoismo
+882,Luciana Tarantini,1948-07-11,16072,elementary schools,N/D,13098,PiuEuropa,Cristianesimo
+883,Fredo Grimani,1944-08-22,16145,elementary schools,M,116321,NoiModerati,Islam
+884,Dott. Marcella Antonioni,1946-05-22,16142,elementary schools,M,67620,EuropaVerde,Buddhismo
+885,Iolanda Iannuzzi,1968-06-12,16047,middle schools,M,18439,Forza Italia,Shintoismo
+886,Sig.ra Ramona Garzoni,1989-05-13,16016,bachelor degree,N/D,33174,Movimento 5 Stelle,Induismo
+887,Maria Gramsci,1986-01-04,16046,phd,O,78318,Democrazia solidale,Islam
+888,Michelangelo Orengo,1988-03-16,16043,phd,F,114189,Fratelli di Italia,Shintoismo
+889,Bianca Callegaro,2006-11-04,16111,middle schools,O,78574,Partito Democratico,Ateo
+890,Luigi Lettiere,1932-11-18,16139,master degree,N/D,73744,Democrazia solidale,Ateo
+891,Nino Casaleggio-Monteverdi,1963-10-18,16062,high schools,O,33177,Unione di centro,Islam
+892,Sig.ra Teresa Piazzi,1940-03-02,16075,elementary schools,F,42670,Coraggio Italia,Shintoismo
+893,Allegra Dossi,1966-05-08,16158,middle schools,M,111178,Fratelli di Italia,Confucianesimo
+894,Alfredo Tasca,1990-10-26,16125,high schools,F,68945,EuropaVerde,Induismo
+895,Alfredo Bataglia,1976-08-27,16092,middle schools,F,100400,Partito Democratico,Buddhismo
+896,Amalia Bajardi,1936-08-24,16111,middle schools,O,18732,Coraggio Italia,Induismo
+897,Rita Antonini,1968-09-25,16040,master degree,M,12103,Forza Italia,Confucianesimo
+898,Livia Brunelleschi-Valentino,1956-09-21,16167,middle schools,N/D,63119,Centro Democratico,Buddhismo
+899,Piersanti Camuccini,1943-02-07,16148,middle schools,N/D,21487,Coraggio Italia,Buddhismo
+900,Gioffre Balbi,1939-07-21,16126,middle schools,N/D,15251,Verdi,Induismo
+901,Pina Gibilisco,1976-05-16,16102,middle schools,O,108696,NoiModerati,Confucianesimo
+902,Tina Tornatore,1930-11-03,16166,high schools,M,30384,Italia Viva,Islam
+903,Lucia Vespa,1959-06-20,16134,middle schools,F,90196,PiuEuropa,Induismo
+904,Ettore Martinelli,1980-02-05,16154,high schools,F,18546,Radicali Italiani,Ateo
+905,Dott. Ansaldo Pisacane,1939-05-20,16048,elementary schools,N/D,44509,Italia Viva,Shintoismo
+906,Giorgia Gozzi,1965-11-08,16041,middle schools,N/D,85537,NoiModerati,Ateo
+907,Bianca Scamarcio,1954-10-24,16156,middle schools,M,81049,Fratelli di Italia,Islam
+908,Alderano Pertini,1994-05-15,16081,middle schools,F,114696,Lega Nord,Induismo
+909,Benvenuto Abba,1947-01-16,16159,elementary schools,M,33876,PiuEuropa,Buddhismo
+910,Flavia Marinetti-Maffei,1997-02-12,16124,middle schools,N/D,36730,Partito Democratico,Islam
+911,Dott. Adele Biagiotti,2004-06-27,16162,master degree,N/D,109019,NoiModerati,Shintoismo
+912,Stefano Morabito,1936-08-24,16144,elementary schools,O,117175,Italia Viva,Buddhismo
+913,Eugenia Zabarella,1963-07-13,16033,elementary schools,N/D,57188,EuropaVerde,Shintoismo
+914,Enzio Mortati,1990-05-16,16039,elementary schools,M,90842,Unione di centro,Buddhismo
+915,Liliana Medici,2004-02-05,16113,elementary schools,M,63168,Movimento 5 Stelle,Shintoismo
+916,Ornella Ricci,1950-04-13,16045,high schools,N/D,96960,Nuovo PSI,Shintoismo
+917,Gloria Luzi,1934-02-13,16138,middle schools,F,93900,Nuovo PSI,Confucianesimo
+918,Gabriella Marenzio,1974-06-16,16041,elementary schools,N/D,116962,EuropaVerde,Islam
+919,Roman Callegaro-Barsanti,1985-05-25,16164,bachelor degree,M,92121,Azione,Cristianesimo
+920,Dott. Paulina Ciampi,1994-09-13,16093,high schools,M,59723,Unione di centro,Confucianesimo
+921,Dott. Caterina Rossi,1963-04-05,16156,elementary schools,M,21246,Nuovo PSI,Buddhismo
+922,Puccio Orengo,1943-07-03,16099,elementary schools,N/D,35925,Sinistra Italiana,Induismo
+923,Hugo Palumbo,1955-05-28,16044,middle schools,N/D,83839,Forza Italia,Buddhismo
+924,Camilla Cagnin-Bellò,1994-10-13,16077,middle schools,M,99764,EuropaVerde,Induismo
+925,Marco Verri,1963-06-06,16103,elementary schools,M,119435,Verdi,Induismo
+926,Irma Volterra,1951-05-17,16135,phd,N/D,73781,Partito Comunista dei Lavoratori,Induismo
+927,Melina Mercalli-Corcos,1976-05-14,16055,bachelor degree,N/D,45814,Partito Comunista dei Lavoratori,Buddhismo
+928,Luigina Ajello,1985-07-24,16067,high schools,N/D,71359,EuropaVerde,Shintoismo
+929,Diana Catenazzi,1941-07-20,16042,middle schools,O,52458,Movimento Animalista,Shintoismo
+930,Morena Asmundo,2004-06-19,16109,middle schools,M,103350,Partito Democratico,Cristianesimo
+931,Dott. Milena Mattarella,1937-09-06,16108,master degree,N/D,63817,NoiModerati,Induismo
+932,Lolita Caironi,1999-03-15,16050,high schools,O,114362,Coraggio Italia,Buddhismo
+933,Eva Piovani,1999-12-03,16063,middle schools,M,118608,Italia Viva,Buddhismo
+934,Renata Fieramosca,1986-11-18,16103,middle schools,M,22061,Fratelli di Italia,Shintoismo
+935,Sonia Scamarcio,1950-09-28,16164,elementary schools,O,58000,Unione di centro,Shintoismo
+936,Eleanora Rosmini,2002-02-10,16046,bachelor degree,O,41491,EuropaVerde,Buddhismo
+937,Annetta Capecchi,1938-12-24,16131,middle schools,O,63937,NoiModerati,Islam
+938,Gelsomina Cignaroli,1961-08-01,16065,elementary schools,N/D,119323,Coraggio Italia,Islam
+939,Viridiana Legnante,1963-01-19,16034,elementary schools,M,77320,Azione,Islam
+940,Claudio Scarponi,1966-01-26,16080,middle schools,F,17383,Partito Comunista dei Lavoratori,Induismo
+941,Cassandra Battelli,2005-12-14,16154,high schools,F,13214,PiuEuropa,Induismo
+942,Valentina Torlonia,2006-01-18,16101,elementary schools,O,99147,Movimento Animalista,Confucianesimo
+943,Umberto Filogamo,1972-05-06,16146,elementary schools,N/D,113012,Unione di centro,Confucianesimo
+944,Sig.ra Paulina Scaduto,1954-12-20,16140,elementary schools,N/D,27825,Coraggio Italia,Confucianesimo
+945,Sig. Vincentio Greco,1931-08-12,16167,high schools,F,62684,Centro Democratico,Islam
+946,Rosa Gigli,1994-03-23,16152,bachelor degree,N/D,21812,Centristi per l'Europa,Buddhismo
+947,Donatella Caccianemico,1965-02-19,16133,master degree,F,113713,Partito Democratico,Confucianesimo
+948,Lisa Ricolfi,1970-06-22,16034,high schools,F,15198,Movimento Animalista,Induismo
+949,Nicoletta Gianetti,1958-05-28,16045,high schools,F,72185,Forza Italia,Shintoismo
+950,Dott. Pierluigi Parini,1971-07-22,16041,high schools,F,41572,Unione di centro,Buddhismo
+951,Stefania Greco,1987-10-18,16052,middle schools,F,115944,NoiModerati,Confucianesimo
+952,Arnulfo Fogazzaro,1988-03-02,16015,high schools,N/D,63717,Partito Comunista dei Lavoratori,Shintoismo
+953,Gino Civaschi,1954-12-09,16020,elementary schools,M,35517,Unione di centro,Islam
+954,Dott. Bianca Antonucci,1997-01-06,16138,high schools,N/D,81301,Movimento Animalista,Shintoismo
+955,Martino Mortati,2002-07-24,16167,middle schools,N/D,70076,Fratelli di Italia,Buddhismo
+956,Lara Gaito,1946-12-06,16123,elementary schools,N/D,67253,Coraggio Italia,Ateo
+957,Aria Pedroni,1950-09-06,16049,high schools,M,92033,Unione di centro,Confucianesimo
+958,Elena Marangoni,1946-02-14,16045,bachelor degree,F,82520,Forza Italia,Buddhismo
+959,Mirco Balbo,1999-07-27,16116,elementary schools,M,62830,Lega Nord,Islam
+960,Rodolfo Grimani,1934-12-25,16142,high schools,N/D,98656,PiuEuropa,Confucianesimo
+961,Evangelista Broschi,1930-06-27,16018,high schools,F,84434,Nuovo PSI,Buddhismo
+962,Raimondo Baracca,1945-09-15,16157,high schools,O,103484,Lega Nord,Induismo
+963,Laura Dellucci,1994-01-18,16099,high schools,N/D,43484,Partito Democratico,Islam
+964,Sole Luria,1988-08-24,16110,high schools,N/D,106358,Radicali Italiani,Confucianesimo
+965,Armando Ferrata,1976-06-15,16137,high schools,O,106943,Coraggio Italia,Induismo
+966,Damiano Leonardi,1991-08-05,16026,master degree,N/D,17804,Partito Comunista dei Lavoratori,Cristianesimo
+967,Donatella Bersani,1990-04-17,16165,master degree,M,25072,Democrazia solidale,Ateo
+968,Sig.ra Gemma Coppola,1937-11-04,16124,high schools,O,55135,Coraggio Italia,Confucianesimo
+969,Mariana Farnese,1995-09-08,16056,middle schools,M,34348,Centro Democratico,Ateo
+970,Fernanda Mattarella,1959-10-28,16051,elementary schools,N/D,57051,Nuovo PSI,Cristianesimo
+971,Angelica Tartaglia,2005-01-17,16023,elementary schools,F,81896,Verdi,Shintoismo
+972,Mirco Zamengo,1959-08-14,16015,high schools,O,54181,Fratelli di Italia,Induismo
+973,Achille Turci,1933-08-26,16139,elementary schools,M,102098,Partito Democratico,Shintoismo
+974,Maurilio Vitturi,1976-09-27,16116,elementary schools,O,77364,Verdi,Induismo
+975,Dott. Santino Treccani,1977-02-14,16060,elementary schools,F,28137,Nuovo PSI,Buddhismo
+976,Sig.ra Angelina Avogadro,1965-07-09,16110,master degree,O,28919,Movimento Animalista,Confucianesimo
+977,Sig. Vincentio Puglisi,2002-10-05,16052,high schools,O,118525,Radicali Italiani,Ateo
+978,Leone Balla-Jilani,2005-04-20,16056,middle schools,N/D,91422,Nuovo PSI,Cristianesimo
+979,Mariano Magrassi,2006-10-14,16090,elementary schools,O,59312,NoiModerati,Cristianesimo
+980,Marissa Modiano-Versace,1950-09-28,16021,middle schools,F,82580,Coraggio Italia,Islam
+981,Gastone Piazzi,2005-11-02,16019,high schools,O,22875,Forza Italia,Shintoismo
+982,Natalia Tremonti-Scarponi,1952-09-23,16112,master degree,N/D,114043,Lega Nord,Cristianesimo
+983,Fredo Battisti-Marazzi,1997-08-22,16094,elementary schools,N/D,76190,Movimento 5 Stelle,Buddhismo
+984,Elena Lanfranchi,1939-06-25,16010,master degree,F,119016,Lega Nord,Cristianesimo
+985,Dott. Maurilio Alboni,1954-04-23,16072,high schools,M,96958,Partito Democratico,Islam
+986,Amadeo Boitani,1995-08-24,16163,high schools,O,53672,Fratelli di Italia,Buddhismo
+987,Dario Offredi-Zoppetti,1960-12-24,16134,elementary schools,M,71408,Movimento Animalista,Cristianesimo
+988,Graziano Traversa,1959-11-20,16042,elementary schools,N/D,26587,NoiModerati,Buddhismo
+989,Dott. Evangelista Gualtieri,1983-11-09,16035,elementary schools,M,36243,Nuovo PSI,Shintoismo
+990,Eraldo Tartaglia,1968-08-25,16132,middle schools,M,55426,Radicali Italiani,Ateo
+991,Dott. Alessia Zampa,1990-04-08,16073,middle schools,O,39921,Radicali Italiani,Induismo
+992,Fedele Guglielmi,1938-05-20,16056,middle schools,N/D,52189,Italia Viva,Cristianesimo
+993,Sig.ra Rosina Mimun,1977-09-26,16019,high schools,O,65220,EuropaVerde,Induismo
+994,Luigina Borghese-Zamorani,1999-06-20,16095,elementary schools,N/D,41537,Movimento 5 Stelle,Induismo
+995,Dott. Lolita Togliatti,1973-06-07,16119,middle schools,N/D,119705,Unione di centro,Confucianesimo
+996,Raffaele Camicione,1980-10-19,16044,elementary schools,N/D,13571,Sinistra Italiana,Shintoismo
+997,Lina Gianetti,1935-11-12,16031,high schools,F,90058,NoiModerati,Ateo
+998,Antonina Pagnotto,1976-08-18,16036,middle schools,M,100145,Lega Nord,Islam
+999,Dott. Paulina Liverotti,1955-07-21,16039,high schools,M,18096,Azione,Confucianesimo

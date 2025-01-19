@@ -56,7 +56,4 @@ def generateDataset(n = 1000, filename = None):
 
     return generated
 
-#generateDataset(n = 33, filename = "dataset2.csv")
-#generateDataset(n = 1000, filename="dataset.csv")
-#generateDataset(n = 12, filename="dataset-small.csv")
-generateDataset(n = 100000, filename="dataset-big.csv")
+generateDataset(n = 1000, filename="dataset.csv")

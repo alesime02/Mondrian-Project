@@ -2,13 +2,6 @@ import csv
 import hashlib
 from datetime import datetime
 
-# Read the dataset
-dataset = []
-
-with open("dataset.csv", "r") as f:
-    for row in csv.DictReader(f):
-        dataset.append(row)
-
 # Function that tokenizes one-way a dataset's EIs
 def tokenize_dataset(dataset, EIs):
     tokenized_dataset = dataset[::]
@@ -45,5 +38,9 @@ education_tree["middle schools"] = "second grade schools"               # 9th pl
 education_tree["elementary schools"] = "under graduated"                # 10th place, index 9
 
 def generalize_function(value):
-    return education_tree[value]
+    if (value in education_tree):
+        return education_tree[value]
+    else:
+        print(str(value) + " not found in education_tree.")
+        exit()
 

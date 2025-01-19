@@ -5,48 +5,18 @@ import csv
 
 # random.seed(42)
 
-
-# Categorical attributes
-cities = ["Genova", "Milano", "Rome"]
-contries = ["Italy", "Germany", "France", "..."]
-
-#print(cities[random.randint(0, len(cities)-1)])
-print(random.choices(cities, weights=[2, 10, 12], k = 10))
-
-# Numerical attributes
-
-# Integer numerical attributes
-print(random.randint(1, 100))
-print(random.randint(1, 100))
-print(random.randint(1, 100))
-print(random.randint(0, 99))
-
-# Real numerical attributes
-print(random.random() * 100)
-
 fake = Faker('it_IT')
-for _ in range(10):
-    print(fake.name())
+political_parties = ["Partito Democratico", "Movimento 5 Stelle", "Lega Nord", "Fratelli di Italia", "Verdi",
+                     "Forza Italia", "Italia Viva", "Azione", "EuropaVerde", "Sinistra Italiana", "NoiModerati",
+                     "Unione di centro", "Coraggio Italia", "PiuEuropa", "Democrazia solidale", "Partito Comunista dei Lavoratori",
+                     "Radicali Italiani", "Nuovo PSI", "Centro Democratico", "Centristi per l'Europa", "Movimento Animalista"]
+religion = ["Ateo", "Cristianesimo", "Islam", "Buddhismo", "Induismo", "Confucianesimo", "Shintoismo"]
 
-'''
-ID (number, incremental, unique) <- EI 
-name, surname <- EI (string, categorical)
-
-birthday <- QI      (number)       01/01/1930 - 31/12/2023
-country <- QI       (categorical)  [list of countries]
-Zip code <- QI      (number)       16121 - 16167
-gender <- QI        (categorical)  [list of genders]
-education <- QI     (categorical)  [list of education]
-
-salary <- SD        (real number)        0 - 1000000
-height <- SD        (number)        120 - 200
-weight <- SD        (number)        40 - 150
-condition <- SD     (categorical)   [list condition]
-'''
-
-medial_conditions = ["hearth disease", "flu", "stomach", "headache", "backpain", "broken bones"]
 education = ["elementary schools", "middle schools", "high schools", "bachelor degree", "master degree", "phd"]
 genders = ["M", "F", "O", "N/D"]
+
+# Definizione dei pesi per ciascun livello di istruzione
+education_weights = [0.3, 0.3, 0.25, 0.05, 0.08, 0.02]
 
 def generateDataset(n = 1000, filename = None):
     generated = []
@@ -54,15 +24,13 @@ def generateDataset(n = 1000, filename = None):
         entry = {
             "id": i,
             "name": fake.name(),
-            "birthday": datetime.date(random.randint(1930, 2023), random.randint(1, 12), random.randint(1, 28)),
-            "country": fake.country(),
-            "zip-code": random.randint(16121, 16167),
+            "birthday": datetime.date(random.randint(1930, 2006), random.randint(1, 12), random.randint(1, 28)),
+            "zip-code": random.randint(16010, 16167),
+            "education": random.choices(education, weights=education_weights, k=1)[0],
             "gender": random.choice(genders),
-            "education": random.choice(education),
-            "salary": random.random() * 1000000,
-            "height": random.randint(120, 200),
-            "weight": random.randint(40, 150),
-            "condition": random.choice(medial_conditions)
+            "salary": random.randint(12000, 120000),
+            "favorite-party": random.choice(political_parties),
+            "religion": random.choice(religion)
         }
         generated.append(entry)
 
@@ -72,14 +40,12 @@ def generateDataset(n = 1000, filename = None):
                 "id",
                 "name",
                 "birthday",
-                "country",
                 "zip-code",
-                "gender",
                 "education",
+                "gender",
                 "salary",
-                "height",
-                "weight",
-                "condition"
+                "favorite-party",
+                "religion"
             ]
 
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -90,6 +56,7 @@ def generateDataset(n = 1000, filename = None):
 
     return generated
 
-generateDataset(n = 1000, filename="dataset.csv")
-
-generateDataset(n = 12, filename="dataset-small.csv")
+#generateDataset(n = 33, filename = "dataset2.csv")
+#generateDataset(n = 1000, filename="dataset.csv")
+#generateDataset(n = 12, filename="dataset-small.csv")
+generateDataset(n = 100000, filename="dataset-big.csv")

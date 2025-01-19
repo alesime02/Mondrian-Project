@@ -1,5 +1,6 @@
 from kanon import is_k_anon
 import generalize as gen
+from generate import generateDataset
 import mondrian_functions as mf
 
 education_list = list(gen.education_tree)
@@ -77,6 +78,10 @@ def mondrianAnon(dataset, QIs, K):
 
 # ---------------------------------------------------------------------------------------
 # Reading dataset
+
+# Uncomment if there's need to generate a new dataset
+# generateDataset(n = 1000, filename="dataset.csv")
+
 dataset = None
 dataset = mf.read_csv_if_exists("dataset.csv")
 if (dataset == None):
@@ -123,26 +128,51 @@ print("Upperbound to respect: " + str(C_avg) + " <= " + str(upperbound))
 
 
 # ---------------------------------------------------------------------------------------
-# Plot C_avg in function of k
-k_values = range(1, 1001)
-C_avg_values = []
-for k_for_plot in k_values:
-    result_for_plot = mondrianAnon(dataset, QIs, k_for_plot)
-    num_equivalence_classes_for_plot = mf.count_equivalence_classes(result_for_plot, QIs)
-    C_avg_for_plot = (len(dataset) / num_equivalence_classes_for_plot) / k_for_plot
-    C_avg_values.append(C_avg_for_plot)
-
-fig1 = mf.plot_graph(k_values, C_avg_values, "k values wrt c_avg values", "k values", "C_avg values")
-fig1.show()
-# ---------------------------------------------------------------------------------------
-
-
-
-
-
-# ---------------------------------------------------------------------------------------
 # Writes the result in a .csv file
 output_file = "dataset-anonimized.csv"
 mf.write_to_csv(result, output_file)
 print(f"The resultant table is exported in: '{output_file}'")
+# ---------------------------------------------------------------------------------------
+
+
+
+
+
+# Uncomment if you want to see the plot of C_avg in function of k variation
+
+# ---------------------------------------------------------------------------------------
+# Plot C_avg in function of k
+# k_values = range(1, 1001)
+# C_avg_values = []
+# for k_for_plot in k_values:
+#     result_for_plot = mondrianAnon(dataset, QIs, k_for_plot)
+#     num_equivalence_classes_for_plot = mf.count_equivalence_classes(result_for_plot, QIs)
+#     C_avg_for_plot = (len(dataset) / num_equivalence_classes_for_plot) / k_for_plot
+#     C_avg_values.append(C_avg_for_plot)
+
+# fig1 = mf.plot_graph(k_values, C_avg_values, "k values wrt c_avg values", "K values", "C_avg values", "number of rows", "C_avg values")
+# fig1.show()
+# ---------------------------------------------------------------------------------------
+
+
+
+
+
+# Uncomment if you want to see the plot of C_avg in function of number of rows variation
+
+# ---------------------------------------------------------------------------------------
+# Plot C_avg in function of the number of rows
+# row_numbers = range(30, 50)
+# k_for_plot = 3
+# C_avg_values = []
+# for number_of_rows in row_numbers:
+#     generateDataset(number_of_rows, "dataset_for_plot.csv")
+#     dataset_for_plot = mf.read_csv_if_exists("dataset_for_plot.csv")
+#     result_for_plot = mondrianAnon(dataset_for_plot, QIs, k_for_plot)
+#     num_equivalence_classes_for_plot = mf.count_equivalence_classes(result_for_plot, QIs)
+#     C_avg_for_plot = (number_of_rows / num_equivalence_classes_for_plot) / k_for_plot
+#     C_avg_values.append(C_avg_for_plot)
+
+# fig1 = mf.plot_graph(row_numbers, C_avg_values, "number of rows wrt c_avg values", "Row number", "C_avg values", "number of rows", "C_avg values")
+# fig1.show()
 # ---------------------------------------------------------------------------------------

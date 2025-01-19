@@ -3,8 +3,6 @@ from faker import Faker
 import datetime
 import csv
 
-# random.seed(42)
-
 fake = Faker('it_IT')
 political_parties = ["Partito Democratico", "Movimento 5 Stelle", "Lega Nord", "Fratelli di Italia", "Verdi",
                      "Forza Italia", "Italia Viva", "Azione", "EuropaVerde", "Sinistra Italiana", "NoiModerati",
@@ -15,7 +13,6 @@ religion = ["Ateo", "Cristianesimo", "Islam", "Buddhismo", "Induismo", "Confucia
 education = ["elementary schools", "middle schools", "high schools", "bachelor degree", "master degree", "phd"]
 genders = ["M", "F", "O", "N/D"]
 
-# Definizione dei pesi per ciascun livello di istruzione
 education_weights = [0.3, 0.3, 0.25, 0.05, 0.08, 0.02]
 
 def generateDataset(n = 1000, filename = None):
@@ -55,5 +52,3 @@ def generateDataset(n = 1000, filename = None):
                 writer.writerow(row)
 
     return generated
-
-generateDataset(n = 1000, filename="dataset.csv")

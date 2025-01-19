@@ -1,0 +1,50 @@
+id,name,birthday,zip-code,education,gender,salary,favorite-party,religion
+0,Luca Anguillara-Camiscione,1994-08-08,16055,middle schools,F,97891,Lega Nord,Shintoismo
+1,Morena Verga,1934-04-06,16046,middle schools,N/D,115006,Centro Democratico,Shintoismo
+2,Giacobbe Migliaccio,1952-01-26,16151,master degree,O,55807,Lega Nord,Shintoismo
+3,Michela Cheda,1949-03-02,16121,middle schools,O,97316,Nuovo PSI,Induismo
+4,Lando Torricelli,1992-02-13,16109,elementary schools,O,52227,PiuEuropa,Confucianesimo
+5,Bianca Argento,1950-05-10,16085,bachelor degree,O,79765,Italia Viva,Ateo
+6,Fabio Padovano,1997-02-06,16016,bachelor degree,O,118717,NoiModerati,Ateo
+7,Donna Donati,2004-03-21,16107,middle schools,N/D,44070,Forza Italia,Shintoismo
+8,Emma Garrone-Cantimori,1963-06-28,16057,phd,O,68919,Centristi per l'Europa,Buddhismo
+9,Gianpietro Pirelli,1993-01-08,16122,middle schools,O,105959,Lega Nord,Buddhismo
+10,Stefani Siffredi,1958-12-28,16135,middle schools,M,51412,Lega Nord,Cristianesimo
+11,Sonia Giradello,1939-12-23,16027,middle schools,N/D,70760,Coraggio Italia,Buddhismo
+12,Eva Paganini,1986-12-04,16139,high schools,N/D,74842,Unione di centro,Shintoismo
+13,Federica Perini,1970-07-28,16059,middle schools,M,57630,Lega Nord,Cristianesimo
+14,Paoletta Romano,1946-10-26,16074,elementary schools,N/D,119916,Coraggio Italia,Buddhismo
+15,Silvestro Carriera,1976-10-26,16028,phd,N/D,22676,Partito Comunista dei Lavoratori,Buddhismo
+16,Tiziano Mascagni,1951-08-11,16087,high schools,F,70049,Movimento 5 Stelle,Islam
+17,Pina Mannoia-Piccinni,1931-09-14,16128,elementary schools,O,29023,Centristi per l'Europa,Buddhismo
+18,Nadia Doglioni,1941-11-05,16118,middle schools,M,30261,Azione,Islam
+19,Milena Porcellato-Guidone,1990-04-08,16026,high schools,O,99202,Coraggio Italia,Islam
+20,Calogero Bellini,1972-03-17,16015,master degree,O,107137,Partito Democratico,Ateo
+21,Dott. Giuliana Zampa,1956-01-01,16136,middle schools,F,82244,Democrazia solidale,Confucianesimo
+22,Dott. Rembrandt Offredi,2000-01-05,16065,elementary schools,O,100318,Fratelli di Italia,Islam
+23,Anita Simeoni,1934-01-10,16095,elementary schools,O,25193,Forza Italia,Induismo
+24,Alina Trupiano,1969-04-20,16091,bachelor degree,M,48816,Partito Comunista dei Lavoratori,Induismo
+25,Annibale Schicchi-Iannotti,1999-03-25,16117,master degree,N/D,82589,NoiModerati,Confucianesimo
+26,Amanda Cerquiglini,1968-06-04,16164,bachelor degree,N/D,102835,Italia Viva,Buddhismo
+27,Alessio Togliatti-Endrizzi,1930-06-13,16150,high schools,M,87839,Centristi per l'Europa,Buddhismo
+28,Fortunata Ricci-Mogherini,1937-09-14,16084,high schools,N/D,69184,Verdi,Cristianesimo
+29,Giuliana Musatti,1956-05-25,16070,elementary schools,N/D,16095,NoiModerati,Cristianesimo
+30,Fulvio Morpurgo,1990-12-15,16115,middle schools,O,40145,Nuovo PSI,Islam
+31,Melina Foà,1982-08-01,16085,bachelor degree,M,47299,Sinistra Italiana,Shintoismo
+32,Paulina Baroffio,1975-11-18,16153,elementary schools,N/D,80115,Forza Italia,Induismo
+33,Piergiorgio Luciani,1997-03-18,16038,middle schools,O,95476,Verdi,Ateo
+34,Letizia Bonomo,1960-01-21,16041,middle schools,O,45774,Radicali Italiani,Shintoismo
+35,Vito Caracciolo,1997-04-25,16024,high schools,N/D,61007,PiuEuropa,Shintoismo
+36,Renata Magrassi,1950-09-20,16078,high schools,F,77356,Forza Italia,Buddhismo
+37,Fabrizio Prati-Bondumier,1965-03-13,16146,high schools,O,60856,Azione,Ateo
+38,Donna Carfagna,1992-03-15,16167,elementary schools,N/D,31566,Partito Democratico,Shintoismo
+39,Alessio Roccabonella,1947-02-02,16112,high schools,M,52052,Movimento Animalista,Shintoismo
+40,Gaetano Sauro,1979-07-15,16012,middle schools,M,18623,Radicali Italiani,Islam
+41,Ezio Zaguri,1959-12-07,16045,elementary schools,F,96856,Centro Democratico,Islam
+42,Leonardo Napolitano,1955-07-11,16154,middle schools,N/D,47197,Nuovo PSI,Shintoismo
+43,Eleanora Dibiasi,1976-01-01,16114,high schools,N/D,93715,Democrazia solidale,Buddhismo
+44,Rossana Pincherle,1984-09-17,16054,middle schools,O,83929,Centristi per l'Europa,Buddhismo
+45,Michelotto Antelami,1953-09-06,16140,high schools,N/D,27821,Sinistra Italiana,Islam
+46,Susanna Pezzali,1936-03-22,16165,middle schools,O,98627,Sinistra Italiana,Shintoismo
+47,Augusto Verga-Forza,1986-05-16,16142,elementary schools,N/D,37680,Sinistra Italiana,Ateo
+48,Dionigi Alighieri-Balbi,1988-05-24,16012,high schools,M,70908,Movimento Animalista,Confucianesimo

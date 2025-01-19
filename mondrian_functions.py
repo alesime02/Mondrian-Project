@@ -5,8 +5,8 @@ import os
 
 education_list = list(gen.education_tree)
 
-def plot_graph(input_on_x, input_on_y, title, x_name, y_name):
-    fig1 = px.line(x=input_on_x, y=input_on_y, width=800, height=500, labels={'x': x_name, 'y':y_name})
+def plot_graph(input_on_x, input_on_y, title, x_name, y_name, graph_hover_name_x, graph_hover_name_y):
+    fig1 = px.line(x=input_on_x, y=input_on_y, width=800, height=500, labels={'x': graph_hover_name_x, 'y':graph_hover_name_y})
     fig1.update_traces(line=dict(color='royalblue', width=3, dash='solid'))
     fig1.update_layout(
     title=dict(
@@ -15,14 +15,14 @@ def plot_graph(input_on_x, input_on_y, title, x_name, y_name):
         x=0.5,
     ),
     xaxis=dict(
-        title="K values",
+        title=x_name,
         titlefont=dict(size=18, color="darkblue"),
         tickfont=dict(size=14, color="black"),
         showgrid=True, 
         gridcolor="lightgray",
     ),
     yaxis=dict(
-        title="C_avg values",
+        title=y_name,
         titlefont=dict(size=18, color="darkblue"),
         tickfont=dict(size=14, color="black"),
         showgrid=True,  

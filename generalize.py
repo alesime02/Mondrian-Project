@@ -1,6 +1,6 @@
 import csv
 import hashlib
-import datetime
+from datetime import datetime
 
 # Read the dataset
 dataset = []
@@ -67,30 +67,27 @@ tokenized_dataset, mapping_values = tokenize2_dataset(dataset[:5], ["name"])
 #print("UNTOKENIZED", mapping_values[tokenized_dataset[0]["name"]])
 
 
-# hierarchy tree of education
+# Hierarchy tree of education_tree
 education_tree = {}
 
-# Suppressed attribute, no value (root)
-education_tree["-"] = "-"
+education_tree["-"] = "-"                                               # 1st place, index 0
 
-# First level of the tree
-education_tree["any degree"] = "-"
-education_tree["no degree"] = "-"
+# 1st level
+education_tree["graduated"] = "-"                                       # 2nd place, index 1
+education_tree["under graduated"] = "-"                                 # 3rd place, index 2
+ 
+# 2nd level
+education_tree["phd"] = "graduated"                                     # 4th place, index 3
+education_tree["master degree"] = "graduated"                           # 5th place, index 4
+education_tree["bachelor degree"] = "graduated"                         # 6th place, index 5
+education_tree["second grade schools"] = "under graduated"              # 7th place, index 6
 
-# Second level of the tree
-education_tree["grad schools"] = "any degree"
-education_tree["bachelors"] = "any degree"
-education_tree["undergraduate"] = "no degree"
+# Leaves
+education_tree["high schools"] = "second grade schools"                 # 8th place, index 7
+education_tree["middle schools"] = "second grade schools"               # 9th place, index 8
+education_tree["elementary schools"] = "under graduated"                # 10th place, index 9
 
-# Leafs
-education_tree["doctorate"] = "grad schools"
-education_tree["master degree"] = "grad schools"
-education_tree["bachelor degree"] = "bachelors"
-education_tree["phd"] = "grad schools"
-
-education_tree["elementary schools"] = "undergraduate"
-education_tree["middle schools"] = "undergraduate"
-education_tree["high schools"] = "undergraduate"
+print(list(education_tree).index("elementary schools"))
 
 def age_generalization(date):
     # Counts the number of dashes in input: if one then it's a range, if two then it's a date
@@ -126,9 +123,9 @@ def generalize_function(value):
 
 '''
 print("GENERALIZE ELEMENTARY x0", "Elementary school")
-print("GENERALIZE ELEMENTARY x1", generalize_function(education_tree, "Elementary school"))
-print("GENERALIZE ELEMENTARY x2", generalize_function(education_tree, generalize_function(education_tree, "Elementary school")))
-print("GENERALIZE ELEMENTARY x3", generalize_function(education_tree, generalize_function(education_tree, generalize_function(education_tree, "Elementary school"))))
+print("GENERALIZE ELEMENTARY x1", generalize_function(education_tree_tree, "Elementary school"))
+print("GENERALIZE ELEMENTARY x2", generalize_function(education_tree_tree, generalize_function(education_tree_tree, "Elementary school")))
+print("GENERALIZE ELEMENTARY x3", generalize_function(education_tree_tree, generalize_function(education_tree_tree, generalize_function(education_tree_tree, "Elementary school"))))
 '''
 
 '''

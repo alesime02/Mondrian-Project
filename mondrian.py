@@ -129,7 +129,7 @@ print("Upperbound to respect: " + str(C_avg) + " <= " + str(upperbound))
 
 # ---------------------------------------------------------------------------------------
 # Writes the result in a .csv file
-output_file = "dataset_anonymized2.csv"
+output_file = "dataset_anonymized.csv"
 mf.write_to_csv(result, output_file)
 print(f"The resultant table is exported in: '{output_file}'")
 # ---------------------------------------------------------------------------------------

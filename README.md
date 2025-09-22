@@ -33,6 +33,15 @@ Clone this repository:
 git clone https://github.com/alesime02/Mondrian-Project
 cd Mondrian-Project
 ```
+Then install `faker` in order to use the generator of realistic randomized data:
+```bash
+pip install faker
+```
+Install also `numpy` which is needed in order to install `plotly`. This last one was used in order to have final metrics plotted on screen:
+```bash
+pip install numpy
+pip install plotly
+```
 
 ## Usage
 Run using:

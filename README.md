@@ -1,5 +1,6 @@
 # Mondrian K-Anonymity Implementation
-#### DIBRIS - Università degli Studi di Genova - Data Protection and Privacy - Exam Project
+## L. Galleano, A. Simeoni, E. G. M. Valente
+##### DIBRIS - Università degli Studi di Genova - Data Protection and Privacy - Exam Project
 
 This project implements the Mondrian algorithm, a spatial partitioning technique for achieving k-anonymity on datasets containing sensitive information. The algorithm generalizes identifying attributes (Quasi-Identifiers) to protect the privacy of individuals in the dataset.
 The whole project has been done following [the paper](https://pages.cs.wisc.edu/~lefevre/MultiDim.pdf).
